@@ -1,0 +1,4901 @@
+fileFormatVersion: 2
+guid: c6bc593027d617245b61e07cad24b74d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2983853317124740686
+    second: HumanSouls_SpriteVer_0
+  - first:
+      213: -7892922017399742579
+    second: HumanSouls_SpriteVer_1
+  - first:
+      213: -5958209034264323826
+    second: HumanSouls_SpriteVer_2
+  - first:
+      213: -8929925345708060067
+    second: HumanSouls_SpriteVer_3
+  - first:
+      213: 7984745927150356399
+    second: HumanSouls_SpriteVer_4
+  - first:
+      213: 1332638661426304720
+    second: HumanSouls_SpriteVer_5
+  - first:
+      213: -952233604905862389
+    second: HumanSouls_SpriteVer_6
+  - first:
+      213: -5783815778464099733
+    second: HumanSouls_SpriteVer_7
+  - first:
+      213: 2530833696577137417
+    second: HumanSouls_SpriteVer_8
+  - first:
+      213: 368466500518665993
+    second: HumanSouls_SpriteVer_9
+  - first:
+      213: -853854956626998567
+    second: HumanSouls_SpriteVer_10
+  - first:
+      213: -4265186624354937160
+    second: HumanSouls_SpriteVer_11
+  - first:
+      213: 1171245437145085659
+    second: HumanSouls_SpriteVer_12
+  - first:
+      213: -2421377634834689063
+    second: HumanSouls_SpriteVer_13
+  - first:
+      213: -6629833816008368591
+    second: HumanSouls_SpriteVer_14
+  - first:
+      213: -3841974923840241619
+    second: HumanSouls_SpriteVer_15
+  - first:
+      213: 5662743311628974624
+    second: HumanSouls_SpriteVer_16
+  - first:
+      213: -1047702422449774557
+    second: HumanSouls_SpriteVer_17
+  - first:
+      213: 8893665599120072781
+    second: HumanSouls_SpriteVer_18
+  - first:
+      213: -8914719854975194165
+    second: HumanSouls_SpriteVer_19
+  - first:
+      213: -3461058783625174746
+    second: HumanSouls_SpriteVer_20
+  - first:
+      213: 446266722493260803
+    second: HumanSouls_SpriteVer_21
+  - first:
+      213: 1744992979735074863
+    second: HumanSouls_SpriteVer_22
+  - first:
+      213: -5493219354149249877
+    second: HumanSouls_SpriteVer_23
+  - first:
+      213: 1332679229568576543
+    second: HumanSouls_SpriteVer_24
+  - first:
+      213: -7464574570816462821
+    second: HumanSouls_SpriteVer_25
+  - first:
+      213: 7775391401037907676
+    second: HumanSouls_SpriteVer_26
+  - first:
+      213: -5215110367365131101
+    second: HumanSouls_SpriteVer_27
+  - first:
+      213: 3834535444313719709
+    second: HumanSouls_SpriteVer_28
+  - first:
+      213: 8598400665233720386
+    second: HumanSouls_SpriteVer_29
+  - first:
+      213: -5940799961226516321
+    second: HumanSouls_SpriteVer_30
+  - first:
+      213: 886562700955599802
+    second: HumanSouls_SpriteVer_31
+  - first:
+      213: 6911817346581340938
+    second: HumanSouls_SpriteVer_32
+  - first:
+      213: -6757159708629565475
+    second: HumanSouls_SpriteVer_33
+  - first:
+      213: -2655665756891131122
+    second: HumanSouls_SpriteVer_34
+  - first:
+      213: -6210712895303478197
+    second: HumanSouls_SpriteVer_35
+  - first:
+      213: 7275701373673255115
+    second: HumanSouls_SpriteVer_36
+  - first:
+      213: 594672403208088952
+    second: HumanSouls_SpriteVer_37
+  - first:
+      213: 1301011052132820413
+    second: HumanSouls_SpriteVer_38
+  - first:
+      213: 5279135692116431534
+    second: HumanSouls_SpriteVer_39
+  - first:
+      213: 2382606775592557404
+    second: HumanSouls_SpriteVer_40
+  - first:
+      213: 5421189036814278778
+    second: HumanSouls_SpriteVer_41
+  - first:
+      213: 6608722465892769333
+    second: HumanSouls_SpriteVer_42
+  - first:
+      213: -8790477768335670791
+    second: HumanSouls_SpriteVer_43
+  - first:
+      213: 1896773406894002235
+    second: HumanSouls_SpriteVer_44
+  - first:
+      213: 2650300032838261765
+    second: HumanSouls_SpriteVer_45
+  - first:
+      213: -4770087412887862049
+    second: HumanSouls_SpriteVer_46
+  - first:
+      213: -6691344091395975167
+    second: HumanSouls_SpriteVer_47
+  - first:
+      213: 4202941753845593698
+    second: HumanSouls_SpriteVer_48
+  - first:
+      213: 2841881194668260601
+    second: HumanSouls_SpriteVer_49
+  - first:
+      213: -2180696637683697791
+    second: HumanSouls_SpriteVer_50
+  - first:
+      213: -2194522698259027996
+    second: HumanSouls_SpriteVer_51
+  - first:
+      213: 990385474957127737
+    second: HumanSouls_SpriteVer_52
+  - first:
+      213: -6994618815985832683
+    second: HumanSouls_SpriteVer_53
+  - first:
+      213: 2311819876764967215
+    second: HumanSouls_SpriteVer_54
+  - first:
+      213: 9045659874605026994
+    second: HumanSouls_SpriteVer_55
+  - first:
+      213: 1711089705481067223
+    second: HumanSouls_SpriteVer_56
+  - first:
+      213: 8777612066693862293
+    second: HumanSouls_SpriteVer_57
+  - first:
+      213: 5358329010769857543
+    second: HumanSouls_SpriteVer_58
+  - first:
+      213: 8665650547237234327
+    second: HumanSouls_SpriteVer_59
+  - first:
+      213: 3865329911046935793
+    second: HumanSouls_SpriteVer_60
+  - first:
+      213: -7112177252107628738
+    second: HumanSouls_SpriteVer_61
+  - first:
+      213: 2900074621715804771
+    second: HumanSouls_SpriteVer_62
+  - first:
+      213: -6729555268074889186
+    second: HumanSouls_SpriteVer_63
+  - first:
+      213: 1322734204744495890
+    second: HumanSouls_SpriteVer_64
+  - first:
+      213: -3137041947622499585
+    second: HumanSouls_SpriteVer_65
+  - first:
+      213: -6798178691292135478
+    second: HumanSouls_SpriteVer_66
+  - first:
+      213: -4306293959861865111
+    second: HumanSouls_SpriteVer_67
+  - first:
+      213: -8427623215711305284
+    second: HumanSouls_SpriteVer_68
+  - first:
+      213: 8475419020745965080
+    second: HumanSouls_SpriteVer_69
+  - first:
+      213: 3000306979902053988
+    second: HumanSouls_SpriteVer_70
+  - first:
+      213: -7415408637296332187
+    second: HumanSouls_SpriteVer_71
+  - first:
+      213: 4898084595779779386
+    second: HumanSouls_SpriteVer_72
+  - first:
+      213: -8912461678173711037
+    second: HumanSouls_SpriteVer_73
+  - first:
+      213: -3715691394507704532
+    second: HumanSouls_SpriteVer_74
+  - first:
+      213: 6305586003056043505
+    second: HumanSouls_SpriteVer_75
+  - first:
+      213: 4453604575470009232
+    second: HumanSouls_SpriteVer_76
+  - first:
+      213: 4378651181215709152
+    second: HumanSouls_SpriteVer_77
+  - first:
+      213: -1977954956418788887
+    second: HumanSouls_SpriteVer_78
+  - first:
+      213: -3793791398229834283
+    second: HumanSouls_SpriteVer_79
+  - first:
+      213: 338419589622797036
+    second: HumanSouls_SpriteVer_80
+  - first:
+      213: -70312852006874151
+    second: HumanSouls_SpriteVer_81
+  - first:
+      213: -5986106630503779736
+    second: HumanSouls_SpriteVer_82
+  - first:
+      213: 4769863326685676634
+    second: HumanSouls_SpriteVer_83
+  - first:
+      213: 955996642116262705
+    second: HumanSouls_SpriteVer_84
+  - first:
+      213: 1272616660150669039
+    second: HumanSouls_SpriteVer_85
+  - first:
+      213: 3949598321011406924
+    second: HumanSouls_SpriteVer_86
+  - first:
+      213: 6689322640735106166
+    second: HumanSouls_SpriteVer_87
+  - first:
+      213: -8400098446252744932
+    second: HumanSouls_SpriteVer_88
+  - first:
+      213: 4283563958812513451
+    second: HumanSouls_SpriteVer_89
+  - first:
+      213: -6809097817060389575
+    second: HumanSouls_SpriteVer_90
+  - first:
+      213: 1585062712960071433
+    second: HumanSouls_SpriteVer_91
+  - first:
+      213: -1040713207557277849
+    second: HumanSouls_SpriteVer_92
+  - first:
+      213: 4467709692533592244
+    second: HumanSouls_SpriteVer_93
+  - first:
+      213: 1081585039566490896
+    second: HumanSouls_SpriteVer_94
+  - first:
+      213: 9195029270284561639
+    second: HumanSouls_SpriteVer_95
+  - first:
+      213: 7213204928144915866
+    second: HumanSouls_SpriteVer_96
+  - first:
+      213: -8469980966343092562
+    second: HumanSouls_SpriteVer_97
+  - first:
+      213: -7168563370863959257
+    second: HumanSouls_SpriteVer_98
+  - first:
+      213: 2258148761269019082
+    second: HumanSouls_SpriteVer_99
+  - first:
+      213: 3412207969340978000
+    second: HumanSouls_SpriteVer_100
+  - first:
+      213: -4527346537217051529
+    second: HumanSouls_SpriteVer_101
+  - first:
+      213: -6754611387747243666
+    second: HumanSouls_SpriteVer_102
+  - first:
+      213: 6530580615275395138
+    second: HumanSouls_SpriteVer_103
+  - first:
+      213: 5859455986371476777
+    second: HumanSouls_SpriteVer_104
+  - first:
+      213: -4318934680623918242
+    second: HumanSouls_SpriteVer_105
+  - first:
+      213: 3095083314673712482
+    second: HumanSouls_SpriteVer_106
+  - first:
+      213: 8547376362963174436
+    second: HumanSouls_SpriteVer_107
+  - first:
+      213: -2232860582550175312
+    second: HumanSouls_SpriteVer_108
+  - first:
+      213: 3696411386951948753
+    second: HumanSouls_SpriteVer_109
+  - first:
+      213: -650549174900732173
+    second: HumanSouls_SpriteVer_110
+  - first:
+      213: -2281607201382889409
+    second: HumanSouls_SpriteVer_111
+  - first:
+      213: 715469736969991762
+    second: HumanSouls_SpriteVer_112
+  - first:
+      213: -6396706440523362853
+    second: HumanSouls_SpriteVer_113
+  - first:
+      213: 7808721382368557252
+    second: HumanSouls_SpriteVer_114
+  - first:
+      213: 6166604601714180079
+    second: HumanSouls_SpriteVer_115
+  - first:
+      213: -2884857948667561641
+    second: HumanSouls_SpriteVer_116
+  - first:
+      213: 2850406537945540769
+    second: HumanSouls_SpriteVer_117
+  - first:
+      213: 2397210987918696140
+    second: HumanSouls_SpriteVer_118
+  - first:
+      213: -352992991925015266
+    second: HumanSouls_SpriteVer_119
+  - first:
+      213: 9190600203282696082
+    second: HumanSouls_SpriteVer_120
+  - first:
+      213: 4129413169485919291
+    second: HumanSouls_SpriteVer_121
+  - first:
+      213: 2834904845573995766
+    second: HumanSouls_SpriteVer_122
+  - first:
+      213: 724222673911069635
+    second: HumanSouls_SpriteVer_123
+  - first:
+      213: -1279949845065358819
+    second: HumanSouls_SpriteVer_124
+  - first:
+      213: -1406846172129570531
+    second: HumanSouls_SpriteVer_125
+  - first:
+      213: -4754483052264619716
+    second: HumanSouls_SpriteVer_126
+  - first:
+      213: -7062857397677820460
+    second: HumanSouls_SpriteVer_127
+  - first:
+      213: -6654447801987236013
+    second: HumanSouls_SpriteVer_128
+  - first:
+      213: -4084159225896012037
+    second: HumanSouls_SpriteVer_129
+  - first:
+      213: -712269019995798114
+    second: HumanSouls_SpriteVer_130
+  - first:
+      213: 4476160260524519505
+    second: HumanSouls_SpriteVer_131
+  - first:
+      213: 681282483638464363
+    second: HumanSouls_SpriteVer_132
+  - first:
+      213: 7063565080790589983
+    second: HumanSouls_SpriteVer_133
+  - first:
+      213: -3688315138729209250
+    second: HumanSouls_SpriteVer_134
+  - first:
+      213: 5914795279453971823
+    second: HumanSouls_SpriteVer_135
+  - first:
+      213: -9073210744321297192
+    second: HumanSouls_SpriteVer_136
+  - first:
+      213: -2608430663699731641
+    second: HumanSouls_SpriteVer_137
+  - first:
+      213: 2115272581674767695
+    second: HumanSouls_SpriteVer_138
+  - first:
+      213: 878472389418032617
+    second: HumanSouls_SpriteVer_139
+  - first:
+      213: -6695996456123755254
+    second: HumanSouls_SpriteVer_140
+  - first:
+      213: 3664901884484938126
+    second: HumanSouls_SpriteVer_141
+  - first:
+      213: -2088424512967780501
+    second: HumanSouls_SpriteVer_142
+  - first:
+      213: -1584628678376744834
+    second: HumanSouls_SpriteVer_143
+  - first:
+      213: -7705403865673078233
+    second: HumanSouls_SpriteVer_144
+  - first:
+      213: -8420405964940873541
+    second: HumanSouls_SpriteVer_145
+  - first:
+      213: 7791410148751529398
+    second: HumanSouls_SpriteVer_146
+  - first:
+      213: 1101436664952151843
+    second: HumanSouls_SpriteVer_147
+  - first:
+      213: -2967920772418251773
+    second: HumanSouls_SpriteVer_148
+  - first:
+      213: -6720895831481403129
+    second: HumanSouls_SpriteVer_149
+  - first:
+      213: -8959607424363319688
+    second: HumanSouls_SpriteVer_150
+  - first:
+      213: -1695600073978739483
+    second: HumanSouls_SpriteVer_151
+  - first:
+      213: 9023385582484917083
+    second: HumanSouls_SpriteVer_152
+  - first:
+      213: 515843129406779325
+    second: HumanSouls_SpriteVer_153
+  - first:
+      213: -2195171559949507115
+    second: HumanSouls_SpriteVer_154
+  - first:
+      213: -1685273411495986351
+    second: HumanSouls_SpriteVer_155
+  - first:
+      213: 3372859011004731692
+    second: HumanSouls_SpriteVer_156
+  - first:
+      213: 5140758782430883238
+    second: HumanSouls_SpriteVer_157
+  - first:
+      213: -8791732330944863037
+    second: HumanSouls_SpriteVer_158
+  - first:
+      213: 3895016499630560002
+    second: HumanSouls_SpriteVer_159
+  - first:
+      213: -6397206767033768100
+    second: HumanSouls_SpriteVer_160
+  - first:
+      213: 3827271851998115459
+    second: HumanSouls_SpriteVer_161
+  - first:
+      213: 1246901331537893784
+    second: HumanSouls_SpriteVer_162
+  - first:
+      213: -8666463858626382853
+    second: HumanSouls_SpriteVer_163
+  - first:
+      213: -3619358911808288790
+    second: HumanSouls_SpriteVer_164
+  - first:
+      213: 2927425940300537976
+    second: HumanSouls_SpriteVer_165
+  - first:
+      213: -6727249630207485832
+    second: HumanSouls_SpriteVer_166
+  - first:
+      213: 348852390140045700
+    second: HumanSouls_SpriteVer_167
+  - first:
+      213: -4654062609480620468
+    second: HumanSouls_SpriteVer_168
+  - first:
+      213: 4358392422109624109
+    second: HumanSouls_SpriteVer_169
+  - first:
+      213: 228886975979087634
+    second: HumanSouls_SpriteVer_170
+  - first:
+      213: 8892823595541039836
+    second: HumanSouls_SpriteVer_171
+  - first:
+      213: -1781021016062167522
+    second: HumanSouls_SpriteVer_172
+  - first:
+      213: -6432971593210583980
+    second: HumanSouls_SpriteVer_173
+  - first:
+      213: 936323326950676603
+    second: HumanSouls_SpriteVer_174
+  - first:
+      213: -2486563406061825210
+    second: HumanSouls_SpriteVer_175
+  - first:
+      213: 5485322616859056553
+    second: HumanSouls_SpriteVer_176
+  - first:
+      213: 77278351939339221
+    second: HumanSouls_SpriteVer_177
+  - first:
+      213: -8234571715710962391
+    second: HumanSouls_SpriteVer_178
+  - first:
+      213: -7429313540883763377
+    second: HumanSouls_SpriteVer_179
+  - first:
+      213: -7262352766021436161
+    second: HumanSouls_SpriteVer_180
+  - first:
+      213: -795663334432588156
+    second: HumanSouls_SpriteVer_181
+  - first:
+      213: -8286123539802365207
+    second: HumanSouls_SpriteVer_182
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 498
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9a8ea97393796d0800000000000000
+      internalID: -2983853317124740686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 498
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f57016e35b67290800000000000000
+      internalID: -7892922017399742579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 498
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09d6278370305da0800000000000000
+      internalID: -5958209034264323826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_3
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 498
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52505af538821480800000000000000
+      internalID: -8929925345708060067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 479
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa74b81ad148fce60800000000000000
+      internalID: 7984745927150356399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_5
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 479
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6544c4dcb7e7210800000000000000
+      internalID: 1332638661426304720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_6
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 490
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b756cd49cf8c2f0800000000000000
+      internalID: -952233604905862389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_7
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 490
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6219568132cbbfa0800000000000000
+      internalID: -5783815778464099733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_8
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 490
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ba11e86d35f1320800000000000000
+      internalID: 2530833696577137417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_9
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 490
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90fdb0b745e0d1500800000000000000
+      internalID: 368466500518665993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 467
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da8a8cd07f7624f0800000000000000
+      internalID: -853854956626998567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_11
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 471
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b69392fc530fc4c0800000000000000
+      internalID: -4265186624354937160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 471
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd674d10589114010800000000000000
+      internalID: 1171245437145085659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_13
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 471
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d35a90ced9856ed0800000000000000
+      internalID: -2421377634834689063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_14
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 471
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ed2fc45491ef3a0800000000000000
+      internalID: -6629833816008368591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 471
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d204b8499209eaac0800000000000000
+      internalID: -3841974923840241619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 440
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a3dd71a0b169e40800000000000000
+      internalID: 5662743311628974624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_17
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 440
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320a09f9230d571f0800000000000000
+      internalID: -1047702422449774557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_18
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 459
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40e9a2edb5ac6b70800000000000000
+      internalID: 8893665599120072781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_19
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 459
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbe41c268d884480800000000000000
+      internalID: -8914719854975194165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_20
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 459
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621a64faf59d7ffc0800000000000000
+      internalID: -3461058783625174746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_21
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 459
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304e94d3835713600800000000000000
+      internalID: 446266722493260803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 421
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28d8a4aed5773810800000000000000
+      internalID: 1744992979735074863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 421
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac12aa0a1a24c3b0800000000000000
+      internalID: -5493219354149249877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_24
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 432
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ce9fdc2b0ae7210800000000000000
+      internalID: 1332679229568576543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_25
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 432
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1022131af0886890800000000000000
+      internalID: -7464574570816462821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_26
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 432
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6cd70984db7eb60800000000000000
+      internalID: 7775391401037907676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_27
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 432
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a49eb070c430a7b0800000000000000
+      internalID: -5215110367365131101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_28
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 432
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93c6fc9ba1073530800000000000000
+      internalID: 3834535444313719709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_29
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 410
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2440db749d7a35770800000000000000
+      internalID: 8598400665233720386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_30
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 410
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98607539e90e8da0800000000000000
+      internalID: -5940799961226516321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_31
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 409
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3c19d4414bd4c00800000000000000
+      internalID: 886562700955599802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_32
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 410
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a032d5f9145bbef50800000000000000
+      internalID: 6911817346581340938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_33
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 413
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf7d84cb0fb932a0800000000000000
+      internalID: -6757159708629565475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_34
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 413
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03d55e701e252bd0800000000000000
+      internalID: -2655665756891131122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_35
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 413
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b449f79078d1fc9a0800000000000000
+      internalID: -6210712895303478197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_36
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 413
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0bd9dd9db78f460800000000000000
+      internalID: 7275701373673255115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_37
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 413
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d22f66663b04800800000000000000
+      internalID: 594672403208088952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_38
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 413
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5eb3ba8ae1e0210800000000000000
+      internalID: 1301011052132820413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_39
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 413
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea29fa121f1434940800000000000000
+      internalID: 5279135692116431534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_40
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 413
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b12a22d38b01120800000000000000
+      internalID: 2382606775592557404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_41
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 413
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70ae8fc4beeb3b40800000000000000
+      internalID: 5421189036814278778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_42
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 413
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e9ea67116e6bb50800000000000000
+      internalID: 6608722465892769333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_43
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 413
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1426c2b03f10680800000000000000
+      internalID: -8790477768335670791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_44
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 413
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3013513d51b25a10800000000000000
+      internalID: 1896773406894002235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_45
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 413
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cd78586d1c7c420800000000000000
+      internalID: 2650300032838261765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_46
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 393
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4c14f55ce3dcdb0800000000000000
+      internalID: -4770087412887862049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_47
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 393
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1081f6a40029323a0800000000000000
+      internalID: -6691344091395975167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_48
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 393
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266bf99c149d35a30800000000000000
+      internalID: 4202941753845593698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_49
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 393
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc701eb3e3607720800000000000000
+      internalID: 2841881194668260601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_50
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 393
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18779fb36fb9cb1e0800000000000000
+      internalID: -2180696637683697791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_51
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 374
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e72db6ab3d7b81e0800000000000000
+      internalID: -2194522698259027996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_52
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 374
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930b689975e8ebd00800000000000000
+      internalID: 990385474957127737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_53
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 385
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51da6e5fe3f1eee90800000000000000
+      internalID: -6994618815985832683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_54
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 385
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21634bedeb351020800000000000000
+      internalID: 2311819876764967215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_55
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 385
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be46d0eab3a88d70800000000000000
+      internalID: 9045659874605026994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_56
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 385
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dad60a75030fb710800000000000000
+      internalID: 1711089705481067223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_57
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 366
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593587b3ba750d970800000000000000
+      internalID: 8777612066693862293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_58
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 349
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c8b9c78db9c5a40800000000000000
+      internalID: 5358329010769857543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_59
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 366
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796aeb79243924870800000000000000
+      internalID: 8665650547237234327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_60
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 366
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f415af131964a530800000000000000
+      internalID: 3865329911046935793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_61
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 366
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fc28c98787c4d90800000000000000
+      internalID: -7112177252107628738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_62
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 349
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362fe71d0822f3820800000000000000
+      internalID: 2900074621715804771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_63
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 360
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10a90e6321db92a0800000000000000
+      internalID: -6729555268074889186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_64
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 360
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213fd0640cb4b5210800000000000000
+      internalID: 1322734204744495890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_65
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 360
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa167a28fcf674d0800000000000000
+      internalID: -3137041947622499585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_66
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 360
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acff6e1af7408a1a0800000000000000
+      internalID: -6798178691292135478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_67
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 330
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965f5009578fc34c0800000000000000
+      internalID: -4306293959861865111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_68
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 330
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb141b636511b0b80800000000000000
+      internalID: -8427623215711305284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_69
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 341
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ef626d1bcbe9570800000000000000
+      internalID: 8475419020745965080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_70
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 341
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46edf2a4d4b33a920800000000000000
+      internalID: 3000306979902053988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_71
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 341
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562b695022d271990800000000000000
+      internalID: -7415408637296332187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_72
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 341
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b344b1dfd79f340800000000000000
+      internalID: 4898084595779779386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_73
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 341
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3459c2ee253905480800000000000000
+      internalID: -8912461678173711037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_74
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 311
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27746ffc563f6cc0800000000000000
+      internalID: -3715691394507704532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_75
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 311
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5a4d4bf01f18750800000000000000
+      internalID: 6305586003056043505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_76
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 322
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bb1f2e3c16ecd30800000000000000
+      internalID: 4453604575470009232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_77
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 322
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7f4bbdc0814cc30800000000000000
+      internalID: 4378651181215709152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_78
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 322
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e15fe06274ec84e0800000000000000
+      internalID: -1977954956418788887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_79
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 322
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5049cd2deb95bc0800000000000000
+      internalID: -3793791398229834283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_80
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 295
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce21080e2de42b400800000000000000
+      internalID: 338419589622797036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_81
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 295
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d35cf865d2360ff0800000000000000
+      internalID: -70312852006874151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_82
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 295
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862363d3cb31deca0800000000000000
+      internalID: -5986106630503779736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_83
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 295
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54434e7c65f13240800000000000000
+      internalID: 4769863326685676634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_84
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 295
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b5ec381e1644d00800000000000000
+      internalID: 955996642116262705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_85
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 295
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee468b1c1e39a110800000000000000
+      internalID: 1272616660150669039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_86
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 276
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c483d514fbacfc630800000000000000
+      internalID: 3949598321011406924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_87
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 276
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6747efc008f35dc50800000000000000
+      internalID: 6689322640735106166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_88
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 262
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f5bc008fadc6b80800000000000000
+      internalID: -8400098446252744932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_89
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 262
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba49fa9a9b6427b30800000000000000
+      internalID: 4283563958812513451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_90
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 262
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d4a3d8c993181a0800000000000000
+      internalID: -6809097817060389575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_91
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 259
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907b3b0b3264ff510800000000000000
+      internalID: 1585062712960071433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_92
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 262
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767bd760ad4ae81f0800000000000000
+      internalID: -1040713207557277849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_93
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 262
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0d80f5b4e700e30800000000000000
+      internalID: 4467709692533592244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_94
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 262
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01dccbdecdf820f00800000000000000
+      internalID: 1081585039566490896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_95
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 240
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec61aa676e4b9f70800000000000000
+      internalID: 9195029270284561639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_96
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 240
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9dbc2a3aa37a1460800000000000000
+      internalID: 7213204928144915866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_97
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 225
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6dccedf25947a80800000000000000
+      internalID: -8469980966343092562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_98
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 225
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723e6c94895248c90800000000000000
+      internalID: -7168563370863959257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_99
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 225
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1ad6d855e865f10800000000000000
+      internalID: 2258148761269019082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_100
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 225
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0537358c1199a5f20800000000000000
+      internalID: 3412207969340978000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_101
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 225
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7743512bf42ab21c0800000000000000
+      internalID: -4527346537217051529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_102
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 225
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e696485fabcc242a0800000000000000
+      internalID: -6754611387747243666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_103
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 225
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248ba86187841aa50800000000000000
+      internalID: 6530580615275395138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_104
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 206
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d35b4cc28f05150800000000000000
+      internalID: 5859455986371476777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_105
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 206
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53db496acf0014c0800000000000000
+      internalID: -4318934680623918242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_106
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 217
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d7d5150e1f3fa20800000000000000
+      internalID: 3095083314673712482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_107
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 217
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4248df324816e9670800000000000000
+      internalID: 8547376362963174436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_108
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 217
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1002061294301e0800000000000000
+      internalID: -2232860582550175312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_109
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 217
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9dafe629a4c4330800000000000000
+      internalID: 3696411386951948753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_110
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 187
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe4e11e8f8c8f6f0800000000000000
+      internalID: -650549174900732173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_111
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 187
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38899cb65a1650e0800000000000000
+      internalID: -2281607201382889409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_112
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 198
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25673af5febdde900800000000000000
+      internalID: 715469736969991762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_113
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 198
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddc62032655a37a0800000000000000
+      internalID: -6396706440523362853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_114
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 198
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8331299b62e5c60800000000000000
+      internalID: 7808721382368557252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_115
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 198
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef7673963e249550800000000000000
+      internalID: 6166604601714180079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_116
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 198
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7593536fafce6f7d0800000000000000
+      internalID: -2884857948667561641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_117
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 198
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8e1b7e4adae8720800000000000000
+      internalID: 2850406537945540769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_118
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 198
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce9e8a41ba944120800000000000000
+      internalID: 2397210987918696140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_119
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 168
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d6b1c7ebae91bf0800000000000000
+      internalID: -352992991925015266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_120
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 169
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2974c45e0329b8f70800000000000000
+      internalID: 9190600203282696082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_121
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 171
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34370a266f9e4930800000000000000
+      internalID: 4129413169485919291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_122
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 171
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcb874efea975720800000000000000
+      internalID: 2834904845573995766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_123
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 171
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbb0c05fa4fc0a00800000000000000
+      internalID: 724222673911069635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_124
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 171
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12209ab564bc3ee0800000000000000
+      internalID: -1279949845065358819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_125
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 179
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1159983cd0e97ce0800000000000000
+      internalID: -1406846172129570531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_126
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 179
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c310723badea40eb0800000000000000
+      internalID: -4754483052264619716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_127
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 179
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d57c201e90bbfd90800000000000000
+      internalID: -7062857397677820460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_128
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 179
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ffb2a1bf6a6a3a0800000000000000
+      internalID: -6654447801987236013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_129
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 179
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf67556a2d62257c0800000000000000
+      internalID: -4084159225896012037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_130
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 179
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9582ae99138d16f0800000000000000
+      internalID: -712269019995798114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_131
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 153
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150b84e8a048e1e30800000000000000
+      internalID: 4476160260524519505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_132
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 153
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f67fc2fc6647900800000000000000
+      internalID: 681282483638464363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_133
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 153
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1260604403d60260800000000000000
+      internalID: 7063565080790589983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_134
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 153
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5299504ce870dcc0800000000000000
+      internalID: -3688315138729209250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_135
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 150
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65e20ff7f2951250800000000000000
+      internalID: 5914795279453971823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_136
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 153
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4b87466ea751280800000000000000
+      internalID: -9073210744321297192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_137
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 153
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74be0f4a12efccbd0800000000000000
+      internalID: -2608430663699731641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_138
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 131
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4519d1b435fa5d10800000000000000
+      internalID: 2115272581674767695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_139
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 131
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed104cdbf5f03c00800000000000000
+      internalID: 878472389418032617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_140
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 119
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05187733ba0313a0800000000000000
+      internalID: -6695996456123755254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_141
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 116
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e896261b8d85cd230800000000000000
+      internalID: 3664901884484938126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_142
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 119
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67565c68fc6403e0800000000000000
+      internalID: -2088424512967780501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_143
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 119
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78157cdc94420ae0800000000000000
+      internalID: -1584628678376744834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_144
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 119
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a62a75208e01590800000000000000
+      internalID: -7705403865673078233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_145
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 97
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb07e1b5365b42b80800000000000000
+      internalID: -8420405964940873541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_146
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 97
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b555b7ef36a02c60800000000000000
+      internalID: 7791410148751529398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_147
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 81
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f5015afc6194f00800000000000000
+      internalID: 1101436664952151843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_148
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 72
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304d18e38c3dfc6d0800000000000000
+      internalID: -2967920772418251773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_149
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 81
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709b520a9d49ab2a0800000000000000
+      internalID: -6720895831481403129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_150
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 81
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e2fdf748419a380800000000000000
+      internalID: -8959607424363319688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_151
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 81
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e40f5567b40878e0800000000000000
+      internalID: -1695600073978739483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_152
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 81
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b056b1161893d70800000000000000
+      internalID: 9023385582484917083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_153
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 81
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfed18d794a82700800000000000000
+      internalID: 515843129406779325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_154
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 81
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d56b24c81f2981e0800000000000000
+      internalID: -2195171559949507115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_155
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 81
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bfe5ed2c4bc98e0800000000000000
+      internalID: -1685273411495986351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_156
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 81
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21996c766dcece20800000000000000
+      internalID: 3372859011004731692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_157
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 72
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad23ce20e4a75740800000000000000
+      internalID: 5140758782430883238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_158
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 72
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4e6bd860e7df580800000000000000
+      internalID: -8791732330944863037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_159
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 72
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203d3c6aed0ed0630800000000000000
+      internalID: 3895016499630560002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_160
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 72
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c572a38d65e8837a0800000000000000
+      internalID: -6397206767033768100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_161
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 72
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386f23db8733d1530800000000000000
+      internalID: 3827271851998115459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_162
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 72
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89917489722ed4110800000000000000
+      internalID: 1246901331537893784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_163
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 73
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf330d799098ab780800000000000000
+      internalID: -8666463858626382853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_164
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 73
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7c503fe3475cdc0800000000000000
+      internalID: -3619358911808288790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_165
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 73
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870a0ede16e40a820800000000000000
+      internalID: 2927425940300537976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_166
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 73
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878da149a1204a2a0800000000000000
+      internalID: -6727249630207485832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_167
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 73
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489e759866f57d400800000000000000
+      internalID: 348852390140045700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_168
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 73
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46ea7707b2796fb0800000000000000
+      internalID: -4654062609480620468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_169
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 36
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27399fe0de1c7c30800000000000000
+      internalID: 4358392422109624109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_170
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 36
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21762f0fd7b2d2300800000000000000
+      internalID: 228886975979087634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_171
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 36
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda8f66a1f7a96b70800000000000000
+      internalID: 8892823595541039836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_172
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 36
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16fb1872da8847e0800000000000000
+      internalID: -1781021016062167522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_173
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 62
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45421885b6e79b6a0800000000000000
+      internalID: -6432971593210583980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_174
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 62
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b789ec1ea1d7efc00800000000000000
+      internalID: 936323326950676603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_175
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 62
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643133ea1c3fd7dd0800000000000000
+      internalID: -2486563406061825210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_176
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 62
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9dc488bd7cf1c40800000000000000
+      internalID: 5485322616859056553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_177
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d30c2c604c821100800000000000000
+      internalID: 77278351939339221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_178
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 28
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925b19737ace8bd80800000000000000
+      internalID: -8234571715710962391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_179
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4faf9e52b6c5e890800000000000000
+      internalID: -7429313540883763377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_180
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 28
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc77bb03a0f63b90800000000000000
+      internalID: -7262352766021436161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_181
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 28
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48eb756b96c35f4f0800000000000000
+      internalID: -795663334432588156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanSouls_SpriteVer_182
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 28
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2e315da86c10d80800000000000000
+      internalID: -8286123539802365207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HumanSouls_SpriteVer_0: -2983853317124740686
+      HumanSouls_SpriteVer_1: -7892922017399742579
+      HumanSouls_SpriteVer_10: -853854956626998567
+      HumanSouls_SpriteVer_100: 3412207969340978000
+      HumanSouls_SpriteVer_101: -4527346537217051529
+      HumanSouls_SpriteVer_102: -6754611387747243666
+      HumanSouls_SpriteVer_103: 6530580615275395138
+      HumanSouls_SpriteVer_104: 5859455986371476777
+      HumanSouls_SpriteVer_105: -4318934680623918242
+      HumanSouls_SpriteVer_106: 3095083314673712482
+      HumanSouls_SpriteVer_107: 8547376362963174436
+      HumanSouls_SpriteVer_108: -2232860582550175312
+      HumanSouls_SpriteVer_109: 3696411386951948753
+      HumanSouls_SpriteVer_11: -4265186624354937160
+      HumanSouls_SpriteVer_110: -650549174900732173
+      HumanSouls_SpriteVer_111: -2281607201382889409
+      HumanSouls_SpriteVer_112: 715469736969991762
+      HumanSouls_SpriteVer_113: -6396706440523362853
+      HumanSouls_SpriteVer_114: 7808721382368557252
+      HumanSouls_SpriteVer_115: 6166604601714180079
+      HumanSouls_SpriteVer_116: -2884857948667561641
+      HumanSouls_SpriteVer_117: 2850406537945540769
+      HumanSouls_SpriteVer_118: 2397210987918696140
+      HumanSouls_SpriteVer_119: -352992991925015266
+      HumanSouls_SpriteVer_12: 1171245437145085659
+      HumanSouls_SpriteVer_120: 9190600203282696082
+      HumanSouls_SpriteVer_121: 4129413169485919291
+      HumanSouls_SpriteVer_122: 2834904845573995766
+      HumanSouls_SpriteVer_123: 724222673911069635
+      HumanSouls_SpriteVer_124: -1279949845065358819
+      HumanSouls_SpriteVer_125: -1406846172129570531
+      HumanSouls_SpriteVer_126: -4754483052264619716
+      HumanSouls_SpriteVer_127: -7062857397677820460
+      HumanSouls_SpriteVer_128: -6654447801987236013
+      HumanSouls_SpriteVer_129: -4084159225896012037
+      HumanSouls_SpriteVer_13: -2421377634834689063
+      HumanSouls_SpriteVer_130: -712269019995798114
+      HumanSouls_SpriteVer_131: 4476160260524519505
+      HumanSouls_SpriteVer_132: 681282483638464363
+      HumanSouls_SpriteVer_133: 7063565080790589983
+      HumanSouls_SpriteVer_134: -3688315138729209250
+      HumanSouls_SpriteVer_135: 5914795279453971823
+      HumanSouls_SpriteVer_136: -9073210744321297192
+      HumanSouls_SpriteVer_137: -2608430663699731641
+      HumanSouls_SpriteVer_138: 2115272581674767695
+      HumanSouls_SpriteVer_139: 878472389418032617
+      HumanSouls_SpriteVer_14: -6629833816008368591
+      HumanSouls_SpriteVer_140: -6695996456123755254
+      HumanSouls_SpriteVer_141: 3664901884484938126
+      HumanSouls_SpriteVer_142: -2088424512967780501
+      HumanSouls_SpriteVer_143: -1584628678376744834
+      HumanSouls_SpriteVer_144: -7705403865673078233
+      HumanSouls_SpriteVer_145: -8420405964940873541
+      HumanSouls_SpriteVer_146: 7791410148751529398
+      HumanSouls_SpriteVer_147: 1101436664952151843
+      HumanSouls_SpriteVer_148: -2967920772418251773
+      HumanSouls_SpriteVer_149: -6720895831481403129
+      HumanSouls_SpriteVer_15: -3841974923840241619
+      HumanSouls_SpriteVer_150: -8959607424363319688
+      HumanSouls_SpriteVer_151: -1695600073978739483
+      HumanSouls_SpriteVer_152: 9023385582484917083
+      HumanSouls_SpriteVer_153: 515843129406779325
+      HumanSouls_SpriteVer_154: -2195171559949507115
+      HumanSouls_SpriteVer_155: -1685273411495986351
+      HumanSouls_SpriteVer_156: 3372859011004731692
+      HumanSouls_SpriteVer_157: 5140758782430883238
+      HumanSouls_SpriteVer_158: -8791732330944863037
+      HumanSouls_SpriteVer_159: 3895016499630560002
+      HumanSouls_SpriteVer_16: 5662743311628974624
+      HumanSouls_SpriteVer_160: -6397206767033768100
+      HumanSouls_SpriteVer_161: 3827271851998115459
+      HumanSouls_SpriteVer_162: 1246901331537893784
+      HumanSouls_SpriteVer_163: -8666463858626382853
+      HumanSouls_SpriteVer_164: -3619358911808288790
+      HumanSouls_SpriteVer_165: 2927425940300537976
+      HumanSouls_SpriteVer_166: -6727249630207485832
+      HumanSouls_SpriteVer_167: 348852390140045700
+      HumanSouls_SpriteVer_168: -4654062609480620468
+      HumanSouls_SpriteVer_169: 4358392422109624109
+      HumanSouls_SpriteVer_17: -1047702422449774557
+      HumanSouls_SpriteVer_170: 228886975979087634
+      HumanSouls_SpriteVer_171: 8892823595541039836
+      HumanSouls_SpriteVer_172: -1781021016062167522
+      HumanSouls_SpriteVer_173: -6432971593210583980
+      HumanSouls_SpriteVer_174: 936323326950676603
+      HumanSouls_SpriteVer_175: -2486563406061825210
+      HumanSouls_SpriteVer_176: 5485322616859056553
+      HumanSouls_SpriteVer_177: 77278351939339221
+      HumanSouls_SpriteVer_178: -8234571715710962391
+      HumanSouls_SpriteVer_179: -7429313540883763377
+      HumanSouls_SpriteVer_18: 8893665599120072781
+      HumanSouls_SpriteVer_180: -7262352766021436161
+      HumanSouls_SpriteVer_181: -795663334432588156
+      HumanSouls_SpriteVer_182: -8286123539802365207
+      HumanSouls_SpriteVer_19: -8914719854975194165
+      HumanSouls_SpriteVer_2: -5958209034264323826
+      HumanSouls_SpriteVer_20: -3461058783625174746
+      HumanSouls_SpriteVer_21: 446266722493260803
+      HumanSouls_SpriteVer_22: 1744992979735074863
+      HumanSouls_SpriteVer_23: -5493219354149249877
+      HumanSouls_SpriteVer_24: 1332679229568576543
+      HumanSouls_SpriteVer_25: -7464574570816462821
+      HumanSouls_SpriteVer_26: 7775391401037907676
+      HumanSouls_SpriteVer_27: -5215110367365131101
+      HumanSouls_SpriteVer_28: 3834535444313719709
+      HumanSouls_SpriteVer_29: 8598400665233720386
+      HumanSouls_SpriteVer_3: -8929925345708060067
+      HumanSouls_SpriteVer_30: -5940799961226516321
+      HumanSouls_SpriteVer_31: 886562700955599802
+      HumanSouls_SpriteVer_32: 6911817346581340938
+      HumanSouls_SpriteVer_33: -6757159708629565475
+      HumanSouls_SpriteVer_34: -2655665756891131122
+      HumanSouls_SpriteVer_35: -6210712895303478197
+      HumanSouls_SpriteVer_36: 7275701373673255115
+      HumanSouls_SpriteVer_37: 594672403208088952
+      HumanSouls_SpriteVer_38: 1301011052132820413
+      HumanSouls_SpriteVer_39: 5279135692116431534
+      HumanSouls_SpriteVer_4: 7984745927150356399
+      HumanSouls_SpriteVer_40: 2382606775592557404
+      HumanSouls_SpriteVer_41: 5421189036814278778
+      HumanSouls_SpriteVer_42: 6608722465892769333
+      HumanSouls_SpriteVer_43: -8790477768335670791
+      HumanSouls_SpriteVer_44: 1896773406894002235
+      HumanSouls_SpriteVer_45: 2650300032838261765
+      HumanSouls_SpriteVer_46: -4770087412887862049
+      HumanSouls_SpriteVer_47: -6691344091395975167
+      HumanSouls_SpriteVer_48: 4202941753845593698
+      HumanSouls_SpriteVer_49: 2841881194668260601
+      HumanSouls_SpriteVer_5: 1332638661426304720
+      HumanSouls_SpriteVer_50: -2180696637683697791
+      HumanSouls_SpriteVer_51: -2194522698259027996
+      HumanSouls_SpriteVer_52: 990385474957127737
+      HumanSouls_SpriteVer_53: -6994618815985832683
+      HumanSouls_SpriteVer_54: 2311819876764967215
+      HumanSouls_SpriteVer_55: 9045659874605026994
+      HumanSouls_SpriteVer_56: 1711089705481067223
+      HumanSouls_SpriteVer_57: 8777612066693862293
+      HumanSouls_SpriteVer_58: 5358329010769857543
+      HumanSouls_SpriteVer_59: 8665650547237234327
+      HumanSouls_SpriteVer_6: -952233604905862389
+      HumanSouls_SpriteVer_60: 3865329911046935793
+      HumanSouls_SpriteVer_61: -7112177252107628738
+      HumanSouls_SpriteVer_62: 2900074621715804771
+      HumanSouls_SpriteVer_63: -6729555268074889186
+      HumanSouls_SpriteVer_64: 1322734204744495890
+      HumanSouls_SpriteVer_65: -3137041947622499585
+      HumanSouls_SpriteVer_66: -6798178691292135478
+      HumanSouls_SpriteVer_67: -4306293959861865111
+      HumanSouls_SpriteVer_68: -8427623215711305284
+      HumanSouls_SpriteVer_69: 8475419020745965080
+      HumanSouls_SpriteVer_7: -5783815778464099733
+      HumanSouls_SpriteVer_70: 3000306979902053988
+      HumanSouls_SpriteVer_71: -7415408637296332187
+      HumanSouls_SpriteVer_72: 4898084595779779386
+      HumanSouls_SpriteVer_73: -8912461678173711037
+      HumanSouls_SpriteVer_74: -3715691394507704532
+      HumanSouls_SpriteVer_75: 6305586003056043505
+      HumanSouls_SpriteVer_76: 4453604575470009232
+      HumanSouls_SpriteVer_77: 4378651181215709152
+      HumanSouls_SpriteVer_78: -1977954956418788887
+      HumanSouls_SpriteVer_79: -3793791398229834283
+      HumanSouls_SpriteVer_8: 2530833696577137417
+      HumanSouls_SpriteVer_80: 338419589622797036
+      HumanSouls_SpriteVer_81: -70312852006874151
+      HumanSouls_SpriteVer_82: -5986106630503779736
+      HumanSouls_SpriteVer_83: 4769863326685676634
+      HumanSouls_SpriteVer_84: 955996642116262705
+      HumanSouls_SpriteVer_85: 1272616660150669039
+      HumanSouls_SpriteVer_86: 3949598321011406924
+      HumanSouls_SpriteVer_87: 6689322640735106166
+      HumanSouls_SpriteVer_88: -8400098446252744932
+      HumanSouls_SpriteVer_89: 4283563958812513451
+      HumanSouls_SpriteVer_9: 368466500518665993
+      HumanSouls_SpriteVer_90: -6809097817060389575
+      HumanSouls_SpriteVer_91: 1585062712960071433
+      HumanSouls_SpriteVer_92: -1040713207557277849
+      HumanSouls_SpriteVer_93: 4467709692533592244
+      HumanSouls_SpriteVer_94: 1081585039566490896
+      HumanSouls_SpriteVer_95: 9195029270284561639
+      HumanSouls_SpriteVer_96: 7213204928144915866
+      HumanSouls_SpriteVer_97: -8469980966343092562
+      HumanSouls_SpriteVer_98: -7168563370863959257
+      HumanSouls_SpriteVer_99: 2258148761269019082
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

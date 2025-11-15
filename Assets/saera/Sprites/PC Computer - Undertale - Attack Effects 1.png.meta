@@ -1,0 +1,4147 @@
+fileFormatVersion: 2
+guid: a60154e4b1e3a444db52ec4dbc8e26e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1347376886626544668
+    second: PC Computer - Undertale - Attack Effects 1_0
+  - first:
+      213: -5286095948552976575
+    second: PC Computer - Undertale - Attack Effects 1_1
+  - first:
+      213: 27660446706791559
+    second: PC Computer - Undertale - Attack Effects 1_2
+  - first:
+      213: -7425640727921494479
+    second: PC Computer - Undertale - Attack Effects 1_3
+  - first:
+      213: 2399261083466319767
+    second: PC Computer - Undertale - Attack Effects 1_4
+  - first:
+      213: -4868004348068116456
+    second: PC Computer - Undertale - Attack Effects 1_5
+  - first:
+      213: 8443505524687883447
+    second: PC Computer - Undertale - Attack Effects 1_6
+  - first:
+      213: -8396510250557730969
+    second: PC Computer - Undertale - Attack Effects 1_7
+  - first:
+      213: 6979220967532593690
+    second: PC Computer - Undertale - Attack Effects 1_8
+  - first:
+      213: 3143184602787920645
+    second: PC Computer - Undertale - Attack Effects 1_9
+  - first:
+      213: -6366579954262362274
+    second: PC Computer - Undertale - Attack Effects 1_10
+  - first:
+      213: -407183172426017528
+    second: PC Computer - Undertale - Attack Effects 1_11
+  - first:
+      213: -5015242535059425016
+    second: PC Computer - Undertale - Attack Effects 1_12
+  - first:
+      213: -3129888217457033096
+    second: PC Computer - Undertale - Attack Effects 1_13
+  - first:
+      213: -1379958135096140339
+    second: PC Computer - Undertale - Attack Effects 1_14
+  - first:
+      213: 8401778738808690866
+    second: PC Computer - Undertale - Attack Effects 1_15
+  - first:
+      213: 8822757328317757540
+    second: PC Computer - Undertale - Attack Effects 1_16
+  - first:
+      213: -4553566632315313715
+    second: PC Computer - Undertale - Attack Effects 1_17
+  - first:
+      213: 3772878630193768655
+    second: PC Computer - Undertale - Attack Effects 1_18
+  - first:
+      213: -4055698732434185231
+    second: PC Computer - Undertale - Attack Effects 1_19
+  - first:
+      213: 479823269973669410
+    second: PC Computer - Undertale - Attack Effects 1_20
+  - first:
+      213: -1667435520670000414
+    second: PC Computer - Undertale - Attack Effects 1_21
+  - first:
+      213: -9050067208447301028
+    second: PC Computer - Undertale - Attack Effects 1_22
+  - first:
+      213: 1971237089828974273
+    second: PC Computer - Undertale - Attack Effects 1_23
+  - first:
+      213: -8048746884995822672
+    second: PC Computer - Undertale - Attack Effects 1_24
+  - first:
+      213: -2244305005584653580
+    second: PC Computer - Undertale - Attack Effects 1_25
+  - first:
+      213: 4789131449016194634
+    second: PC Computer - Undertale - Attack Effects 1_26
+  - first:
+      213: -5946977070038437735
+    second: PC Computer - Undertale - Attack Effects 1_27
+  - first:
+      213: -2735365853721769162
+    second: PC Computer - Undertale - Attack Effects 1_28
+  - first:
+      213: 76526018375826821
+    second: PC Computer - Undertale - Attack Effects 1_29
+  - first:
+      213: 8801027547414890678
+    second: PC Computer - Undertale - Attack Effects 1_30
+  - first:
+      213: -4359237831958309074
+    second: PC Computer - Undertale - Attack Effects 1_31
+  - first:
+      213: -4541702022732155403
+    second: PC Computer - Undertale - Attack Effects 1_32
+  - first:
+      213: -7489915603241835832
+    second: PC Computer - Undertale - Attack Effects 1_33
+  - first:
+      213: 5773657475417433108
+    second: PC Computer - Undertale - Attack Effects 1_34
+  - first:
+      213: 284452810916972049
+    second: PC Computer - Undertale - Attack Effects 1_35
+  - first:
+      213: 7947159193562459095
+    second: PC Computer - Undertale - Attack Effects 1_36
+  - first:
+      213: -2529889326124893764
+    second: PC Computer - Undertale - Attack Effects 1_37
+  - first:
+      213: 5957308414849996521
+    second: PC Computer - Undertale - Attack Effects 1_38
+  - first:
+      213: 240586761447146265
+    second: PC Computer - Undertale - Attack Effects 1_39
+  - first:
+      213: 7298583445940919245
+    second: PC Computer - Undertale - Attack Effects 1_40
+  - first:
+      213: 1680980825242632350
+    second: PC Computer - Undertale - Attack Effects 1_41
+  - first:
+      213: 8345541160410998866
+    second: PC Computer - Undertale - Attack Effects 1_42
+  - first:
+      213: 3388617316109232182
+    second: PC Computer - Undertale - Attack Effects 1_43
+  - first:
+      213: 8603888442642342144
+    second: PC Computer - Undertale - Attack Effects 1_44
+  - first:
+      213: -4676803777654956167
+    second: PC Computer - Undertale - Attack Effects 1_45
+  - first:
+      213: 7922981431841532505
+    second: PC Computer - Undertale - Attack Effects 1_46
+  - first:
+      213: -2756925122353384636
+    second: PC Computer - Undertale - Attack Effects 1_47
+  - first:
+      213: -4831633806233712264
+    second: PC Computer - Undertale - Attack Effects 1_48
+  - first:
+      213: 5766962252976329604
+    second: PC Computer - Undertale - Attack Effects 1_49
+  - first:
+      213: 6755963001706390261
+    second: PC Computer - Undertale - Attack Effects 1_50
+  - first:
+      213: -8886186093212024633
+    second: PC Computer - Undertale - Attack Effects 1_51
+  - first:
+      213: -2569573565121709113
+    second: PC Computer - Undertale - Attack Effects 1_52
+  - first:
+      213: -9141486573613856701
+    second: PC Computer - Undertale - Attack Effects 1_53
+  - first:
+      213: -6957001667468287351
+    second: PC Computer - Undertale - Attack Effects 1_54
+  - first:
+      213: -8550911125032206401
+    second: PC Computer - Undertale - Attack Effects 1_55
+  - first:
+      213: -5921570751675415606
+    second: PC Computer - Undertale - Attack Effects 1_56
+  - first:
+      213: 6118575435882499761
+    second: PC Computer - Undertale - Attack Effects 1_57
+  - first:
+      213: 7076233083769540901
+    second: PC Computer - Undertale - Attack Effects 1_58
+  - first:
+      213: -536136587009574378
+    second: PC Computer - Undertale - Attack Effects 1_59
+  - first:
+      213: -544388544219960724
+    second: PC Computer - Undertale - Attack Effects 1_60
+  - first:
+      213: -1987971862703459635
+    second: PC Computer - Undertale - Attack Effects 1_61
+  - first:
+      213: 531968955562677579
+    second: PC Computer - Undertale - Attack Effects 1_62
+  - first:
+      213: -4594022866100683443
+    second: PC Computer - Undertale - Attack Effects 1_63
+  - first:
+      213: -6752287913884149033
+    second: PC Computer - Undertale - Attack Effects 1_64
+  - first:
+      213: -8540295045642482728
+    second: PC Computer - Undertale - Attack Effects 1_65
+  - first:
+      213: 852791983404910172
+    second: PC Computer - Undertale - Attack Effects 1_66
+  - first:
+      213: 8850782644627661563
+    second: PC Computer - Undertale - Attack Effects 1_67
+  - first:
+      213: 4689618983590205954
+    second: PC Computer - Undertale - Attack Effects 1_68
+  - first:
+      213: 6735811032862028490
+    second: PC Computer - Undertale - Attack Effects 1_69
+  - first:
+      213: -3245244621530581763
+    second: PC Computer - Undertale - Attack Effects 1_70
+  - first:
+      213: 1728626043085219465
+    second: PC Computer - Undertale - Attack Effects 1_71
+  - first:
+      213: -6702935446109469695
+    second: PC Computer - Undertale - Attack Effects 1_72
+  - first:
+      213: -9066856386144061266
+    second: PC Computer - Undertale - Attack Effects 1_73
+  - first:
+      213: -8060521087167514932
+    second: PC Computer - Undertale - Attack Effects 1_74
+  - first:
+      213: -9203156101975329712
+    second: PC Computer - Undertale - Attack Effects 1_75
+  - first:
+      213: -7228832960073709395
+    second: PC Computer - Undertale - Attack Effects 1_76
+  - first:
+      213: -7688333543478149249
+    second: PC Computer - Undertale - Attack Effects 1_77
+  - first:
+      213: 5167148044861814415
+    second: PC Computer - Undertale - Attack Effects 1_78
+  - first:
+      213: 4846339525155733611
+    second: PC Computer - Undertale - Attack Effects 1_79
+  - first:
+      213: -4400838359697241689
+    second: PC Computer - Undertale - Attack Effects 1_80
+  - first:
+      213: 56651670767665436
+    second: PC Computer - Undertale - Attack Effects 1_81
+  - first:
+      213: 4939678305254168546
+    second: PC Computer - Undertale - Attack Effects 1_82
+  - first:
+      213: -3624511717304239695
+    second: PC Computer - Undertale - Attack Effects 1_83
+  - first:
+      213: 6267573181531231675
+    second: PC Computer - Undertale - Attack Effects 1_84
+  - first:
+      213: 2672148488334024247
+    second: PC Computer - Undertale - Attack Effects 1_85
+  - first:
+      213: 1568345797811978190
+    second: PC Computer - Undertale - Attack Effects 1_86
+  - first:
+      213: -6086446759685998900
+    second: PC Computer - Undertale - Attack Effects 1_87
+  - first:
+      213: -4477669924381309141
+    second: PC Computer - Undertale - Attack Effects 1_88
+  - first:
+      213: 2797885546756421845
+    second: PC Computer - Undertale - Attack Effects 1_89
+  - first:
+      213: 5776560016232592814
+    second: PC Computer - Undertale - Attack Effects 1_90
+  - first:
+      213: -4141193200586455353
+    second: PC Computer - Undertale - Attack Effects 1_91
+  - first:
+      213: -803408002928897090
+    second: PC Computer - Undertale - Attack Effects 1_92
+  - first:
+      213: 5804445311528970394
+    second: PC Computer - Undertale - Attack Effects 1_93
+  - first:
+      213: 4804864305635491847
+    second: PC Computer - Undertale - Attack Effects 1_94
+  - first:
+      213: 8618981224999435606
+    second: PC Computer - Undertale - Attack Effects 1_95
+  - first:
+      213: 8311633861427830261
+    second: PC Computer - Undertale - Attack Effects 1_96
+  - first:
+      213: 4845928492423310378
+    second: PC Computer - Undertale - Attack Effects 1_97
+  - first:
+      213: -3453109188063340509
+    second: PC Computer - Undertale - Attack Effects 1_98
+  - first:
+      213: 4264447522200932241
+    second: PC Computer - Undertale - Attack Effects 1_99
+  - first:
+      213: -7625264189472504286
+    second: PC Computer - Undertale - Attack Effects 1_100
+  - first:
+      213: -8883165238659142125
+    second: PC Computer - Undertale - Attack Effects 1_101
+  - first:
+      213: -488142819178549772
+    second: PC Computer - Undertale - Attack Effects 1_102
+  - first:
+      213: 8221841864333310229
+    second: PC Computer - Undertale - Attack Effects 1_103
+  - first:
+      213: 2089332290324139487
+    second: PC Computer - Undertale - Attack Effects 1_104
+  - first:
+      213: -5829508911865921038
+    second: PC Computer - Undertale - Attack Effects 1_105
+  - first:
+      213: -417896825701946932
+    second: PC Computer - Undertale - Attack Effects 1_106
+  - first:
+      213: -9037764418957699811
+    second: PC Computer - Undertale - Attack Effects 1_107
+  - first:
+      213: -2323883794835288540
+    second: PC Computer - Undertale - Attack Effects 1_108
+  - first:
+      213: -2904649541437716785
+    second: PC Computer - Undertale - Attack Effects 1_109
+  - first:
+      213: -522782970349182663
+    second: PC Computer - Undertale - Attack Effects 1_110
+  - first:
+      213: -8022348827422599189
+    second: PC Computer - Undertale - Attack Effects 1_111
+  - first:
+      213: -7475272286674690251
+    second: PC Computer - Undertale - Attack Effects 1_112
+  - first:
+      213: 8553760340022731366
+    second: PC Computer - Undertale - Attack Effects 1_113
+  - first:
+      213: -5451732210634176579
+    second: PC Computer - Undertale - Attack Effects 1_114
+  - first:
+      213: 8774821059674374963
+    second: PC Computer - Undertale - Attack Effects 1_115
+  - first:
+      213: 2587817517909077015
+    second: PC Computer - Undertale - Attack Effects 1_116
+  - first:
+      213: 459404493503816444
+    second: PC Computer - Undertale - Attack Effects 1_117
+  - first:
+      213: -5155551197873200424
+    second: PC Computer - Undertale - Attack Effects 1_118
+  - first:
+      213: -4871327783512322639
+    second: PC Computer - Undertale - Attack Effects 1_119
+  - first:
+      213: -8143744223546523500
+    second: PC Computer - Undertale - Attack Effects 1_120
+  - first:
+      213: -8313340501339661801
+    second: PC Computer - Undertale - Attack Effects 1_121
+  - first:
+      213: -1585376159779867679
+    second: PC Computer - Undertale - Attack Effects 1_122
+  - first:
+      213: -4418798807696787515
+    second: PC Computer - Undertale - Attack Effects 1_123
+  - first:
+      213: -879490882164955089
+    second: PC Computer - Undertale - Attack Effects 1_124
+  - first:
+      213: -7684593501496460901
+    second: PC Computer - Undertale - Attack Effects 1_125
+  - first:
+      213: -6038701731190766919
+    second: PC Computer - Undertale - Attack Effects 1_126
+  - first:
+      213: -3774418956499086710
+    second: PC Computer - Undertale - Attack Effects 1_127
+  - first:
+      213: 1168766532435363820
+    second: PC Computer - Undertale - Attack Effects 1_128
+  - first:
+      213: -3303223600311586837
+    second: PC Computer - Undertale - Attack Effects 1_129
+  - first:
+      213: 3665346396414054477
+    second: PC Computer - Undertale - Attack Effects 1_130
+  - first:
+      213: 6921320637853459389
+    second: PC Computer - Undertale - Attack Effects 1_131
+  - first:
+      213: 7098672189825822557
+    second: PC Computer - Undertale - Attack Effects 1_132
+  - first:
+      213: 881595339046554300
+    second: PC Computer - Undertale - Attack Effects 1_133
+  - first:
+      213: -8879577317497092579
+    second: PC Computer - Undertale - Attack Effects 1_134
+  - first:
+      213: 8458908877706088093
+    second: PC Computer - Undertale - Attack Effects 1_135
+  - first:
+      213: 7360816236367470022
+    second: PC Computer - Undertale - Attack Effects 1_136
+  - first:
+      213: -3441370142313261469
+    second: PC Computer - Undertale - Attack Effects 1_137
+  - first:
+      213: 6221284203127606278
+    second: PC Computer - Undertale - Attack Effects 1_138
+  - first:
+      213: 2541281399159633960
+    second: PC Computer - Undertale - Attack Effects 1_139
+  - first:
+      213: -374771966412774989
+    second: PC Computer - Undertale - Attack Effects 1_140
+  - first:
+      213: 8740142606832883720
+    second: PC Computer - Undertale - Attack Effects 1_141
+  - first:
+      213: -3903510076799223012
+    second: PC Computer - Undertale - Attack Effects 1_142
+  - first:
+      213: -2823675491532179753
+    second: PC Computer - Undertale - Attack Effects 1_143
+  - first:
+      213: 1203539443407316711
+    second: PC Computer - Undertale - Attack Effects 1_144
+  - first:
+      213: 7283421292902283790
+    second: PC Computer - Undertale - Attack Effects 1_145
+  - first:
+      213: -6923822185119686306
+    second: PC Computer - Undertale - Attack Effects 1_146
+  - first:
+      213: -6195763107877527997
+    second: PC Computer - Undertale - Attack Effects 1_147
+  - first:
+      213: -7989272144892585212
+    second: PC Computer - Undertale - Attack Effects 1_148
+  - first:
+      213: 7077641128956592414
+    second: PC Computer - Undertale - Attack Effects 1_149
+  - first:
+      213: 8119993115269493508
+    second: PC Computer - Undertale - Attack Effects 1_150
+  - first:
+      213: -4014096777754390415
+    second: PC Computer - Undertale - Attack Effects 1_151
+  - first:
+      213: -6056267328131889269
+    second: PC Computer - Undertale - Attack Effects 1_152
+  - first:
+      213: -5111399529525633306
+    second: PC Computer - Undertale - Attack Effects 1_153
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 687
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c62f1c328d2b210800000000000000
+      internalID: 1347376886626544668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 687
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1474ed1edb304a6b0800000000000000
+      internalID: -5286095948552976575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 687
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784794c9705426000800000000000000
+      internalID: 27660446706791559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_3
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 684
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136f096c913d2f890800000000000000
+      internalID: -7425640727921494479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 687
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797cd6b5e33eb4120800000000000000
+      internalID: 2399261083466319767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_5
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 687
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818c75456df517cb0800000000000000
+      internalID: -4868004348068116456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_6
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 687
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcc1120a8b5d2570800000000000000
+      internalID: 8443505524687883447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_7
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 687
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f849ae96a997b80800000000000000
+      internalID: -8396510250557730969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_8
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 687
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a120db21e7c2bd060800000000000000
+      internalID: 6979220967532593690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_9
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 687
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bb6a03eb5de9b20800000000000000
+      internalID: 3143184602787920645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_10
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 687
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57b110634d55a7a0800000000000000
+      internalID: -6366579954262362274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_11
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 687
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805d701ef05695af0800000000000000
+      internalID: -407183172426017528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 557
+        width: 548
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8097a5b7c77466ab0800000000000000
+      internalID: -5015242535059425016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_13
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 557
+        width: 548
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8700bc3cf376094d0800000000000000
+      internalID: -3129888217457033096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_14
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 551
+        width: 16
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd1fa0336769dce0800000000000000
+      internalID: -1379958135096140339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_15
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 551
+        width: 16
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b81f189f3d199470800000000000000
+      internalID: 8401778738808690866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_16
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 551
+        width: 16
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468badd8b0bb07a70800000000000000
+      internalID: 8822757328317757540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_17
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 551
+        width: 16
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc126c3164b7ec0c0800000000000000
+      internalID: -4553566632315313715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_18
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 551
+        width: 16
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8ac55ef15fb5430800000000000000
+      internalID: 3772878630193768655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_19
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 551
+        width: 16
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f32249ad7347b7c0800000000000000
+      internalID: -4055698732434185231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_20
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 551
+        width: 16
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2263fb9c8bca8a600800000000000000
+      internalID: 479823269973669410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_21
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 551
+        width: 16
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea98987a341cd8e0800000000000000
+      internalID: -1667435520670000414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 536
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a661fb2d3b76280800000000000000
+      internalID: -9050067208447301028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_23
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 536
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cea45b60bd3b5b10800000000000000
+      internalID: 1971237089828974273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_24
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 536
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbcac82a5b1d4090800000000000000
+      internalID: -8048746884995822672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_25
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 536
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2ee7efc70aad0e0800000000000000
+      internalID: -2244305005584653580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_26
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 533
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a461341dda9667240800000000000000
+      internalID: 4789131449016194634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_27
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 536
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99037fcfcd7187da0800000000000000
+      internalID: -5946977070038437735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_28
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 536
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b4e26af370a0ad0800000000000000
+      internalID: -2735365853721769162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_29
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 536
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58dbd5d1200ef0100800000000000000
+      internalID: 76526018375826821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 536
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8871eace7832a70800000000000000
+      internalID: 8801027547414890678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_31
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 536
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e275eaeb940e083c0800000000000000
+      internalID: -4359237831958309074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_32
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 536
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f57063c212a8f0c0800000000000000
+      internalID: -4541702022732155403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_33
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 536
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c26d1f21797e0890800000000000000
+      internalID: -7489915603241835832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_34
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 536
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414e80d32e6202050800000000000000
+      internalID: 5773657475417433108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_35
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 495
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116411e035492f300800000000000000
+      internalID: 284452810916972049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_36
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 495
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db25c14e2bf94e60800000000000000
+      internalID: 7947159193562459095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_37
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 495
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9f543df0704ecd0800000000000000
+      internalID: -2529889326124893764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_38
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 453
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6549ca07c9ca250800000000000000
+      internalID: 5957308414849996521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_39
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 495
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91308b5826cb65300800000000000000
+      internalID: 240586761447146265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_40
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 495
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbdada79f6c94560800000000000000
+      internalID: 7298583445940919245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_41
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 453
+        width: 30
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9084d2872b045710800000000000000
+      internalID: 1680980825242632350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_42
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 495
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258e2b4087151d370800000000000000
+      internalID: 8345541160410998866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_43
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 495
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638ad6ece79c60f20800000000000000
+      internalID: 3388617316109232182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_44
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 495
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00129c604f6276770800000000000000
+      internalID: 8603888442642342144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_45
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 494
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fdba43eb7a81fb0800000000000000
+      internalID: -4676803777654956167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_46
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 494
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a2eee62a514fd60800000000000000
+      internalID: 7922981431841532505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_47
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 494
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443b6c1453f6db9d0800000000000000
+      internalID: -2756925122353384636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_48
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 494
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879cbaef6a692fcb0800000000000000
+      internalID: -4831633806233712264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_49
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 494
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4839db94d9d580050800000000000000
+      internalID: 5766962252976329604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_50
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 494
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f224603e8002cd50800000000000000
+      internalID: 6755963001706390261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_51
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 494
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0c41a44dceda480800000000000000
+      internalID: -8886186093212024633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_52
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 494
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbbfaae47a075cd0800000000000000
+      internalID: -2569573565121709113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_53
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 494
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3484ebc156ae22180800000000000000
+      internalID: -9141486573613856701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_54
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 494
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982a0ccd7d3c37f90800000000000000
+      internalID: -6957001667468287351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_55
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 494
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbff48ee2af055980800000000000000
+      internalID: -8550911125032206401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_56
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 494
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac34b0276ca52dda0800000000000000
+      internalID: -5921570751675415606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_57
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 494
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be053bf0fb89e450800000000000000
+      internalID: 6118575435882499761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_58
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 494
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52153f98f74d33260800000000000000
+      internalID: 7076233083769540901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_59
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 475
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a343c5d924f88f0800000000000000
+      internalID: -536136587009574378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_60
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 475
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a2af9d081f178f0800000000000000
+      internalID: -544388544219960724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_61
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 475
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2b614af1e4964e0800000000000000
+      internalID: -1987971862703459635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_62
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 475
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4559d352fee16700800000000000000
+      internalID: 531968955562677579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_63
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 475
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4dfb002b80ce30c0800000000000000
+      internalID: -4594022866100683443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_64
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 475
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da95cfdaed0b42a0800000000000000
+      internalID: -6752287913884149033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_65
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 475
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db837787e6ca7980800000000000000
+      internalID: -8540295045642482728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_66
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 453
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5686266ac9b5db00800000000000000
+      internalID: 852791983404910172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_67
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 475
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2693dfbeb44da70800000000000000
+      internalID: 8850782644627661563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_68
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 475
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a92d07e9fd41140800000000000000
+      internalID: 4689618983590205954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_69
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 475
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2f5ef42786a7d50800000000000000
+      internalID: 6735811032862028490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_70
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 475
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df43c64f53396f2d0800000000000000
+      internalID: -3245244621530581763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_71
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 475
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986659f3a305df710800000000000000
+      internalID: 1728626043085219465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_72
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 475
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1044546b9b36af2a0800000000000000
+      internalID: -6702935446109469695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_73
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 475
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8b662b72e0c2280800000000000000
+      internalID: -9066856386144061266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_74
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 475
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6b5d617c6432090800000000000000
+      internalID: -8060521087167514932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_75
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 305
+        width: 94
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054ba412942d74080800000000000000
+      internalID: -9203156101975329712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_76
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 305
+        width: 94
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8cb2a09b60eab90800000000000000
+      internalID: -7228832960073709395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_77
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 288
+        width: 102
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fb342706d8d4590800000000000000
+      internalID: -7688333543478149249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_78
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 389
+        width: 26
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86b7d325c565b740800000000000000
+      internalID: 5167148044861814415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_79
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 389
+        width: 26
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60c7d10f18a14340800000000000000
+      internalID: 4846339525155733611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_80
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 386
+        width: 48
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9455814d41de2c0800000000000000
+      internalID: -4400838359697241689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_81
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 455
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c110a08f46449c000800000000000000
+      internalID: 56651670767665436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_82
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 435
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7d0614f334d8440800000000000000
+      internalID: 4939678305254168546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_83
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 454
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9f6ddebc523bdc0800000000000000
+      internalID: -3624511717304239695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_84
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 434
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb51fe00a94eaf650800000000000000
+      internalID: 6267573181531231675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_85
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 402
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e1f3a74e0651520800000000000000
+      internalID: 2672148488334024247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_86
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 402
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf3f839132e3c510800000000000000
+      internalID: 1568345797811978190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_87
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 403
+        width: 8
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6b6906be8988ba0800000000000000
+      internalID: -6086446759685998900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_88
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 373
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b274dcf6dee1cd1c0800000000000000
+      internalID: -4477669924381309141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_89
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 371
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8bd98b41614d620800000000000000
+      internalID: 2797885546756421845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_90
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 402
+        width: 10
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5b44faab67a2050800000000000000
+      internalID: 5776560016232592814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_91
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 372
+        width: 12
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c608cc99b68786c0800000000000000
+      internalID: -4141193200586455353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_92
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 400
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb397bf8da8b9d4f0800000000000000
+      internalID: -803408002928897090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_93
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 311
+        width: 50
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98addfe1488d8050800000000000000
+      internalID: 5804445311528970394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_94
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 311
+        width: 50
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7008b53f0ae4ea240800000000000000
+      internalID: 4804864305635491847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_95
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 311
+        width: 50
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d3ad142c5cc9770800000000000000
+      internalID: 8618981224999435606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_96
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 367
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd9385c5fad85370800000000000000
+      internalID: 8311633861427830261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_97
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 370
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ce5ddf942304340800000000000000
+      internalID: 4845928492423310378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_98
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 366
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328d8d22d771410d0800000000000000
+      internalID: -3453109188063340509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_99
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 376
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fc41c6d6c5e2b30800000000000000
+      internalID: 4264447522200932241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_100
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 342
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2260cfbbe9e9d2690800000000000000
+      internalID: -7625264189472504286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_101
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 342
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31eaf9cc748a8b480800000000000000
+      internalID: -8883165238659142125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_102
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 342
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd643731b4c939f0800000000000000
+      internalID: -488142819178549772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_103
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 342
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519b50b4d99d91270800000000000000
+      internalID: 8221841864333310229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_104
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 342
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd0686f5accefc10800000000000000
+      internalID: 2089332290324139487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_105
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 342
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1024dd78c691fa0800000000000000
+      internalID: -5829508911865921038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_106
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 342
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9a5471d05533af0800000000000000
+      internalID: -417896825701946932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_107
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 342
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d159c542529639280800000000000000
+      internalID: -9037764418957699811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_108
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 342
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e4e854008efbfd0800000000000000
+      internalID: -2323883794835288540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_109
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 342
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc68a9da1ac90b7d0800000000000000
+      internalID: -2904649541437716785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_110
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 342
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931a6b588a3beb8f0800000000000000
+      internalID: -522782970349182663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_111
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 342
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be75435ee34eaa090800000000000000
+      internalID: -8022348827422599189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_112
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 341
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fde61067f724890800000000000000
+      internalID: -7475272286674690251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_113
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 342
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66221e0a5bf05b670800000000000000
+      internalID: 8553760340022731366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_114
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 342
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7489e507e8754b0800000000000000
+      internalID: -5451732210634176579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_115
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 342
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3330285434d66c970800000000000000
+      internalID: 8774821059674374963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_116
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 342
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ce08a5256c9e320800000000000000
+      internalID: 2587817517909077015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_117
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 342
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2638be3f1206600800000000000000
+      internalID: 459404493503816444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_118
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 342
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2ad65308dc378b0800000000000000
+      internalID: -5155551197873200424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_119
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 342
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdc147b031956cb0800000000000000
+      internalID: -4871327783512322639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_120
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 342
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490cedda6cb9bfe80800000000000000
+      internalID: -8143744223546523500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_121
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 342
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a18c82cd411ac80800000000000000
+      internalID: -8313340501339661801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_122
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 342
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3b2f848cc9ff9e0800000000000000
+      internalID: -1585376159779867679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_123
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 339
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7305d65e54da2c0800000000000000
+      internalID: -4418798807696787515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_124
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 342
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28ec51d3bb6bc3f0800000000000000
+      internalID: -879490882164955089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_125
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 339
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b993704dce6da5590800000000000000
+      internalID: -7684593501496460901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_126
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 342
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b286d715c8323ca0800000000000000
+      internalID: -6038701731190766919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_127
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 342
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a821f50f4f19e9bc0800000000000000
+      internalID: -3774418956499086710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_128
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 342
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7cc2708fa483010800000000000000
+      internalID: 1168766532435363820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_129
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 284
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befadb103a79822d0800000000000000
+      internalID: -3303223600311586837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_130
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 290
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d409401b02dedd230800000000000000
+      internalID: 3665346396414054477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_131
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 290
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3e5db03787d0060800000000000000
+      internalID: 6921320637853459389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_132
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 313
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f238b0fbc838260800000000000000
+      internalID: 7098672189825822557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_133
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 292
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba828b3a4e0c3c00800000000000000
+      internalID: 881595339046554300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_134
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 292
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1648fac97765c480800000000000000
+      internalID: -8879577317497092579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_135
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 304
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ec11b9ec4146570800000000000000
+      internalID: 8458908877706088093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_136
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 232
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd5c912e5fd62660800000000000000
+      internalID: 7360816236367470022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_137
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 232
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36658c6b61ccd30d0800000000000000
+      internalID: -3441370142313261469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_138
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 232
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c8b2e5501765650800000000000000
+      internalID: 6221284203127606278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_139
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 229
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828b73fd7f1744320800000000000000
+      internalID: 2541281399159633960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_140
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 232
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b12136d1ea8ccaf0800000000000000
+      internalID: -374771966412774989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_141
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 232
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808d786c4693b4970800000000000000
+      internalID: 8740142606832883720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_142
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 232
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b793f4442f3d9c0800000000000000
+      internalID: -3903510076799223012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_143
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 210
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d67f36d91a40d8d0800000000000000
+      internalID: -2823675491532179753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_144
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 232
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6e6754fb4d3b010800000000000000
+      internalID: 1203539443407316711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_145
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 232
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0af4f0a319e31560800000000000000
+      internalID: 7283421292902283790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_146
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 94
+        width: 135
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51e8f71864a9ef90800000000000000
+      internalID: -6923822185119686306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_147
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 60
+        width: 155
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e5d7aa74a340aa0800000000000000
+      internalID: -6195763107877527997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_148
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 60
+        width: 100
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b11cd2057602190800000000000000
+      internalID: -7989272144892585212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_149
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 208
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11072b9b15d83260800000000000000
+      internalID: 7077641128956592414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_150
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 183
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403714e77b200b070800000000000000
+      internalID: 8119993115269493508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_151
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 94
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170d8eb8f301b48c0800000000000000
+      internalID: -4014096777754390415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_152
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 94
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8705e9d3f0d3fba0800000000000000
+      internalID: -6056267328131889269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Attack Effects 1_153
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 76
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee96819539a019b0800000000000000
+      internalID: -5111399529525633306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC Computer - Undertale - Attack Effects 1_0: 1347376886626544668
+      PC Computer - Undertale - Attack Effects 1_1: -5286095948552976575
+      PC Computer - Undertale - Attack Effects 1_10: -6366579954262362274
+      PC Computer - Undertale - Attack Effects 1_100: -7625264189472504286
+      PC Computer - Undertale - Attack Effects 1_101: -8883165238659142125
+      PC Computer - Undertale - Attack Effects 1_102: -488142819178549772
+      PC Computer - Undertale - Attack Effects 1_103: 8221841864333310229
+      PC Computer - Undertale - Attack Effects 1_104: 2089332290324139487
+      PC Computer - Undertale - Attack Effects 1_105: -5829508911865921038
+      PC Computer - Undertale - Attack Effects 1_106: -417896825701946932
+      PC Computer - Undertale - Attack Effects 1_107: -9037764418957699811
+      PC Computer - Undertale - Attack Effects 1_108: -2323883794835288540
+      PC Computer - Undertale - Attack Effects 1_109: -2904649541437716785
+      PC Computer - Undertale - Attack Effects 1_11: -407183172426017528
+      PC Computer - Undertale - Attack Effects 1_110: -522782970349182663
+      PC Computer - Undertale - Attack Effects 1_111: -8022348827422599189
+      PC Computer - Undertale - Attack Effects 1_112: -7475272286674690251
+      PC Computer - Undertale - Attack Effects 1_113: 8553760340022731366
+      PC Computer - Undertale - Attack Effects 1_114: -5451732210634176579
+      PC Computer - Undertale - Attack Effects 1_115: 8774821059674374963
+      PC Computer - Undertale - Attack Effects 1_116: 2587817517909077015
+      PC Computer - Undertale - Attack Effects 1_117: 459404493503816444
+      PC Computer - Undertale - Attack Effects 1_118: -5155551197873200424
+      PC Computer - Undertale - Attack Effects 1_119: -4871327783512322639
+      PC Computer - Undertale - Attack Effects 1_12: -5015242535059425016
+      PC Computer - Undertale - Attack Effects 1_120: -8143744223546523500
+      PC Computer - Undertale - Attack Effects 1_121: -8313340501339661801
+      PC Computer - Undertale - Attack Effects 1_122: -1585376159779867679
+      PC Computer - Undertale - Attack Effects 1_123: -4418798807696787515
+      PC Computer - Undertale - Attack Effects 1_124: -879490882164955089
+      PC Computer - Undertale - Attack Effects 1_125: -7684593501496460901
+      PC Computer - Undertale - Attack Effects 1_126: -6038701731190766919
+      PC Computer - Undertale - Attack Effects 1_127: -3774418956499086710
+      PC Computer - Undertale - Attack Effects 1_128: 1168766532435363820
+      PC Computer - Undertale - Attack Effects 1_129: -3303223600311586837
+      PC Computer - Undertale - Attack Effects 1_13: -3129888217457033096
+      PC Computer - Undertale - Attack Effects 1_130: 3665346396414054477
+      PC Computer - Undertale - Attack Effects 1_131: 6921320637853459389
+      PC Computer - Undertale - Attack Effects 1_132: 7098672189825822557
+      PC Computer - Undertale - Attack Effects 1_133: 881595339046554300
+      PC Computer - Undertale - Attack Effects 1_134: -8879577317497092579
+      PC Computer - Undertale - Attack Effects 1_135: 8458908877706088093
+      PC Computer - Undertale - Attack Effects 1_136: 7360816236367470022
+      PC Computer - Undertale - Attack Effects 1_137: -3441370142313261469
+      PC Computer - Undertale - Attack Effects 1_138: 6221284203127606278
+      PC Computer - Undertale - Attack Effects 1_139: 2541281399159633960
+      PC Computer - Undertale - Attack Effects 1_14: -1379958135096140339
+      PC Computer - Undertale - Attack Effects 1_140: -374771966412774989
+      PC Computer - Undertale - Attack Effects 1_141: 8740142606832883720
+      PC Computer - Undertale - Attack Effects 1_142: -3903510076799223012
+      PC Computer - Undertale - Attack Effects 1_143: -2823675491532179753
+      PC Computer - Undertale - Attack Effects 1_144: 1203539443407316711
+      PC Computer - Undertale - Attack Effects 1_145: 7283421292902283790
+      PC Computer - Undertale - Attack Effects 1_146: -6923822185119686306
+      PC Computer - Undertale - Attack Effects 1_147: -6195763107877527997
+      PC Computer - Undertale - Attack Effects 1_148: -7989272144892585212
+      PC Computer - Undertale - Attack Effects 1_149: 7077641128956592414
+      PC Computer - Undertale - Attack Effects 1_15: 8401778738808690866
+      PC Computer - Undertale - Attack Effects 1_150: 8119993115269493508
+      PC Computer - Undertale - Attack Effects 1_151: -4014096777754390415
+      PC Computer - Undertale - Attack Effects 1_152: -6056267328131889269
+      PC Computer - Undertale - Attack Effects 1_153: -5111399529525633306
+      PC Computer - Undertale - Attack Effects 1_16: 8822757328317757540
+      PC Computer - Undertale - Attack Effects 1_17: -4553566632315313715
+      PC Computer - Undertale - Attack Effects 1_18: 3772878630193768655
+      PC Computer - Undertale - Attack Effects 1_19: -4055698732434185231
+      PC Computer - Undertale - Attack Effects 1_2: 27660446706791559
+      PC Computer - Undertale - Attack Effects 1_20: 479823269973669410
+      PC Computer - Undertale - Attack Effects 1_21: -1667435520670000414
+      PC Computer - Undertale - Attack Effects 1_22: -9050067208447301028
+      PC Computer - Undertale - Attack Effects 1_23: 1971237089828974273
+      PC Computer - Undertale - Attack Effects 1_24: -8048746884995822672
+      PC Computer - Undertale - Attack Effects 1_25: -2244305005584653580
+      PC Computer - Undertale - Attack Effects 1_26: 4789131449016194634
+      PC Computer - Undertale - Attack Effects 1_27: -5946977070038437735
+      PC Computer - Undertale - Attack Effects 1_28: -2735365853721769162
+      PC Computer - Undertale - Attack Effects 1_29: 76526018375826821
+      PC Computer - Undertale - Attack Effects 1_3: -7425640727921494479
+      PC Computer - Undertale - Attack Effects 1_30: 8801027547414890678
+      PC Computer - Undertale - Attack Effects 1_31: -4359237831958309074
+      PC Computer - Undertale - Attack Effects 1_32: -4541702022732155403
+      PC Computer - Undertale - Attack Effects 1_33: -7489915603241835832
+      PC Computer - Undertale - Attack Effects 1_34: 5773657475417433108
+      PC Computer - Undertale - Attack Effects 1_35: 284452810916972049
+      PC Computer - Undertale - Attack Effects 1_36: 7947159193562459095
+      PC Computer - Undertale - Attack Effects 1_37: -2529889326124893764
+      PC Computer - Undertale - Attack Effects 1_38: 5957308414849996521
+      PC Computer - Undertale - Attack Effects 1_39: 240586761447146265
+      PC Computer - Undertale - Attack Effects 1_4: 2399261083466319767
+      PC Computer - Undertale - Attack Effects 1_40: 7298583445940919245
+      PC Computer - Undertale - Attack Effects 1_41: 1680980825242632350
+      PC Computer - Undertale - Attack Effects 1_42: 8345541160410998866
+      PC Computer - Undertale - Attack Effects 1_43: 3388617316109232182
+      PC Computer - Undertale - Attack Effects 1_44: 8603888442642342144
+      PC Computer - Undertale - Attack Effects 1_45: -4676803777654956167
+      PC Computer - Undertale - Attack Effects 1_46: 7922981431841532505
+      PC Computer - Undertale - Attack Effects 1_47: -2756925122353384636
+      PC Computer - Undertale - Attack Effects 1_48: -4831633806233712264
+      PC Computer - Undertale - Attack Effects 1_49: 5766962252976329604
+      PC Computer - Undertale - Attack Effects 1_5: -4868004348068116456
+      PC Computer - Undertale - Attack Effects 1_50: 6755963001706390261
+      PC Computer - Undertale - Attack Effects 1_51: -8886186093212024633
+      PC Computer - Undertale - Attack Effects 1_52: -2569573565121709113
+      PC Computer - Undertale - Attack Effects 1_53: -9141486573613856701
+      PC Computer - Undertale - Attack Effects 1_54: -6957001667468287351
+      PC Computer - Undertale - Attack Effects 1_55: -8550911125032206401
+      PC Computer - Undertale - Attack Effects 1_56: -5921570751675415606
+      PC Computer - Undertale - Attack Effects 1_57: 6118575435882499761
+      PC Computer - Undertale - Attack Effects 1_58: 7076233083769540901
+      PC Computer - Undertale - Attack Effects 1_59: -536136587009574378
+      PC Computer - Undertale - Attack Effects 1_6: 8443505524687883447
+      PC Computer - Undertale - Attack Effects 1_60: -544388544219960724
+      PC Computer - Undertale - Attack Effects 1_61: -1987971862703459635
+      PC Computer - Undertale - Attack Effects 1_62: 531968955562677579
+      PC Computer - Undertale - Attack Effects 1_63: -4594022866100683443
+      PC Computer - Undertale - Attack Effects 1_64: -6752287913884149033
+      PC Computer - Undertale - Attack Effects 1_65: -8540295045642482728
+      PC Computer - Undertale - Attack Effects 1_66: 852791983404910172
+      PC Computer - Undertale - Attack Effects 1_67: 8850782644627661563
+      PC Computer - Undertale - Attack Effects 1_68: 4689618983590205954
+      PC Computer - Undertale - Attack Effects 1_69: 6735811032862028490
+      PC Computer - Undertale - Attack Effects 1_7: -8396510250557730969
+      PC Computer - Undertale - Attack Effects 1_70: -3245244621530581763
+      PC Computer - Undertale - Attack Effects 1_71: 1728626043085219465
+      PC Computer - Undertale - Attack Effects 1_72: -6702935446109469695
+      PC Computer - Undertale - Attack Effects 1_73: -9066856386144061266
+      PC Computer - Undertale - Attack Effects 1_74: -8060521087167514932
+      PC Computer - Undertale - Attack Effects 1_75: -9203156101975329712
+      PC Computer - Undertale - Attack Effects 1_76: -7228832960073709395
+      PC Computer - Undertale - Attack Effects 1_77: -7688333543478149249
+      PC Computer - Undertale - Attack Effects 1_78: 5167148044861814415
+      PC Computer - Undertale - Attack Effects 1_79: 4846339525155733611
+      PC Computer - Undertale - Attack Effects 1_8: 6979220967532593690
+      PC Computer - Undertale - Attack Effects 1_80: -4400838359697241689
+      PC Computer - Undertale - Attack Effects 1_81: 56651670767665436
+      PC Computer - Undertale - Attack Effects 1_82: 4939678305254168546
+      PC Computer - Undertale - Attack Effects 1_83: -3624511717304239695
+      PC Computer - Undertale - Attack Effects 1_84: 6267573181531231675
+      PC Computer - Undertale - Attack Effects 1_85: 2672148488334024247
+      PC Computer - Undertale - Attack Effects 1_86: 1568345797811978190
+      PC Computer - Undertale - Attack Effects 1_87: -6086446759685998900
+      PC Computer - Undertale - Attack Effects 1_88: -4477669924381309141
+      PC Computer - Undertale - Attack Effects 1_89: 2797885546756421845
+      PC Computer - Undertale - Attack Effects 1_9: 3143184602787920645
+      PC Computer - Undertale - Attack Effects 1_90: 5776560016232592814
+      PC Computer - Undertale - Attack Effects 1_91: -4141193200586455353
+      PC Computer - Undertale - Attack Effects 1_92: -803408002928897090
+      PC Computer - Undertale - Attack Effects 1_93: 5804445311528970394
+      PC Computer - Undertale - Attack Effects 1_94: 4804864305635491847
+      PC Computer - Undertale - Attack Effects 1_95: 8618981224999435606
+      PC Computer - Undertale - Attack Effects 1_96: 8311633861427830261
+      PC Computer - Undertale - Attack Effects 1_97: 4845928492423310378
+      PC Computer - Undertale - Attack Effects 1_98: -3453109188063340509
+      PC Computer - Undertale - Attack Effects 1_99: 4264447522200932241
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

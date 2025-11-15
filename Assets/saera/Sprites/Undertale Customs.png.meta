@@ -1,0 +1,3952 @@
+fileFormatVersion: 2
+guid: 90ab49ae33fab1f41af20bc656164ff7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9140384356136220502
+    second: Undertale Customs_0
+  - first:
+      213: 4346370474163153062
+    second: Undertale Customs_1
+  - first:
+      213: -5697935517628307911
+    second: Undertale Customs_2
+  - first:
+      213: 3333538116497679922
+    second: Undertale Customs_3
+  - first:
+      213: 3372698495874982829
+    second: Undertale Customs_4
+  - first:
+      213: -4862653153892144733
+    second: Undertale Customs_5
+  - first:
+      213: -2652424223709935897
+    second: Undertale Customs_6
+  - first:
+      213: 3826269141474996152
+    second: Undertale Customs_7
+  - first:
+      213: 4885990720742520566
+    second: Undertale Customs_8
+  - first:
+      213: -5516187937630167725
+    second: Undertale Customs_9
+  - first:
+      213: 1815271529180203618
+    second: Undertale Customs_10
+  - first:
+      213: 7970725937463945594
+    second: Undertale Customs_11
+  - first:
+      213: -5127925466599843404
+    second: Undertale Customs_12
+  - first:
+      213: -8149463268691555036
+    second: Undertale Customs_13
+  - first:
+      213: -3008967762840513065
+    second: Undertale Customs_14
+  - first:
+      213: -8795399366268328096
+    second: Undertale Customs_15
+  - first:
+      213: -6881813209844974488
+    second: Undertale Customs_16
+  - first:
+      213: -3638812643114162911
+    second: Undertale Customs_17
+  - first:
+      213: 897008690768032842
+    second: Undertale Customs_18
+  - first:
+      213: 8641323332888895185
+    second: Undertale Customs_19
+  - first:
+      213: 7972948264797947824
+    second: Undertale Customs_20
+  - first:
+      213: 490253776296829047
+    second: Undertale Customs_21
+  - first:
+      213: 8435091787095137230
+    second: Undertale Customs_22
+  - first:
+      213: 3258814014111170368
+    second: Undertale Customs_23
+  - first:
+      213: -2965176131669047377
+    second: Undertale Customs_24
+  - first:
+      213: 354780989189005973
+    second: Undertale Customs_25
+  - first:
+      213: -4561421998499534977
+    second: Undertale Customs_26
+  - first:
+      213: -2249155667206823767
+    second: Undertale Customs_27
+  - first:
+      213: -5176439374391312580
+    second: Undertale Customs_28
+  - first:
+      213: 6201293337569192312
+    second: Undertale Customs_29
+  - first:
+      213: -1298708552617809688
+    second: Undertale Customs_30
+  - first:
+      213: 3940012390771748268
+    second: Undertale Customs_31
+  - first:
+      213: -9153344305119891065
+    second: Undertale Customs_32
+  - first:
+      213: -2403307965369905191
+    second: Undertale Customs_33
+  - first:
+      213: 1715420122918062114
+    second: Undertale Customs_34
+  - first:
+      213: 7922757635153655756
+    second: Undertale Customs_35
+  - first:
+      213: -6964272424298249436
+    second: Undertale Customs_36
+  - first:
+      213: 7841036620647836618
+    second: Undertale Customs_37
+  - first:
+      213: 3010834404176763545
+    second: Undertale Customs_38
+  - first:
+      213: -5776029811321411683
+    second: Undertale Customs_39
+  - first:
+      213: 7119352598622331731
+    second: Undertale Customs_40
+  - first:
+      213: -5234355392222522475
+    second: Undertale Customs_41
+  - first:
+      213: 3991307086807364877
+    second: Undertale Customs_42
+  - first:
+      213: -6163417675570852572
+    second: Undertale Customs_43
+  - first:
+      213: -58301778431725842
+    second: Undertale Customs_44
+  - first:
+      213: 8061610123923682911
+    second: Undertale Customs_45
+  - first:
+      213: -8409246825759813918
+    second: Undertale Customs_46
+  - first:
+      213: -3190061266496887828
+    second: Undertale Customs_47
+  - first:
+      213: -959551314650054225
+    second: Undertale Customs_48
+  - first:
+      213: -8059102801470411821
+    second: Undertale Customs_49
+  - first:
+      213: 4267026004853972345
+    second: Undertale Customs_50
+  - first:
+      213: 1574503564762002229
+    second: Undertale Customs_51
+  - first:
+      213: -1256886527701484710
+    second: Undertale Customs_52
+  - first:
+      213: 121637404137440138
+    second: Undertale Customs_53
+  - first:
+      213: -3450911921297543562
+    second: Undertale Customs_54
+  - first:
+      213: 1748805022026615781
+    second: Undertale Customs_55
+  - first:
+      213: -7050249591653779946
+    second: Undertale Customs_56
+  - first:
+      213: 34784922437637795
+    second: Undertale Customs_57
+  - first:
+      213: -31192322734392687
+    second: Undertale Customs_58
+  - first:
+      213: 5729555301162055240
+    second: Undertale Customs_59
+  - first:
+      213: 4422417929013722889
+    second: Undertale Customs_60
+  - first:
+      213: 2351315620940909642
+    second: Undertale Customs_61
+  - first:
+      213: -6034589640594416017
+    second: Undertale Customs_62
+  - first:
+      213: -1523939286929521540
+    second: Undertale Customs_63
+  - first:
+      213: -2042767749527614284
+    second: Undertale Customs_64
+  - first:
+      213: 1399386104115780357
+    second: Undertale Customs_65
+  - first:
+      213: 6506065348411247043
+    second: Undertale Customs_66
+  - first:
+      213: 2640704747765012085
+    second: Undertale Customs_67
+  - first:
+      213: 6148897074566912857
+    second: Undertale Customs_68
+  - first:
+      213: 7695628269548403998
+    second: Undertale Customs_69
+  - first:
+      213: -5076466418902884915
+    second: Undertale Customs_70
+  - first:
+      213: 2572250214999033415
+    second: Undertale Customs_71
+  - first:
+      213: 7674274675652668907
+    second: Undertale Customs_72
+  - first:
+      213: -3732847368485369370
+    second: Undertale Customs_73
+  - first:
+      213: 933411121543312595
+    second: Undertale Customs_74
+  - first:
+      213: 6021895528251109167
+    second: Undertale Customs_75
+  - first:
+      213: 6594259031470525191
+    second: Undertale Customs_76
+  - first:
+      213: -5964985546156694427
+    second: Undertale Customs_77
+  - first:
+      213: -8749271607620696979
+    second: Undertale Customs_78
+  - first:
+      213: -6584840639222390182
+    second: Undertale Customs_79
+  - first:
+      213: 7257914564054868504
+    second: Undertale Customs_80
+  - first:
+      213: 4146240167672084365
+    second: Undertale Customs_81
+  - first:
+      213: -3490667059426433116
+    second: Undertale Customs_82
+  - first:
+      213: 2796125850665976362
+    second: Undertale Customs_83
+  - first:
+      213: -6743300427325737525
+    second: Undertale Customs_84
+  - first:
+      213: -8765916223970064541
+    second: Undertale Customs_85
+  - first:
+      213: -2287766752510578441
+    second: Undertale Customs_86
+  - first:
+      213: 1140770057294068147
+    second: Undertale Customs_87
+  - first:
+      213: 3480253467363052031
+    second: Undertale Customs_88
+  - first:
+      213: -5454121693259770762
+    second: Undertale Customs_89
+  - first:
+      213: -3512877201826889323
+    second: Undertale Customs_90
+  - first:
+      213: -109423682565484806
+    second: Undertale Customs_91
+  - first:
+      213: -2605130920459990291
+    second: Undertale Customs_92
+  - first:
+      213: -7727494515298020911
+    second: Undertale Customs_93
+  - first:
+      213: -4824339496943520131
+    second: Undertale Customs_94
+  - first:
+      213: 1330140564184601125
+    second: Undertale Customs_95
+  - first:
+      213: 9027936518725271540
+    second: Undertale Customs_96
+  - first:
+      213: -7741630622894385192
+    second: Undertale Customs_97
+  - first:
+      213: -2961170074092711425
+    second: Undertale Customs_98
+  - first:
+      213: -4955809488337082808
+    second: Undertale Customs_99
+  - first:
+      213: 804349912886236474
+    second: Undertale Customs_100
+  - first:
+      213: -7430733498876025706
+    second: Undertale Customs_101
+  - first:
+      213: -5530569021990317666
+    second: Undertale Customs_102
+  - first:
+      213: -2438059761676530590
+    second: Undertale Customs_103
+  - first:
+      213: 3227014094181041419
+    second: Undertale Customs_104
+  - first:
+      213: 592815087027035477
+    second: Undertale Customs_105
+  - first:
+      213: 6054067386697808715
+    second: Undertale Customs_106
+  - first:
+      213: 165072394922416692
+    second: Undertale Customs_107
+  - first:
+      213: 1613768357804722645
+    second: Undertale Customs_108
+  - first:
+      213: -5212866058027720690
+    second: Undertale Customs_109
+  - first:
+      213: 752769717957265151
+    second: Undertale Customs_110
+  - first:
+      213: -1698179904375982299
+    second: Undertale Customs_111
+  - first:
+      213: -5263230180429161296
+    second: Undertale Customs_112
+  - first:
+      213: 1779470726317424903
+    second: Undertale Customs_113
+  - first:
+      213: -8146850412829682955
+    second: Undertale Customs_114
+  - first:
+      213: -640059795842645742
+    second: Undertale Customs_115
+  - first:
+      213: 4332177111287648485
+    second: Undertale Customs_116
+  - first:
+      213: 2960961009160822319
+    second: Undertale Customs_117
+  - first:
+      213: 3434517374795994111
+    second: Undertale Customs_118
+  - first:
+      213: -3391368661375506594
+    second: Undertale Customs_119
+  - first:
+      213: -7889283076639097868
+    second: Undertale Customs_120
+  - first:
+      213: 6818361600546770606
+    second: Undertale Customs_121
+  - first:
+      213: -1219245146442715857
+    second: Undertale Customs_122
+  - first:
+      213: 1303263427222647719
+    second: Undertale Customs_123
+  - first:
+      213: 1090033070700921978
+    second: Undertale Customs_124
+  - first:
+      213: -5290093049250062988
+    second: Undertale Customs_125
+  - first:
+      213: -7499979308133561237
+    second: Undertale Customs_126
+  - first:
+      213: -6842623420846261628
+    second: Undertale Customs_127
+  - first:
+      213: -9084263712310343420
+    second: Undertale Customs_128
+  - first:
+      213: 6834361993567316360
+    second: Undertale Customs_129
+  - first:
+      213: 2356930538948633360
+    second: Undertale Customs_130
+  - first:
+      213: 8704807822152834442
+    second: Undertale Customs_131
+  - first:
+      213: -2039810414545112111
+    second: Undertale Customs_132
+  - first:
+      213: 5057658125040932361
+    second: Undertale Customs_133
+  - first:
+      213: 3128216066660591820
+    second: Undertale Customs_134
+  - first:
+      213: 8876353015513032259
+    second: Undertale Customs_135
+  - first:
+      213: 1489259770423542051
+    second: Undertale Customs_136
+  - first:
+      213: 158190785269852936
+    second: Undertale Customs_137
+  - first:
+      213: 2565244827917605442
+    second: Undertale Customs_138
+  - first:
+      213: -2994656996123661276
+    second: Undertale Customs_139
+  - first:
+      213: -6701210196811720395
+    second: Undertale Customs_140
+  - first:
+      213: 1832688687617590349
+    second: Undertale Customs_141
+  - first:
+      213: 4365170181808348077
+    second: Undertale Customs_142
+  - first:
+      213: -5825983227268046292
+    second: Undertale Customs_143
+  - first:
+      213: 7690781295200970418
+    second: Undertale Customs_144
+  - first:
+      213: -5320142100182656507
+    second: Undertale Customs_145
+  - first:
+      213: 6222330266858886733
+    second: Undertale Customs_146
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Down_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 867
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6577902e42b29de70800000000000000
+      internalID: 9140384356136220502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 869
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8adbe0be8615c30800000000000000
+      internalID: 4346370474163153062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 870
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936eeaee5dddce0b0800000000000000
+      internalID: -5697935517628307911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down_4
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 869
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236a11f414b134e20800000000000000
+      internalID: 3333538116497679922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 867
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da36f15a96b3ece20800000000000000
+      internalID: 3372698495874982829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 867
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9635058b2648cb0800000000000000
+      internalID: -4862653153892144733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_6
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 869
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6c020c832b03bd0800000000000000
+      internalID: -2652424223709935897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_7
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 870
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfe7a00383a91530800000000000000
+      internalID: 3826269141474996152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_8
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 869
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f676b56ca68ec340800000000000000
+      internalID: 4885990720742520566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_9
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 867
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d5247fb409273b0800000000000000
+      internalID: -5516187937630167725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 825
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a8aab86d3213910800000000000000
+      internalID: 1815271529180203618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 827
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79e7886205bd9e60800000000000000
+      internalID: 7970725937463945594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 828
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b913a005f2f5d8b0800000000000000
+      internalID: -5127925466599843404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_4
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 827
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42dcb87b55a47ee80800000000000000
+      internalID: -8149463268691555036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 825
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d51a4b03cffd36d0800000000000000
+      internalID: -3008967762840513065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_15
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 825
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06761eb50e670f580800000000000000
+      internalID: -8795399366268328096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_16
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 827
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c7998d853ee70a0800000000000000
+      internalID: -6881813209844974488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_17
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 828
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125eafa2e27508dc0800000000000000
+      internalID: -3638812643114162911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_18
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 827
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44baa5d6a0d27c00800000000000000
+      internalID: 897008690768032842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_19
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 825
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de132e99c52ce770800000000000000
+      internalID: 8641323332888895185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 785
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b749df443a95ae60800000000000000
+      internalID: 7972948264797947824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 785
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77067f9463bbdc600800000000000000
+      internalID: 490253776296829047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 784
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbde911a477f0570800000000000000
+      internalID: 8435091787095137230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left_4
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 784
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f39247412a93d20800000000000000
+      internalID: 3258814014111170368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left_5
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 784
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa74667b40499d6d0800000000000000
+      internalID: -2965176131669047377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_25
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 785
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5922ca11e6f6ce400800000000000000
+      internalID: 354780989189005973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_26
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 785
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7768cc1cd292b0c0800000000000000
+      internalID: -4561421998499534977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_27
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 784
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0a49356d469c0e0800000000000000
+      internalID: -2249155667206823767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_28
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 784
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f7f00a0d79928b0800000000000000
+      internalID: -5176439374391312580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_29
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 784
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879eec54f6b6f0650800000000000000
+      internalID: 6201293337569192312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 742
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e82476c37f0afde0800000000000000
+      internalID: -1298708552617809688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 742
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad6692f46cbda630800000000000000
+      internalID: 3940012390771748268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 742
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781fb7ad9d9c8f080800000000000000
+      internalID: -9153344305119891065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right_4
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 743
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df8246832cb5aed0800000000000000
+      internalID: -2403307965369905191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right_5
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 743
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228861b53856ec710800000000000000
+      internalID: 1715420122918062114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_35
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 742
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7f8d4b71a43fd60800000000000000
+      internalID: 7922757635153655756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_36
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 742
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42387aed02fe95f90800000000000000
+      internalID: -6964272424298249436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_37
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 742
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb2b8c4345f0dc60800000000000000
+      internalID: 7841036620647836618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_38
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 743
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a1b7240f1a8c920800000000000000
+      internalID: 3010834404176763545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_39
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 743
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97ee144d7b67dfa0800000000000000
+      internalID: -5776029811321411683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 694
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35363afe7750dc260800000000000000
+      internalID: 7119352598622331731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_41
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 696
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5931d6ae085db57b0800000000000000
+      internalID: -5234355392222522475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_42
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 697
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05f6aa06a8f36730800000000000000
+      internalID: 3991307086807364877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_43
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 696
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d4c3d7744277aa0800000000000000
+      internalID: -6163417675570852572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_44
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 694
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeeadc667ded03ff0800000000000000
+      internalID: -58301778431725842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_45
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 695
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56f92a02b790ef60800000000000000
+      internalID: 8061610123923682911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_46
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 695
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee410ae09a5c4b80800000000000000
+      internalID: -8409246825759813918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_47
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 695
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce368b60e20aab3d0800000000000000
+      internalID: -3190061266496887828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_48
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 695
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1468ac92dfea2f0800000000000000
+      internalID: -959551314650054225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_49
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 652
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db200673b0582090800000000000000
+      internalID: -8059102801470411821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_50
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 654
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ddca23b85873b30800000000000000
+      internalID: 4267026004853972345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_51
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 655
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533b93b66a2c9d510800000000000000
+      internalID: 1574503564762002229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_52
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 654
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bf061cc54ae8ee0800000000000000
+      internalID: -1256886527701484710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_53
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 652
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a834309139420b100800000000000000
+      internalID: 121637404137440138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_54
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 653
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e26eb24e5eb10d0800000000000000
+      internalID: -3450911921297543562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_55
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 653
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebc057e6e0054810800000000000000
+      internalID: 1748805022026615781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_56
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 653
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61632a7a95b782e90800000000000000
+      internalID: -7050249591653779946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_57
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 653
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a65f61e3b49b7000800000000000000
+      internalID: 34784922437637795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_58
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 612
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a72bb6fbe219ff0800000000000000
+      internalID: -31192322734392687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_59
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 612
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84678be9038738f40800000000000000
+      internalID: 5729555301162055240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_60
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 611
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f7e2beca59f5d30800000000000000
+      internalID: 4422417929013722889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_61
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 611
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c8205791d81a020800000000000000
+      internalID: 2351315620940909642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_62
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 611
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e1e1bc1b4d04ca0800000000000000
+      internalID: -6034589640594416017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_63
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 623
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74cd4fea41e9dae0800000000000000
+      internalID: -1523939286929521540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_64
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 624
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc48ca0e81a6a3e0800000000000000
+      internalID: -2042767749527614284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_65
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 624
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b50775f3e9b6310800000000000000
+      internalID: 1399386104115780357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_66
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 569
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9c789b6ff2a4a50800000000000000
+      internalID: 6506065348411247043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_67
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 569
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576983f1afaa5a420800000000000000
+      internalID: 2640704747765012085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_68
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 569
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95bdff1af45455550800000000000000
+      internalID: 6148897074566912857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_69
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 570
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1df2e1532d5cca60800000000000000
+      internalID: 7695628269548403998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_70
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 570
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd181330b4cc89b0800000000000000
+      internalID: -5076466418902884915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_71
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 579
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746807231f772b320800000000000000
+      internalID: 2572250214999033415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_72
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 579
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedad0f4820808a60800000000000000
+      internalID: 7674274675652668907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_73
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 578
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e98da88813423cc0800000000000000
+      internalID: -3732847368485369370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_74
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 578
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4fcf8387424fc00800000000000000
+      internalID: 933411121543312595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_75
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 578
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2fabebd312129350800000000000000
+      internalID: 6021895528251109167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_76
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 521
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b46b7b6a3838b50800000000000000
+      internalID: 6594259031470525191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_77
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 523
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564adf6ef3d183da0800000000000000
+      internalID: -5964985546156694427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_78
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 524
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d648b5814d7549680800000000000000
+      internalID: -8749271607620696979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_79
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 523
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52e79c9352fd94a0800000000000000
+      internalID: -6584840639222390182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_80
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 521
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812ef9887da49b460800000000000000
+      internalID: 7257914564054868504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_81
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 530
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87fc8bf6776a8930800000000000000
+      internalID: 4146240167672084365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_82
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 532
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7eab5cdc8ae8fc0800000000000000
+      internalID: -3490667059426433116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_83
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 533
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a228b3c85a5ddc620800000000000000
+      internalID: 2796125850665976362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_84
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 532
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc572872dfbfa62a0800000000000000
+      internalID: -6743300427325737525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_85
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 530
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3674e6b53a5395680800000000000000
+      internalID: -8765916223970064541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_86
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 479
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f078ab72483040e0800000000000000
+      internalID: -2287766752510578441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_87
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 481
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b93a63b254d4df00800000000000000
+      internalID: 1140770057294068147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_88
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 482
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff90f72e6185c4030800000000000000
+      internalID: 3480253467363052031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_89
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 481
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674df7797311f44b0800000000000000
+      internalID: -5454121693259770762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_90
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 479
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5914a850cc0cf3fc0800000000000000
+      internalID: -3512877201826889323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_91
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 490
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe4bae8dbf3b7ef0800000000000000
+      internalID: -109423682565484806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_92
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 490
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea889cfa37b8dbd0800000000000000
+      internalID: -2605130920459990291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_93
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 489
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1d1eb2eac62c490800000000000000
+      internalID: -7727494515298020911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_94
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 489
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d767bc8b9c08c0db0800000000000000
+      internalID: -4824339496943520131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_95
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 489
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5229f85bbcb957210800000000000000
+      internalID: 1330140564184601125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_96
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 439
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff75658e6ca94d70800000000000000
+      internalID: 9027936518725271540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 439
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7181427f3309490800000000000000
+      internalID: -7741630622894385192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_98
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 438
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1df2ea18fc7e6d0800000000000000
+      internalID: -2961170074092711425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_99
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 438
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8466821078d693bb0800000000000000
+      internalID: -4955809488337082808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_100
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 438
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3553b0fbff992b00800000000000000
+      internalID: 804349912886236474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_101
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 222
+        width: 123
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69426e2a04bb0e890800000000000000
+      internalID: -7430733498876025706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_102
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 396
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91dc76d6c87f33b0800000000000000
+      internalID: -5530569021990317666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_103
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 396
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26cc81c60954a2ed0800000000000000
+      internalID: -2438059761676530590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_104
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 396
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0507d0a838a8cc20800000000000000
+      internalID: 3227014094181041419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_105
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 397
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d1db74e2a1a3800800000000000000
+      internalID: 592815087027035477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_106
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 397
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b766e563e540450800000000000000
+      internalID: 6054067386697808715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_107
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 348
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ad295f7747a4200800000000000000
+      internalID: 165072394922416692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_108
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 350
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d947b475c1456610800000000000000
+      internalID: 1613768357804722645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_109
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 351
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00219d60fd28a7b0800000000000000
+      internalID: -5212866058027720690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_110
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 350
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff68384f110627a00800000000000000
+      internalID: 752769717957265151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_111
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 348
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52776f2df5ade68e0800000000000000
+      internalID: -1698179904375982299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_112
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 306
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc9764690045f6b0800000000000000
+      internalID: -5263230180429161296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_113
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 308
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7014b529233f1b810800000000000000
+      internalID: 1779470726317424903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_114
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 309
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2da01a6b290fe80800000000000000
+      internalID: -8146850412829682955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_115
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 308
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2114ac1c10d0e17f0800000000000000
+      internalID: -640059795842645742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_116
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 306
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0d06e312cfe1c30800000000000000
+      internalID: 4332177111287648485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_117
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 266
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e10d89952771920800000000000000
+      internalID: 2960961009160822319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_118
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 266
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff35f930b5bd9af20800000000000000
+      internalID: 3434517374795994111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_119
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 265
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e572254bb207fe0d0800000000000000
+      internalID: -3391368661375506594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_120
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 265
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbfc6c47d2a38290800000000000000
+      internalID: -7889283076639097868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_121
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 265
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae01ce10cfaf9e50800000000000000
+      internalID: 6818361600546770606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_122
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 223
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2da928cffe541fe0800000000000000
+      internalID: -1219245146442715857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_123
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 223
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a33d5c9e2f161210800000000000000
+      internalID: 1303263427222647719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_124
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 223
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a748e847d43902f00800000000000000
+      internalID: 1090033070700921978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_125
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 224
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ddfaa5660d596b0800000000000000
+      internalID: -5290093049250062988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_126
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 224
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c4beb4e88bae790800000000000000
+      internalID: -7499979308133561237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_127
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 167
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ab0b4a04e1a01a0800000000000000
+      internalID: -6842623420846261628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_128
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 169
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40945cdb8463ee180800000000000000
+      internalID: -9084263712310343420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_129
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 170
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889a20de50888de50800000000000000
+      internalID: 6834361993567316360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_130
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 169
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013ad4e66df75b020800000000000000
+      internalID: 2356930538948633360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_131
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 167
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d167d1890bdc870800000000000000
+      internalID: 8704807822152834442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_132
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 116
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d375ef3c3321b3e0800000000000000
+      internalID: -2039810414545112111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_133
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 118
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906de62a449603640800000000000000
+      internalID: 5057658125040932361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_134
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 119
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc869f940f7a96b20800000000000000
+      internalID: 3128216066660591820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_135
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 118
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3462f96e9042f2b70800000000000000
+      internalID: 8876353015513032259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_136
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 116
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321006aeed9eaa410800000000000000
+      internalID: 1489259770423542051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_137
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 67
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80befba5ea1023200800000000000000
+      internalID: 158190785269852936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_138
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 67
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24adfe96494999320800000000000000
+      internalID: 2565244827917605442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_139
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 66
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c29e11457d076d0800000000000000
+      internalID: -2994656996123661276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_140
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 66
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539dfcd94d48003a0800000000000000
+      internalID: -6701210196811720395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_141
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 66
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44c251c6a40f6910800000000000000
+      internalID: 1832688687617590349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_142
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 15
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab50d61723349c30800000000000000
+      internalID: 4365170181808348077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_143
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 15
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22ed474f13f52fa0800000000000000
+      internalID: -5825983227268046292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_144
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 15
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b62ca927d42bba60800000000000000
+      internalID: 7690781295200970418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_145
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 16
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a130c72fe0b26b0800000000000000
+      internalID: -5320142100182656507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undertale Customs_146
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 16
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46194f09682a5650800000000000000
+      internalID: 6222330266858886733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 12b8fc041c2320049a43601953dde087
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Down_1: 9140384356136220502
+      Down_2: 4346370474163153062
+      Down_3: -5697935517628307911
+      Down_4: 3333538116497679922
+      Down_5: 3372698495874982829
+      Left_1: 7972948264797947824
+      Left_2: 490253776296829047
+      Left_3: 8435091787095137230
+      Left_4: 3258814014111170368
+      Left_5: -2965176131669047377
+      Right_1: -1298708552617809688
+      Right_2: 3940012390771748268
+      Right_3: -9153344305119891065
+      Right_4: -2403307965369905191
+      Right_5: 1715420122918062114
+      Undertale Customs_100: 804349912886236474
+      Undertale Customs_101: -7430733498876025706
+      Undertale Customs_102: -5530569021990317666
+      Undertale Customs_103: -2438059761676530590
+      Undertale Customs_104: 3227014094181041419
+      Undertale Customs_105: 592815087027035477
+      Undertale Customs_106: 6054067386697808715
+      Undertale Customs_107: 165072394922416692
+      Undertale Customs_108: 1613768357804722645
+      Undertale Customs_109: -5212866058027720690
+      Undertale Customs_110: 752769717957265151
+      Undertale Customs_111: -1698179904375982299
+      Undertale Customs_112: -5263230180429161296
+      Undertale Customs_113: 1779470726317424903
+      Undertale Customs_114: -8146850412829682955
+      Undertale Customs_115: -640059795842645742
+      Undertale Customs_116: 4332177111287648485
+      Undertale Customs_117: 2960961009160822319
+      Undertale Customs_118: 3434517374795994111
+      Undertale Customs_119: -3391368661375506594
+      Undertale Customs_120: -7889283076639097868
+      Undertale Customs_121: 6818361600546770606
+      Undertale Customs_122: -1219245146442715857
+      Undertale Customs_123: 1303263427222647719
+      Undertale Customs_124: 1090033070700921978
+      Undertale Customs_125: -5290093049250062988
+      Undertale Customs_126: -7499979308133561237
+      Undertale Customs_127: -6842623420846261628
+      Undertale Customs_128: -9084263712310343420
+      Undertale Customs_129: 6834361993567316360
+      Undertale Customs_130: 2356930538948633360
+      Undertale Customs_131: 8704807822152834442
+      Undertale Customs_132: -2039810414545112111
+      Undertale Customs_133: 5057658125040932361
+      Undertale Customs_134: 3128216066660591820
+      Undertale Customs_135: 8876353015513032259
+      Undertale Customs_136: 1489259770423542051
+      Undertale Customs_137: 158190785269852936
+      Undertale Customs_138: 2565244827917605442
+      Undertale Customs_139: -2994656996123661276
+      Undertale Customs_140: -6701210196811720395
+      Undertale Customs_141: 1832688687617590349
+      Undertale Customs_142: 4365170181808348077
+      Undertale Customs_143: -5825983227268046292
+      Undertale Customs_144: 7690781295200970418
+      Undertale Customs_145: -5320142100182656507
+      Undertale Customs_146: 6222330266858886733
+      Undertale Customs_15: -8795399366268328096
+      Undertale Customs_16: -6881813209844974488
+      Undertale Customs_17: -3638812643114162911
+      Undertale Customs_18: 897008690768032842
+      Undertale Customs_19: 8641323332888895185
+      Undertale Customs_25: 354780989189005973
+      Undertale Customs_26: -4561421998499534977
+      Undertale Customs_27: -2249155667206823767
+      Undertale Customs_28: -5176439374391312580
+      Undertale Customs_29: 6201293337569192312
+      Undertale Customs_35: 7922757635153655756
+      Undertale Customs_36: -6964272424298249436
+      Undertale Customs_37: 7841036620647836618
+      Undertale Customs_38: 3010834404176763545
+      Undertale Customs_39: -5776029811321411683
+      Undertale Customs_40: 7119352598622331731
+      Undertale Customs_41: -5234355392222522475
+      Undertale Customs_42: 3991307086807364877
+      Undertale Customs_43: -6163417675570852572
+      Undertale Customs_44: -58301778431725842
+      Undertale Customs_45: 8061610123923682911
+      Undertale Customs_46: -8409246825759813918
+      Undertale Customs_47: -3190061266496887828
+      Undertale Customs_48: -959551314650054225
+      Undertale Customs_49: -8059102801470411821
+      Undertale Customs_5: -4862653153892144733
+      Undertale Customs_50: 4267026004853972345
+      Undertale Customs_51: 1574503564762002229
+      Undertale Customs_52: -1256886527701484710
+      Undertale Customs_53: 121637404137440138
+      Undertale Customs_54: -3450911921297543562
+      Undertale Customs_55: 1748805022026615781
+      Undertale Customs_56: -7050249591653779946
+      Undertale Customs_57: 34784922437637795
+      Undertale Customs_58: -31192322734392687
+      Undertale Customs_59: 5729555301162055240
+      Undertale Customs_6: -2652424223709935897
+      Undertale Customs_60: 4422417929013722889
+      Undertale Customs_61: 2351315620940909642
+      Undertale Customs_62: -6034589640594416017
+      Undertale Customs_63: -1523939286929521540
+      Undertale Customs_64: -2042767749527614284
+      Undertale Customs_65: 1399386104115780357
+      Undertale Customs_66: 6506065348411247043
+      Undertale Customs_67: 2640704747765012085
+      Undertale Customs_68: 6148897074566912857
+      Undertale Customs_69: 7695628269548403998
+      Undertale Customs_7: 3826269141474996152
+      Undertale Customs_70: -5076466418902884915
+      Undertale Customs_71: 2572250214999033415
+      Undertale Customs_72: 7674274675652668907
+      Undertale Customs_73: -3732847368485369370
+      Undertale Customs_74: 933411121543312595
+      Undertale Customs_75: 6021895528251109167
+      Undertale Customs_76: 6594259031470525191
+      Undertale Customs_77: -5964985546156694427
+      Undertale Customs_78: -8749271607620696979
+      Undertale Customs_79: -6584840639222390182
+      Undertale Customs_8: 4885990720742520566
+      Undertale Customs_80: 7257914564054868504
+      Undertale Customs_81: 4146240167672084365
+      Undertale Customs_82: -3490667059426433116
+      Undertale Customs_83: 2796125850665976362
+      Undertale Customs_84: -6743300427325737525
+      Undertale Customs_85: -8765916223970064541
+      Undertale Customs_86: -2287766752510578441
+      Undertale Customs_87: 1140770057294068147
+      Undertale Customs_88: 3480253467363052031
+      Undertale Customs_89: -5454121693259770762
+      Undertale Customs_9: -5516187937630167725
+      Undertale Customs_90: -3512877201826889323
+      Undertale Customs_91: -109423682565484806
+      Undertale Customs_92: -2605130920459990291
+      Undertale Customs_93: -7727494515298020911
+      Undertale Customs_94: -4824339496943520131
+      Undertale Customs_95: 1330140564184601125
+      Undertale Customs_96: 9027936518725271540
+      Undertale Customs_97: -7741630622894385192
+      Undertale Customs_98: -2961170074092711425
+      Undertale Customs_99: -4955809488337082808
+      Up_1: 1815271529180203618
+      Up_2: 7970725937463945594
+      Up_3: -5127925466599843404
+      Up_4: -8149463268691555036
+      Up_5: -3008967762840513065
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

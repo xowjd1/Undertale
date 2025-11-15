@@ -1,0 +1,6396 @@
+fileFormatVersion: 2
+guid: b68b047c1e235fc46bb4a891dfd5e0dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2154782605869210623
+    second: PC Computer - Undertale - Asgores Castle (1)_0
+  - first:
+      213: -6018421883855058463
+    second: PC Computer - Undertale - Asgores Castle (1)_1
+  - first:
+      213: -5105337914274918536
+    second: PC Computer - Undertale - Asgores Castle (1)_2
+  - first:
+      213: -5218833643334073828
+    second: PC Computer - Undertale - Asgores Castle (1)_3
+  - first:
+      213: 5248415326919880027
+    second: PC Computer - Undertale - Asgores Castle (1)_4
+  - first:
+      213: 4827024308531629454
+    second: PC Computer - Undertale - Asgores Castle (1)_5
+  - first:
+      213: -6214955231255672396
+    second: PC Computer - Undertale - Asgores Castle (1)_6
+  - first:
+      213: -3202474889207740587
+    second: PC Computer - Undertale - Asgores Castle (1)_7
+  - first:
+      213: 6737671307090573695
+    second: PC Computer - Undertale - Asgores Castle (1)_8
+  - first:
+      213: -5449982141456712993
+    second: PC Computer - Undertale - Asgores Castle (1)_9
+  - first:
+      213: 1320724371427471584
+    second: PC Computer - Undertale - Asgores Castle (1)_10
+  - first:
+      213: -4924874222896166274
+    second: PC Computer - Undertale - Asgores Castle (1)_11
+  - first:
+      213: -3814530534335999387
+    second: PC Computer - Undertale - Asgores Castle (1)_12
+  - first:
+      213: -291979987462642678
+    second: PC Computer - Undertale - Asgores Castle (1)_13
+  - first:
+      213: 5538871297374434443
+    second: PC Computer - Undertale - Asgores Castle (1)_14
+  - first:
+      213: -8227345588252702918
+    second: PC Computer - Undertale - Asgores Castle (1)_15
+  - first:
+      213: 4486542154343330389
+    second: PC Computer - Undertale - Asgores Castle (1)_16
+  - first:
+      213: 6876989945251741992
+    second: PC Computer - Undertale - Asgores Castle (1)_17
+  - first:
+      213: -7118745159249167118
+    second: PC Computer - Undertale - Asgores Castle (1)_18
+  - first:
+      213: -8208462545568394350
+    second: PC Computer - Undertale - Asgores Castle (1)_19
+  - first:
+      213: -7978343015205909682
+    second: PC Computer - Undertale - Asgores Castle (1)_20
+  - first:
+      213: 4788252876254374642
+    second: PC Computer - Undertale - Asgores Castle (1)_21
+  - first:
+      213: -8376484629288497436
+    second: PC Computer - Undertale - Asgores Castle (1)_22
+  - first:
+      213: -2524181055038562640
+    second: PC Computer - Undertale - Asgores Castle (1)_23
+  - first:
+      213: -3486041776340160788
+    second: PC Computer - Undertale - Asgores Castle (1)_24
+  - first:
+      213: -8427231589416378993
+    second: PC Computer - Undertale - Asgores Castle (1)_25
+  - first:
+      213: 3616152592237497193
+    second: PC Computer - Undertale - Asgores Castle (1)_26
+  - first:
+      213: -6210174905476734971
+    second: PC Computer - Undertale - Asgores Castle (1)_27
+  - first:
+      213: -153498184698411427
+    second: PC Computer - Undertale - Asgores Castle (1)_28
+  - first:
+      213: 7807597947027325879
+    second: PC Computer - Undertale - Asgores Castle (1)_29
+  - first:
+      213: -4601656956696731335
+    second: PC Computer - Undertale - Asgores Castle (1)_30
+  - first:
+      213: 4474946475048856430
+    second: PC Computer - Undertale - Asgores Castle (1)_31
+  - first:
+      213: -1302827080011876982
+    second: PC Computer - Undertale - Asgores Castle (1)_32
+  - first:
+      213: 8145067889073403463
+    second: PC Computer - Undertale - Asgores Castle (1)_33
+  - first:
+      213: -157737654351966747
+    second: PC Computer - Undertale - Asgores Castle (1)_34
+  - first:
+      213: -3878755142910966009
+    second: PC Computer - Undertale - Asgores Castle (1)_35
+  - first:
+      213: -272784383450035394
+    second: PC Computer - Undertale - Asgores Castle (1)_36
+  - first:
+      213: -2312994960336429643
+    second: PC Computer - Undertale - Asgores Castle (1)_37
+  - first:
+      213: -2962704205063704198
+    second: PC Computer - Undertale - Asgores Castle (1)_38
+  - first:
+      213: -6559430747790136474
+    second: PC Computer - Undertale - Asgores Castle (1)_39
+  - first:
+      213: -3461199618890855088
+    second: PC Computer - Undertale - Asgores Castle (1)_40
+  - first:
+      213: -7326893256241390337
+    second: PC Computer - Undertale - Asgores Castle (1)_41
+  - first:
+      213: 7447797568567980755
+    second: PC Computer - Undertale - Asgores Castle (1)_42
+  - first:
+      213: 3533156338801447982
+    second: PC Computer - Undertale - Asgores Castle (1)_43
+  - first:
+      213: 1262810817198282891
+    second: PC Computer - Undertale - Asgores Castle (1)_44
+  - first:
+      213: 2785045315351324792
+    second: PC Computer - Undertale - Asgores Castle (1)_45
+  - first:
+      213: 8783232486431624462
+    second: PC Computer - Undertale - Asgores Castle (1)_46
+  - first:
+      213: -873683321799792521
+    second: PC Computer - Undertale - Asgores Castle (1)_47
+  - first:
+      213: -841288722285562452
+    second: PC Computer - Undertale - Asgores Castle (1)_48
+  - first:
+      213: -8742470555988878197
+    second: PC Computer - Undertale - Asgores Castle (1)_49
+  - first:
+      213: 1559355797046720487
+    second: PC Computer - Undertale - Asgores Castle (1)_50
+  - first:
+      213: -279037286890123310
+    second: PC Computer - Undertale - Asgores Castle (1)_51
+  - first:
+      213: 1987380294670849416
+    second: PC Computer - Undertale - Asgores Castle (1)_52
+  - first:
+      213: 1311656447796015970
+    second: PC Computer - Undertale - Asgores Castle (1)_53
+  - first:
+      213: -2678109676397359834
+    second: PC Computer - Undertale - Asgores Castle (1)_54
+  - first:
+      213: 3437819350570248097
+    second: PC Computer - Undertale - Asgores Castle (1)_55
+  - first:
+      213: 7578209086091997347
+    second: PC Computer - Undertale - Asgores Castle (1)_56
+  - first:
+      213: 4403164546790400791
+    second: PC Computer - Undertale - Asgores Castle (1)_57
+  - first:
+      213: 1625927490876807090
+    second: PC Computer - Undertale - Asgores Castle (1)_58
+  - first:
+      213: 2877230544015888204
+    second: PC Computer - Undertale - Asgores Castle (1)_59
+  - first:
+      213: 6264865084159579173
+    second: PC Computer - Undertale - Asgores Castle (1)_60
+  - first:
+      213: -7549677753592280715
+    second: PC Computer - Undertale - Asgores Castle (1)_61
+  - first:
+      213: 92274830603828340
+    second: PC Computer - Undertale - Asgores Castle (1)_62
+  - first:
+      213: -910765295422726472
+    second: PC Computer - Undertale - Asgores Castle (1)_63
+  - first:
+      213: -5176583739812623279
+    second: PC Computer - Undertale - Asgores Castle (1)_64
+  - first:
+      213: -7337499203545006388
+    second: PC Computer - Undertale - Asgores Castle (1)_65
+  - first:
+      213: -6849414134874873455
+    second: PC Computer - Undertale - Asgores Castle (1)_66
+  - first:
+      213: -7261665933907559430
+    second: PC Computer - Undertale - Asgores Castle (1)_67
+  - first:
+      213: 3433066206753533222
+    second: PC Computer - Undertale - Asgores Castle (1)_68
+  - first:
+      213: -8458883105011709997
+    second: PC Computer - Undertale - Asgores Castle (1)_69
+  - first:
+      213: 150807422364173122
+    second: PC Computer - Undertale - Asgores Castle (1)_70
+  - first:
+      213: -7661549622070921643
+    second: PC Computer - Undertale - Asgores Castle (1)_71
+  - first:
+      213: 3499230836044020962
+    second: PC Computer - Undertale - Asgores Castle (1)_72
+  - first:
+      213: -2002451163874664400
+    second: PC Computer - Undertale - Asgores Castle (1)_73
+  - first:
+      213: -4665161278767739868
+    second: PC Computer - Undertale - Asgores Castle (1)_74
+  - first:
+      213: -1574541232511962142
+    second: PC Computer - Undertale - Asgores Castle (1)_75
+  - first:
+      213: 7819163632312694548
+    second: PC Computer - Undertale - Asgores Castle (1)_76
+  - first:
+      213: -3844787881255670321
+    second: PC Computer - Undertale - Asgores Castle (1)_77
+  - first:
+      213: -1281028536634730595
+    second: PC Computer - Undertale - Asgores Castle (1)_78
+  - first:
+      213: -5721927915598532262
+    second: PC Computer - Undertale - Asgores Castle (1)_79
+  - first:
+      213: 7963512425153206473
+    second: PC Computer - Undertale - Asgores Castle (1)_80
+  - first:
+      213: -4286038472918631692
+    second: PC Computer - Undertale - Asgores Castle (1)_81
+  - first:
+      213: 1438856989053620065
+    second: PC Computer - Undertale - Asgores Castle (1)_82
+  - first:
+      213: -2174598876125615337
+    second: PC Computer - Undertale - Asgores Castle (1)_83
+  - first:
+      213: -1496847295760363605
+    second: PC Computer - Undertale - Asgores Castle (1)_84
+  - first:
+      213: 5694287182026410982
+    second: PC Computer - Undertale - Asgores Castle (1)_85
+  - first:
+      213: 3255403295192102302
+    second: PC Computer - Undertale - Asgores Castle (1)_86
+  - first:
+      213: 6566605541478203661
+    second: PC Computer - Undertale - Asgores Castle (1)_87
+  - first:
+      213: 5329463743085429000
+    second: PC Computer - Undertale - Asgores Castle (1)_88
+  - first:
+      213: 5215427217471828782
+    second: PC Computer - Undertale - Asgores Castle (1)_89
+  - first:
+      213: 87895897487175290
+    second: PC Computer - Undertale - Asgores Castle (1)_90
+  - first:
+      213: 841135225828564775
+    second: PC Computer - Undertale - Asgores Castle (1)_91
+  - first:
+      213: -3918384626891891684
+    second: PC Computer - Undertale - Asgores Castle (1)_92
+  - first:
+      213: 1376392660844483081
+    second: PC Computer - Undertale - Asgores Castle (1)_93
+  - first:
+      213: -7128087058666877931
+    second: PC Computer - Undertale - Asgores Castle (1)_94
+  - first:
+      213: 8352807200995181909
+    second: PC Computer - Undertale - Asgores Castle (1)_95
+  - first:
+      213: -1538067037165407276
+    second: PC Computer - Undertale - Asgores Castle (1)_96
+  - first:
+      213: -2538340935242027660
+    second: PC Computer - Undertale - Asgores Castle (1)_97
+  - first:
+      213: -1064623495598889469
+    second: PC Computer - Undertale - Asgores Castle (1)_98
+  - first:
+      213: 6840489632467819051
+    second: PC Computer - Undertale - Asgores Castle (1)_99
+  - first:
+      213: 4258180813388252916
+    second: PC Computer - Undertale - Asgores Castle (1)_100
+  - first:
+      213: -5198253703071742876
+    second: PC Computer - Undertale - Asgores Castle (1)_101
+  - first:
+      213: 3840089936975777485
+    second: PC Computer - Undertale - Asgores Castle (1)_102
+  - first:
+      213: -1987489933569664555
+    second: PC Computer - Undertale - Asgores Castle (1)_103
+  - first:
+      213: 6802937111341204633
+    second: PC Computer - Undertale - Asgores Castle (1)_104
+  - first:
+      213: 7523756897883737160
+    second: PC Computer - Undertale - Asgores Castle (1)_105
+  - first:
+      213: -6459078007923893353
+    second: PC Computer - Undertale - Asgores Castle (1)_106
+  - first:
+      213: -5280182197853233701
+    second: PC Computer - Undertale - Asgores Castle (1)_107
+  - first:
+      213: 8684280998324091081
+    second: PC Computer - Undertale - Asgores Castle (1)_108
+  - first:
+      213: 6527697642509123032
+    second: PC Computer - Undertale - Asgores Castle (1)_109
+  - first:
+      213: -8754498296215089285
+    second: PC Computer - Undertale - Asgores Castle (1)_110
+  - first:
+      213: -1879913392674817321
+    second: PC Computer - Undertale - Asgores Castle (1)_111
+  - first:
+      213: -1466628458051904567
+    second: PC Computer - Undertale - Asgores Castle (1)_112
+  - first:
+      213: 7911491018257983676
+    second: PC Computer - Undertale - Asgores Castle (1)_113
+  - first:
+      213: 7880565183091552875
+    second: PC Computer - Undertale - Asgores Castle (1)_114
+  - first:
+      213: -5052381854252817065
+    second: PC Computer - Undertale - Asgores Castle (1)_115
+  - first:
+      213: 730377830326397818
+    second: PC Computer - Undertale - Asgores Castle (1)_116
+  - first:
+      213: 3996183386612861489
+    second: PC Computer - Undertale - Asgores Castle (1)_117
+  - first:
+      213: -1006174904174538922
+    second: PC Computer - Undertale - Asgores Castle (1)_118
+  - first:
+      213: 8394185285312901236
+    second: PC Computer - Undertale - Asgores Castle (1)_119
+  - first:
+      213: -4928045883811150324
+    second: PC Computer - Undertale - Asgores Castle (1)_120
+  - first:
+      213: -4817793524905268408
+    second: PC Computer - Undertale - Asgores Castle (1)_121
+  - first:
+      213: -4727287288721986678
+    second: PC Computer - Undertale - Asgores Castle (1)_122
+  - first:
+      213: 2669317963319571636
+    second: PC Computer - Undertale - Asgores Castle (1)_123
+  - first:
+      213: 5953704565986001824
+    second: PC Computer - Undertale - Asgores Castle (1)_124
+  - first:
+      213: -9051569509958479160
+    second: PC Computer - Undertale - Asgores Castle (1)_125
+  - first:
+      213: -1639044394858965981
+    second: PC Computer - Undertale - Asgores Castle (1)_126
+  - first:
+      213: 2736365599468369128
+    second: PC Computer - Undertale - Asgores Castle (1)_127
+  - first:
+      213: -8333900756495617827
+    second: PC Computer - Undertale - Asgores Castle (1)_128
+  - first:
+      213: -5875593535424954566
+    second: PC Computer - Undertale - Asgores Castle (1)_129
+  - first:
+      213: 1929987291315786299
+    second: PC Computer - Undertale - Asgores Castle (1)_130
+  - first:
+      213: -7666310943328058702
+    second: PC Computer - Undertale - Asgores Castle (1)_131
+  - first:
+      213: -4602499684416303120
+    second: PC Computer - Undertale - Asgores Castle (1)_132
+  - first:
+      213: 6603052761640014990
+    second: PC Computer - Undertale - Asgores Castle (1)_133
+  - first:
+      213: -25246264015778663
+    second: PC Computer - Undertale - Asgores Castle (1)_134
+  - first:
+      213: 7007201055875300817
+    second: PC Computer - Undertale - Asgores Castle (1)_135
+  - first:
+      213: 2025814603571194689
+    second: PC Computer - Undertale - Asgores Castle (1)_136
+  - first:
+      213: 8008217514958708857
+    second: PC Computer - Undertale - Asgores Castle (1)_137
+  - first:
+      213: -2264720407501763852
+    second: PC Computer - Undertale - Asgores Castle (1)_138
+  - first:
+      213: -7030689451455993554
+    second: PC Computer - Undertale - Asgores Castle (1)_139
+  - first:
+      213: 6948358491597302589
+    second: PC Computer - Undertale - Asgores Castle (1)_140
+  - first:
+      213: -5262496948683062750
+    second: PC Computer - Undertale - Asgores Castle (1)_141
+  - first:
+      213: 3645677850313099151
+    second: PC Computer - Undertale - Asgores Castle (1)_142
+  - first:
+      213: 4146818904218349893
+    second: PC Computer - Undertale - Asgores Castle (1)_143
+  - first:
+      213: -2958752482526390096
+    second: PC Computer - Undertale - Asgores Castle (1)_144
+  - first:
+      213: 2728703661708718993
+    second: PC Computer - Undertale - Asgores Castle (1)_145
+  - first:
+      213: 8151444475537557556
+    second: PC Computer - Undertale - Asgores Castle (1)_146
+  - first:
+      213: -6297840500067849514
+    second: PC Computer - Undertale - Asgores Castle (1)_147
+  - first:
+      213: 2357385175029668300
+    second: PC Computer - Undertale - Asgores Castle (1)_148
+  - first:
+      213: -3308943619744404928
+    second: PC Computer - Undertale - Asgores Castle (1)_149
+  - first:
+      213: 7591651208999070596
+    second: PC Computer - Undertale - Asgores Castle (1)_150
+  - first:
+      213: 907450974982168315
+    second: PC Computer - Undertale - Asgores Castle (1)_151
+  - first:
+      213: 7349570849807311553
+    second: PC Computer - Undertale - Asgores Castle (1)_152
+  - first:
+      213: 635350874291666978
+    second: PC Computer - Undertale - Asgores Castle (1)_153
+  - first:
+      213: 3113845647770862491
+    second: PC Computer - Undertale - Asgores Castle (1)_154
+  - first:
+      213: -2415052887832037891
+    second: PC Computer - Undertale - Asgores Castle (1)_155
+  - first:
+      213: -5312989652571648818
+    second: PC Computer - Undertale - Asgores Castle (1)_156
+  - first:
+      213: -5926700166117763874
+    second: PC Computer - Undertale - Asgores Castle (1)_157
+  - first:
+      213: -5020537299661303152
+    second: PC Computer - Undertale - Asgores Castle (1)_158
+  - first:
+      213: 6489793439660673631
+    second: PC Computer - Undertale - Asgores Castle (1)_159
+  - first:
+      213: -5129649628504749764
+    second: PC Computer - Undertale - Asgores Castle (1)_160
+  - first:
+      213: 4928921451459937010
+    second: PC Computer - Undertale - Asgores Castle (1)_161
+  - first:
+      213: -3893280432579567780
+    second: PC Computer - Undertale - Asgores Castle (1)_162
+  - first:
+      213: 890833646669568302
+    second: PC Computer - Undertale - Asgores Castle (1)_163
+  - first:
+      213: -7284158379290627840
+    second: PC Computer - Undertale - Asgores Castle (1)_164
+  - first:
+      213: -4542775105727672479
+    second: PC Computer - Undertale - Asgores Castle (1)_165
+  - first:
+      213: -1402951370825314984
+    second: PC Computer - Undertale - Asgores Castle (1)_166
+  - first:
+      213: -7759072417855992900
+    second: PC Computer - Undertale - Asgores Castle (1)_167
+  - first:
+      213: 8290841357719808581
+    second: PC Computer - Undertale - Asgores Castle (1)_168
+  - first:
+      213: 3543614290424356356
+    second: PC Computer - Undertale - Asgores Castle (1)_169
+  - first:
+      213: -4281578777976612339
+    second: PC Computer - Undertale - Asgores Castle (1)_170
+  - first:
+      213: 2863784733293369850
+    second: PC Computer - Undertale - Asgores Castle (1)_171
+  - first:
+      213: -2315045418635872478
+    second: PC Computer - Undertale - Asgores Castle (1)_172
+  - first:
+      213: -219868446372889666
+    second: PC Computer - Undertale - Asgores Castle (1)_173
+  - first:
+      213: 8021381247490880096
+    second: PC Computer - Undertale - Asgores Castle (1)_174
+  - first:
+      213: -2259702856621080655
+    second: PC Computer - Undertale - Asgores Castle (1)_175
+  - first:
+      213: 4781188942859986804
+    second: PC Computer - Undertale - Asgores Castle (1)_176
+  - first:
+      213: 2953505021493545984
+    second: PC Computer - Undertale - Asgores Castle (1)_177
+  - first:
+      213: 5170702852656306287
+    second: PC Computer - Undertale - Asgores Castle (1)_178
+  - first:
+      213: 5515523944919945093
+    second: PC Computer - Undertale - Asgores Castle (1)_179
+  - first:
+      213: 5548152520439495741
+    second: PC Computer - Undertale - Asgores Castle (1)_180
+  - first:
+      213: -6767941662016759092
+    second: PC Computer - Undertale - Asgores Castle (1)_181
+  - first:
+      213: -8135290119753097968
+    second: PC Computer - Undertale - Asgores Castle (1)_182
+  - first:
+      213: -2926907058949371180
+    second: PC Computer - Undertale - Asgores Castle (1)_183
+  - first:
+      213: -8839708925355475346
+    second: PC Computer - Undertale - Asgores Castle (1)_184
+  - first:
+      213: 8110359254671093475
+    second: PC Computer - Undertale - Asgores Castle (1)_185
+  - first:
+      213: -6864289892272498884
+    second: PC Computer - Undertale - Asgores Castle (1)_186
+  - first:
+      213: 7165129736753591230
+    second: PC Computer - Undertale - Asgores Castle (1)_187
+  - first:
+      213: -6111661330914798823
+    second: PC Computer - Undertale - Asgores Castle (1)_188
+  - first:
+      213: -3890631611284718909
+    second: PC Computer - Undertale - Asgores Castle (1)_189
+  - first:
+      213: 3850086730733794291
+    second: PC Computer - Undertale - Asgores Castle (1)_190
+  - first:
+      213: 6885137142032222806
+    second: PC Computer - Undertale - Asgores Castle (1)_191
+  - first:
+      213: -6134081050325252254
+    second: PC Computer - Undertale - Asgores Castle (1)_192
+  - first:
+      213: -1380824516898825476
+    second: PC Computer - Undertale - Asgores Castle (1)_193
+  - first:
+      213: 448015791106375490
+    second: PC Computer - Undertale - Asgores Castle (1)_194
+  - first:
+      213: 2863080832536717349
+    second: PC Computer - Undertale - Asgores Castle (1)_195
+  - first:
+      213: -406525381869525152
+    second: PC Computer - Undertale - Asgores Castle (1)_196
+  - first:
+      213: -6681550475533734758
+    second: PC Computer - Undertale - Asgores Castle (1)_197
+  - first:
+      213: -8412991055422629777
+    second: PC Computer - Undertale - Asgores Castle (1)_198
+  - first:
+      213: -4965935737992117300
+    second: PC Computer - Undertale - Asgores Castle (1)_199
+  - first:
+      213: 8684976599391748259
+    second: PC Computer - Undertale - Asgores Castle (1)_200
+  - first:
+      213: -4030510792965949160
+    second: PC Computer - Undertale - Asgores Castle (1)_201
+  - first:
+      213: 3429565324084120964
+    second: PC Computer - Undertale - Asgores Castle (1)_202
+  - first:
+      213: 683335541748849738
+    second: PC Computer - Undertale - Asgores Castle (1)_203
+  - first:
+      213: -276204415372427993
+    second: PC Computer - Undertale - Asgores Castle (1)_204
+  - first:
+      213: 3477461744226178597
+    second: PC Computer - Undertale - Asgores Castle (1)_205
+  - first:
+      213: -5941213142796442093
+    second: PC Computer - Undertale - Asgores Castle (1)_206
+  - first:
+      213: 9060120351975965686
+    second: PC Computer - Undertale - Asgores Castle (1)_207
+  - first:
+      213: 3645358727305597343
+    second: PC Computer - Undertale - Asgores Castle (1)_208
+  - first:
+      213: -8522592436061845796
+    second: PC Computer - Undertale - Asgores Castle (1)_209
+  - first:
+      213: 8593180630085452592
+    second: PC Computer - Undertale - Asgores Castle (1)_210
+  - first:
+      213: 6810017817587551907
+    second: PC Computer - Undertale - Asgores Castle (1)_211
+  - first:
+      213: -7913301948155914286
+    second: PC Computer - Undertale - Asgores Castle (1)_212
+  - first:
+      213: -1223470992977087358
+    second: PC Computer - Undertale - Asgores Castle (1)_213
+  - first:
+      213: -8290626281156330067
+    second: PC Computer - Undertale - Asgores Castle (1)_214
+  - first:
+      213: 5300462827833049618
+    second: PC Computer - Undertale - Asgores Castle (1)_215
+  - first:
+      213: -4668561508286696630
+    second: PC Computer - Undertale - Asgores Castle (1)_216
+  - first:
+      213: -6459325088657769560
+    second: PC Computer - Undertale - Asgores Castle (1)_217
+  - first:
+      213: -6277285391271584771
+    second: PC Computer - Undertale - Asgores Castle (1)_218
+  - first:
+      213: -8004924820013295839
+    second: PC Computer - Undertale - Asgores Castle (1)_219
+  - first:
+      213: 8781138287279584680
+    second: PC Computer - Undertale - Asgores Castle (1)_220
+  - first:
+      213: 2150582250198699488
+    second: PC Computer - Undertale - Asgores Castle (1)_221
+  - first:
+      213: -6629546969809702104
+    second: PC Computer - Undertale - Asgores Castle (1)_222
+  - first:
+      213: 8733145994995850210
+    second: PC Computer - Undertale - Asgores Castle (1)_223
+  - first:
+      213: -807263890741721885
+    second: PC Computer - Undertale - Asgores Castle (1)_224
+  - first:
+      213: 6114659465013916241
+    second: PC Computer - Undertale - Asgores Castle (1)_225
+  - first:
+      213: -1339719547763941218
+    second: PC Computer - Undertale - Asgores Castle (1)_226
+  - first:
+      213: -775030331581819759
+    second: PC Computer - Undertale - Asgores Castle (1)_227
+  - first:
+      213: -7062499929515679799
+    second: PC Computer - Undertale - Asgores Castle (1)_228
+  - first:
+      213: 5452056355601283696
+    second: PC Computer - Undertale - Asgores Castle (1)_229
+  - first:
+      213: 485645987374156864
+    second: PC Computer - Undertale - Asgores Castle (1)_230
+  - first:
+      213: -6662827434143596867
+    second: PC Computer - Undertale - Asgores Castle (1)_231
+  - first:
+      213: -4984607572892173609
+    second: PC Computer - Undertale - Asgores Castle (1)_232
+  - first:
+      213: 6931634528991122421
+    second: PC Computer - Undertale - Asgores Castle (1)_233
+  - first:
+      213: 9082457819240232749
+    second: PC Computer - Undertale - Asgores Castle (1)_234
+  - first:
+      213: 3219862768992432780
+    second: PC Computer - Undertale - Asgores Castle (1)_235
+  - first:
+      213: -5199918996627218689
+    second: PC Computer - Undertale - Asgores Castle (1)_236
+  - first:
+      213: 3431468342890667143
+    second: PC Computer - Undertale - Asgores Castle (1)_237
+  - first:
+      213: 7015913591071326926
+    second: PC Computer - Undertale - Asgores Castle (1)_238
+  - first:
+      213: -587684060416893625
+    second: PC Computer - Undertale - Asgores Castle (1)_239
+  - first:
+      213: 2675307612000803807
+    second: PC Computer - Undertale - Asgores Castle (1)_240
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 982
+        width: 322
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb560f0d5357ed10800000000000000
+      internalID: 2154782605869210623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_1
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1122
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9c1600f254a7ca0800000000000000
+      internalID: -6018421883855058463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_2
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1101
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f4f4957323629b0800000000000000
+      internalID: -5105337914274918536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1122
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c120733b37af297b0800000000000000
+      internalID: -5218833643334073828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_4
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1101
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d66cabeed16d840800000000000000
+      internalID: 5248415326919880027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_5
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1122
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d0430b8090df240800000000000000
+      internalID: 4827024308531629454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_6
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1101
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9cc0a352b00c9a0800000000000000
+      internalID: -6214955231255672396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1122
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5570aa24e068e83d0800000000000000
+      internalID: -3202474889207740587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1101
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79b9782b54018d50800000000000000
+      internalID: 6737671307090573695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_9
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1122
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdaff3a1e16cd54b0800000000000000
+      internalID: -5449982141456712993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_10
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1101
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0b22d71d7245210800000000000000
+      internalID: 1320724371427471584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_11
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1122
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7acbc4ccf457abb0800000000000000
+      internalID: -4924874222896166274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_12
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1101
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562950470b0101bc0800000000000000
+      internalID: -3814530534335999387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_13
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1122
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0424c59fbda2fbf0800000000000000
+      internalID: -291979987462642678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_14
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1101
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b843c9849160edc40800000000000000
+      internalID: 5538871297374434443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_15
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1122
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3702df17c892dd80800000000000000
+      internalID: -8227345588252702918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_16
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1101
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55233739156634e30800000000000000
+      internalID: 4486542154343330389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_17
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1122
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821c9aa5be9ff6f50800000000000000
+      internalID: 6876989945251741992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_18
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1101
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fcfb609ef2253d90800000000000000
+      internalID: -7118745159249167118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_19
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1122
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2931c4b1ecea51e80800000000000000
+      internalID: -8208462545568394350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_20
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1101
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bce6a7c4b374190800000000000000
+      internalID: -7978343015205909682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_21
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1023
+        width: 60
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa62e72f9a437240800000000000000
+      internalID: 4788252876254374642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_22
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1080
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee4db43c9fb0cb80800000000000000
+      internalID: -8376484629288497436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_23
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1059
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bed7a144be48fcd0800000000000000
+      internalID: -2524181055038562640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_24
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1080
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceea21969771f9fc0800000000000000
+      internalID: -3486041776340160788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_25
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1059
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8dd2e0d4857c0b80800000000000000
+      internalID: -8427231589416378993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_26
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1080
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b8ce99f972f2230800000000000000
+      internalID: 3616152592237497193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_27
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1059
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500a30e83d601d9a0800000000000000
+      internalID: -6210174905476734971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1080
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56426bd63aaeddf0800000000000000
+      internalID: -153498184698411427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_29
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1059
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b302a567f82a5c60800000000000000
+      internalID: 7807597947027325879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_30
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1080
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931e2e5e061a320c0800000000000000
+      internalID: -4601656956696731335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_31
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1059
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b6c2a1c143a1e30800000000000000
+      internalID: 4474946475048856430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_32
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1080
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85f1246cad6bede0800000000000000
+      internalID: -1302827080011876982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_33
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1059
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74639a73718190170800000000000000
+      internalID: 8145067889073403463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_34
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1080
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edc5a8607a9fcdf0800000000000000
+      internalID: -157737654351966747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_35
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1059
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70782108fb4eb2ac0800000000000000
+      internalID: -3878755142910966009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_36
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1080
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bcf2c6c00e63cf0800000000000000
+      internalID: -272784383450035394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_37
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1059
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdd0ed965796efd0800000000000000
+      internalID: -2312994960336429643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_38
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1080
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a713f9af83c52e6d0800000000000000
+      internalID: -2962704205063704198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_39
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1059
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ba13dfc7838f4a0800000000000000
+      internalID: -6559430747790136474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_40
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1080
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d0b4be84957ffc0800000000000000
+      internalID: -3461199618890855088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_41
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1059
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffcd68a2765a15a90800000000000000
+      internalID: -7326893256241390337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_42
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1022
+        width: 63
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d23381bd64eb5760800000000000000
+      internalID: 7447797568567980755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_43
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1038
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e241e2e78fa480130800000000000000
+      internalID: 3533156338801447982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_44
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1017
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88df916fb7668110800000000000000
+      internalID: 1262810817198282891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_45
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1038
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878a1e065f776a620800000000000000
+      internalID: 2785045315351324792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_46
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1017
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d8d6d296f44e970800000000000000
+      internalID: 8783232486431624462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_47
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1038
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778a0f5d5ad00e3f0800000000000000
+      internalID: -873683321799792521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_48
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1017
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca570aa4d542354f0800000000000000
+      internalID: -841288722285562452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_49
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1038
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c98f259518ca680800000000000000
+      internalID: -8742470555988878197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1017
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e77a69e5d1f3a510800000000000000
+      internalID: 1559355797046720487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_51
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1038
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df43d3e019a02cf0800000000000000
+      internalID: -279037286890123310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_52
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1017
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885977139d7949b10800000000000000
+      internalID: 1987380294670849416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_53
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1038
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2637b3ef690f33210800000000000000
+      internalID: 1311656447796015970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_54
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1017
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d8cc4407175dad0800000000000000
+      internalID: -2678109676397359834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_55
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1038
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a724b82c7695bf20800000000000000
+      internalID: 3437819350570248097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_56
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1017
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0b62243053b2960800000000000000
+      internalID: 7578209086091997347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_57
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1038
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713290b83de2b1d30800000000000000
+      internalID: 4403164546790400791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_58
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1017
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7114c3074709610800000000000000
+      internalID: 1625927490876807090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_59
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1038
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f88f08fe9fde720800000000000000
+      internalID: 2877230544015888204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_60
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1038
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5245413f99541f650800000000000000
+      internalID: 6264865084159579173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_61
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 996
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579867045182a3790800000000000000
+      internalID: -7549677753592280715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_62
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 996
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cb9d33873d74100800000000000000
+      internalID: 92274830603828340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_63
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 996
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be139c0acf4c53f0800000000000000
+      internalID: -910765295422726472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_64
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 996
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15cc76ee3841928b0800000000000000
+      internalID: -5176583739812623279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_65
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 996
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccefcf0a957fb2a90800000000000000
+      internalID: -7337499203545006388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_66
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 996
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1916e33522ef1f0a0800000000000000
+      internalID: -6849414134874873455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_67
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 996
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb72eb9e41693b90800000000000000
+      internalID: -7261665933907559430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_68
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1000
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d21ff9683b4af20800000000000000
+      internalID: 3433066206753533222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_69
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 996
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7493112a20c9a80800000000000000
+      internalID: -8458883105011709997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_70
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1017
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24342873d86c71200800000000000000
+      internalID: 150807422364173122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_71
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 996
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5563f6b1635bca590800000000000000
+      internalID: -7661549622070921643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_72
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 996
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec3f79d7e3cf8030800000000000000
+      internalID: 3499230836044020962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_73
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 996
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030ee21a64dd534e0800000000000000
+      internalID: -2002451163874664400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_74
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 996
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c4427b884024fb0800000000000000
+      internalID: -4665161278767739868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_75
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 996
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e33bef571b162ae0800000000000000
+      internalID: -1574541232511962142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_76
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 996
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417b6a855ef338c60800000000000000
+      internalID: 7819163632312694548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_77
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 975
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd6705eac194aac0800000000000000
+      internalID: -3844787881255670321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_78
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 975
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d979fb6455fd83ee0800000000000000
+      internalID: -1281028536634730595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_79
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 975
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51bb5870e0a790b0800000000000000
+      internalID: -5721927915598532262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_80
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 975
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c89aa1bb54148e60800000000000000
+      internalID: 7963512425153206473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_81
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 975
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4faf600a7bee484c0800000000000000
+      internalID: -4286038472918631692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_82
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 975
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f0123eec8d7f310800000000000000
+      internalID: 1438856989053620065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_83
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 975
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ba19bf7d542d1e0800000000000000
+      internalID: -2174598876125615337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_84
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 991
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf033da0512a3be0800000000000000
+      internalID: -1496847295760363605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_85
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 996
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb8ebdb50c260f40800000000000000
+      internalID: 5694287182026410982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_86
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 982
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95bf829c048d2d20800000000000000
+      internalID: 3255403295192102302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_87
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 982
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d018be7d2f4412b50800000000000000
+      internalID: 6566605541478203661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_88
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 968
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8014ee1a90f06f940800000000000000
+      internalID: 5329463743085429000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_89
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 982
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23ff49fb6be06840800000000000000
+      internalID: 5215427217471828782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_90
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 968
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7eefe26ad4483100800000000000000
+      internalID: 87895897487175290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_91
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 975
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f549708005cab00800000000000000
+      internalID: 841135225828564775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_92
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 875
+        width: 46
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1cd1cc31f91f99c0800000000000000
+      internalID: -3918384626891891684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_93
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 976
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902171525dde91310800000000000000
+      internalID: 1376392660844483081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_94
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 976
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c0a1c1692f31d90800000000000000
+      internalID: -7128087058666877931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_95
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 976
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55584ace4e12be370800000000000000
+      internalID: 8352807200995181909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_96
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 780
+        width: 23
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3b401cd20b7aae0800000000000000
+      internalID: -1538067037165407276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_97
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 780
+        width: 23
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47de01c3e5006ccd0800000000000000
+      internalID: -2538340935242027660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_98
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 947
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3062b454292b931f0800000000000000
+      internalID: -1064623495598889469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_99
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 947
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a9cf8041d4eee50800000000000000
+      internalID: 6840489632467819051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_100
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 947
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6046393e8181b30800000000000000
+      internalID: 4258180813388252916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_101
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 947
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464cc007cc71cd7b0800000000000000
+      internalID: -5198253703071742876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_102
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 947
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce4ef6b37dba4530800000000000000
+      internalID: 3840089936975777485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_103
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 821
+        width: 19
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d95ae28f640b64e0800000000000000
+      internalID: -1987489933569664555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_104
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 821
+        width: 39
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99480de5243e86e50800000000000000
+      internalID: 6802937111341204633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_105
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 821
+        width: 19
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c41ca3901c96860800000000000000
+      internalID: 7523756897883737160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_106
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 821
+        width: 19
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b982106cebc56a0800000000000000
+      internalID: -6459078007923893353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_107
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 821
+        width: 19
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdddd93444609b6b0800000000000000
+      internalID: -5280182197853233701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_108
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 830
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c838c28e83c48870800000000000000
+      internalID: 8684280998324091081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_109
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 830
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd39eeab6a079a50800000000000000
+      internalID: 6527697642509123032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_110
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 875
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f4653de26c18680800000000000000
+      internalID: -8754498296215089285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_111
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 830
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da3e15cab439e5e0800000000000000
+      internalID: -1879913392674817321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_112
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 875
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb565c103d75abe0800000000000000
+      internalID: -1466628458051904567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_113
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 830
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8e5fa0a234bcd60800000000000000
+      internalID: 7911491018257983676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_114
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 875
+        width: 65
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62bb7fe7446d5d60800000000000000
+      internalID: 7880565183091552875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_115
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 830
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755a1a3e87552e9b0800000000000000
+      internalID: -5052381854252817065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_116
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 830
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7bec6854c2d22a00800000000000000
+      internalID: 730377830326397818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_117
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 830
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a80601e9b457730800000000000000
+      internalID: 3996183386612861489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_118
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 660
+        width: 151
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f83ce61495902f0800000000000000
+      internalID: -1006174904174538922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_119
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 750
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470f2edea032e7470800000000000000
+      internalID: 8394185285312901236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_120
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 750
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c064c9ae0601c9bb0800000000000000
+      internalID: -4928045883811150324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_121
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 776
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b28da9052c32db0800000000000000
+      internalID: -4817793524905268408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_122
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 772
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ba184d14d456eb0800000000000000
+      internalID: -4727287288721986678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_123
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 776
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b47b348b825b0520800000000000000
+      internalID: 2669317963319571636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_124
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 772
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3873932cecf9250800000000000000
+      internalID: 5953704565986001824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_125
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 776
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c21b2bec7d526280800000000000000
+      internalID: -9051569509958479160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_126
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 772
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32416519ec1f049e0800000000000000
+      internalID: -1639044394858965981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_127
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 776
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e439ebc30689f520800000000000000
+      internalID: 2736365599468369128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_128
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 772
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd038b7ba69085c80800000000000000
+      internalID: -8333900756495617827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_129
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 776
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ff96c4fc2b57ea0800000000000000
+      internalID: -5875593535424954566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_130
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 772
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3255e74731b8ca10800000000000000
+      internalID: 1929987291315786299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_131
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 776
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2cd3d90dacb9590800000000000000
+      internalID: -7666310943328058702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_132
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 772
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffc48f0ce2a020c0800000000000000
+      internalID: -4602499684416303120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_133
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 729
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8417b29081c2ab50800000000000000
+      internalID: 6603052761640014990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_134
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 729
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c0f6918ae46aff0800000000000000
+      internalID: -25246264015778663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_135
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 750
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd703d0c349e3160800000000000000
+      internalID: 7007201055875300817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_136
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 750
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14be8a216a32d1c10800000000000000
+      internalID: 2025814603571194689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_137
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 729
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970ec278667e22f60800000000000000
+      internalID: 8008217514958708857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_138
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 729
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa8743d9c81290e0800000000000000
+      internalID: -2264720407501763852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_139
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 750
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2921efa139fd6e90800000000000000
+      internalID: -7030689451455993554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_140
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 729
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3be9bfeb378d6060800000000000000
+      internalID: 6948358491597302589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_141
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 750
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2224b2638ead7f6b0800000000000000
+      internalID: -5262496948683062750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_142
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 729
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f870c6170bc089230800000000000000
+      internalID: 3645677850313099151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_143
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 750
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5413fc592d57c8930800000000000000
+      internalID: 4146818904218349893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_144
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 729
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b895b41b4660f6d0800000000000000
+      internalID: -2958752482526390096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_145
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 750
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193b475e58d4ed520800000000000000
+      internalID: 2728703661708718993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_146
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 729
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4388cb2ff8fbf1170800000000000000
+      internalID: 8151444475537557556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_147
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 750
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da236dbe639998a0800000000000000
+      internalID: -6297840500067849514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_148
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 729
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc95a64a35d17b020800000000000000
+      internalID: 2357385175029668300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_149
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 750
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ae6533f454412d0800000000000000
+      internalID: -3308943619744404928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_150
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 729
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bed036d86fa5960800000000000000
+      internalID: 7591651208999070596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_151
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 750
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfed4e69ad9e79c00800000000000000
+      internalID: 907450974982168315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_152
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 729
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2a45a8fbbeef560800000000000000
+      internalID: 7349570849807311553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_153
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 750
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22083e1014831d800800000000000000
+      internalID: 635350874291666978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_154
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 729
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9347c86e1a963b20800000000000000
+      internalID: 3113845647770862491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_155
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 750
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df57dfaa1320c7ed0800000000000000
+      internalID: -2415052887832037891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_156
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 729
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc04277f087446b0800000000000000
+      internalID: -5312989652571648818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_157
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 708
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed45d44999120cda0800000000000000
+      internalID: -5926700166117763874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_158
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 687
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092d6180de7735ab0800000000000000
+      internalID: -5020537299661303152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_159
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 708
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a82acbfb0601a50800000000000000
+      internalID: 6489793439660673631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_160
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 687
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3982c647d2dfc8b0800000000000000
+      internalID: -5129649628504749764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_161
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 708
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2821012fb076440800000000000000
+      internalID: 4928921451459937010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_162
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 687
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f9d15f21a48f9c0800000000000000
+      internalID: -3893280432579567780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_163
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 708
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2994b75b70ec5c00800000000000000
+      internalID: 890833646669568302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_164
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 687
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00172b21c8879ea90800000000000000
+      internalID: -7284158379290627840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_165
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 708
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f4d982c12d4f0c0800000000000000
+      internalID: -4542775105727672479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_166
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 687
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d4fc05927b78ce0800000000000000
+      internalID: -1402951370825314984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_167
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 708
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb892bcebc325490800000000000000
+      internalID: -7759072417855992900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_168
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 687
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54aa100c94cfe0370800000000000000
+      internalID: 8290841357719808581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_169
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 708
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40eddb91c627d2130800000000000000
+      internalID: 3543614290424356356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_170
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 687
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a5ad449c6c494c0800000000000000
+      internalID: -4281578777976612339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_171
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 708
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9532dba053eb720800000000000000
+      internalID: 2863784733293369850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_172
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 687
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2273057157e4fdfd0800000000000000
+      internalID: -2315045418635872478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_173
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 708
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb70ac10ded2fcf0800000000000000
+      internalID: -219868446372889666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_174
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 687
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0627ca8debba15f60800000000000000
+      internalID: 8021381247490880096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_175
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 708
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf3a2d693ce3a0e0800000000000000
+      internalID: -2259702856621080655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_176
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 687
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477e13ff2023a5240800000000000000
+      internalID: 4781188942859986804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_177
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 687
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c84703b25fcf820800000000000000
+      internalID: 2953505021493545984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_178
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 709
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f689da359d602c740800000000000000
+      internalID: 5170702852656306287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_179
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 709
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f4d1f2ec31b8c40800000000000000
+      internalID: 5515523944919945093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_180
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 687
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3cfb7c625ffefc40800000000000000
+      internalID: 5548152520439495741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_181
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 708
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca9cee9ae07312a0800000000000000
+      internalID: -6767941662016759092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_182
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 687
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d1f5b1db4a91f80800000000000000
+      internalID: -8135290119753097968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_183
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 666
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da4dbc89898167d0800000000000000
+      internalID: -2926907058949371180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_184
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 645
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e3652319b035580800000000000000
+      internalID: -8839708925355475346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_185
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 645
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eee87785c8cd8070800000000000000
+      internalID: 8110359254671093475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_186
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 666
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c371bc726b42db0a0800000000000000
+      internalID: -6864289892272498884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_187
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 666
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb339c87887af6360800000000000000
+      internalID: 7165129736753591230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_188
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 645
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913155786640f2ba0800000000000000
+      internalID: -6111661330914798823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_189
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 666
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3caf779b923b10ac0800000000000000
+      internalID: -3890631611284718909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_190
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 645
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f335d3ab714e6530800000000000000
+      internalID: 3850086730733794291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_191
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 666
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65acdac60cbec8f50800000000000000
+      internalID: 6885137142032222806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_192
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 645
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26788e3d8cd5fdaa0800000000000000
+      internalID: -6134081050325252254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_193
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 666
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa5815fa6356dce0800000000000000
+      internalID: -1380824516898825476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_194
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 645
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f39a20dfba73600800000000000000
+      internalID: 448015791106375490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_195
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 666
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528a49219d4bbb720800000000000000
+      internalID: 2863080832536717349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_196
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 645
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067ac7da15bbb5af0800000000000000
+      internalID: -406525381869525152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_197
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 666
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c28fc2e3d5643a0800000000000000
+      internalID: -6681550475533734758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_198
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 645
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68def2853d0f3b80800000000000000
+      internalID: -8412991055422629777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_199
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 666
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc30097c1c3751bb0800000000000000
+      internalID: -4965935737992117300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_200
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 645
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a04351c33c378870800000000000000
+      internalID: 8684976599391748259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_201
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 666
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819f2e1d9cfb018c0800000000000000
+      internalID: -4030510792965949160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_202
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 645
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d080cdd73489f20800000000000000
+      internalID: 3429565324084120964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_203
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 666
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4cd6540e02bb7900800000000000000
+      internalID: 683335541748849738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_204
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 645
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72df4503c89ba2cf0800000000000000
+      internalID: -276204415372427993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_205
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 666
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5269c90380d624030800000000000000
+      internalID: 3477461744226178597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_206
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 645
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3166cb0ef129c8da0800000000000000
+      internalID: -5941213142796442093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_207
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 666
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f380d125730cbd70800000000000000
+      internalID: 9060120351975965686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_208
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 624
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f919be3d27ae69230800000000000000
+      internalID: 3645358727305597343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_209
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 624
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd64a13855ba9b980800000000000000
+      internalID: -8522592436061845796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_210
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 624
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033c203214c114770800000000000000
+      internalID: 8593180630085452592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_211
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 624
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae0363cf1b028e50800000000000000
+      internalID: 6810017817587551907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_212
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 624
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d792cbfdcd4e2290800000000000000
+      internalID: -7913301948155914286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_213
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 624
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2843b963d9b550fe0800000000000000
+      internalID: -1223470992977087358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_214
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 624
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadb82aa257c1fc80800000000000000
+      internalID: -8290626281156330067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_215
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 624
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212c62edbd60f8940800000000000000
+      internalID: 5300462827833049618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_216
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 624
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4372861b00f53fb0800000000000000
+      internalID: -4668561508286696630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_217
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 624
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abf8c90e0edb56a0800000000000000
+      internalID: -6459325088657769560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_218
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 626
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb1283f13a92e8a0800000000000000
+      internalID: -6277285391271584771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_219
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 624
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1275661c94bc8e090800000000000000
+      internalID: -8004924820013295839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_220
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 645
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5b1e07fbedcd970800000000000000
+      internalID: 8781138287279584680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_221
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 627
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed8a5b892768dd10800000000000000
+      internalID: 2150582250198699488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_222
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 603
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823b9b2e72e1ff3a0800000000000000
+      internalID: -6629546969809702104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_223
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 603
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb5a53230e523970800000000000000
+      internalID: 8733145994995850210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_224
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 603
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e40758b4c50cc4f0800000000000000
+      internalID: -807263890741721885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_225
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 603
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15272a6f262abd450800000000000000
+      internalID: 6114659465013916241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_226
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 603
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9022e06b2c586de0800000000000000
+      internalID: -1339719547763941218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_227
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 603
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19499eb050a8e35f0800000000000000
+      internalID: -775030331581819759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_228
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 603
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf1ffa9bb5fcfd90800000000000000
+      internalID: -7062499929515679799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_229
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 603
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a76038e5899ab40800000000000000
+      internalID: 5452056355601283696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_230
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 603
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cc704d37c5db600800000000000000
+      internalID: 485645987374156864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_231
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 603
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbeb424ffb1e883a0800000000000000
+      internalID: -6662827434143596867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_232
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 499
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da3a0172dd13dab0800000000000000
+      internalID: -4984607572892173609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_233
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 499
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f31955f0ec123060800000000000000
+      internalID: 6931634528991122421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_234
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 499
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d277843044f5b0e70800000000000000
+      internalID: 9082457819240232749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_235
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 499
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82bc4bf0204fac20800000000000000
+      internalID: 3219862768992432780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_236
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 338
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe9a31193d26d7b0800000000000000
+      internalID: -5199918996627218689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_237
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 338
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c1ff3f6460f9f20800000000000000
+      internalID: 3431468342890667143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_238
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 177
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec244aa3d388d5160800000000000000
+      internalID: 7015913591071326926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_239
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 16
+        width: 86
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d11b2f57028d7f0800000000000000
+      internalID: -587684060416893625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Asgores Castle (1)_240
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 16
+        width: 86
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbd436491a902520800000000000000
+      internalID: 2675307612000803807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC Computer - Undertale - Asgores Castle (1)_0: 2154782605869210623
+      PC Computer - Undertale - Asgores Castle (1)_1: -6018421883855058463
+      PC Computer - Undertale - Asgores Castle (1)_10: 1320724371427471584
+      PC Computer - Undertale - Asgores Castle (1)_100: 4258180813388252916
+      PC Computer - Undertale - Asgores Castle (1)_101: -5198253703071742876
+      PC Computer - Undertale - Asgores Castle (1)_102: 3840089936975777485
+      PC Computer - Undertale - Asgores Castle (1)_103: -1987489933569664555
+      PC Computer - Undertale - Asgores Castle (1)_104: 6802937111341204633
+      PC Computer - Undertale - Asgores Castle (1)_105: 7523756897883737160
+      PC Computer - Undertale - Asgores Castle (1)_106: -6459078007923893353
+      PC Computer - Undertale - Asgores Castle (1)_107: -5280182197853233701
+      PC Computer - Undertale - Asgores Castle (1)_108: 8684280998324091081
+      PC Computer - Undertale - Asgores Castle (1)_109: 6527697642509123032
+      PC Computer - Undertale - Asgores Castle (1)_11: -4924874222896166274
+      PC Computer - Undertale - Asgores Castle (1)_110: -8754498296215089285
+      PC Computer - Undertale - Asgores Castle (1)_111: -1879913392674817321
+      PC Computer - Undertale - Asgores Castle (1)_112: -1466628458051904567
+      PC Computer - Undertale - Asgores Castle (1)_113: 7911491018257983676
+      PC Computer - Undertale - Asgores Castle (1)_114: 7880565183091552875
+      PC Computer - Undertale - Asgores Castle (1)_115: -5052381854252817065
+      PC Computer - Undertale - Asgores Castle (1)_116: 730377830326397818
+      PC Computer - Undertale - Asgores Castle (1)_117: 3996183386612861489
+      PC Computer - Undertale - Asgores Castle (1)_118: -1006174904174538922
+      PC Computer - Undertale - Asgores Castle (1)_119: 8394185285312901236
+      PC Computer - Undertale - Asgores Castle (1)_12: -3814530534335999387
+      PC Computer - Undertale - Asgores Castle (1)_120: -4928045883811150324
+      PC Computer - Undertale - Asgores Castle (1)_121: -4817793524905268408
+      PC Computer - Undertale - Asgores Castle (1)_122: -4727287288721986678
+      PC Computer - Undertale - Asgores Castle (1)_123: 2669317963319571636
+      PC Computer - Undertale - Asgores Castle (1)_124: 5953704565986001824
+      PC Computer - Undertale - Asgores Castle (1)_125: -9051569509958479160
+      PC Computer - Undertale - Asgores Castle (1)_126: -1639044394858965981
+      PC Computer - Undertale - Asgores Castle (1)_127: 2736365599468369128
+      PC Computer - Undertale - Asgores Castle (1)_128: -8333900756495617827
+      PC Computer - Undertale - Asgores Castle (1)_129: -5875593535424954566
+      PC Computer - Undertale - Asgores Castle (1)_13: -291979987462642678
+      PC Computer - Undertale - Asgores Castle (1)_130: 1929987291315786299
+      PC Computer - Undertale - Asgores Castle (1)_131: -7666310943328058702
+      PC Computer - Undertale - Asgores Castle (1)_132: -4602499684416303120
+      PC Computer - Undertale - Asgores Castle (1)_133: 6603052761640014990
+      PC Computer - Undertale - Asgores Castle (1)_134: -25246264015778663
+      PC Computer - Undertale - Asgores Castle (1)_135: 7007201055875300817
+      PC Computer - Undertale - Asgores Castle (1)_136: 2025814603571194689
+      PC Computer - Undertale - Asgores Castle (1)_137: 8008217514958708857
+      PC Computer - Undertale - Asgores Castle (1)_138: -2264720407501763852
+      PC Computer - Undertale - Asgores Castle (1)_139: -7030689451455993554
+      PC Computer - Undertale - Asgores Castle (1)_14: 5538871297374434443
+      PC Computer - Undertale - Asgores Castle (1)_140: 6948358491597302589
+      PC Computer - Undertale - Asgores Castle (1)_141: -5262496948683062750
+      PC Computer - Undertale - Asgores Castle (1)_142: 3645677850313099151
+      PC Computer - Undertale - Asgores Castle (1)_143: 4146818904218349893
+      PC Computer - Undertale - Asgores Castle (1)_144: -2958752482526390096
+      PC Computer - Undertale - Asgores Castle (1)_145: 2728703661708718993
+      PC Computer - Undertale - Asgores Castle (1)_146: 8151444475537557556
+      PC Computer - Undertale - Asgores Castle (1)_147: -6297840500067849514
+      PC Computer - Undertale - Asgores Castle (1)_148: 2357385175029668300
+      PC Computer - Undertale - Asgores Castle (1)_149: -3308943619744404928
+      PC Computer - Undertale - Asgores Castle (1)_15: -8227345588252702918
+      PC Computer - Undertale - Asgores Castle (1)_150: 7591651208999070596
+      PC Computer - Undertale - Asgores Castle (1)_151: 907450974982168315
+      PC Computer - Undertale - Asgores Castle (1)_152: 7349570849807311553
+      PC Computer - Undertale - Asgores Castle (1)_153: 635350874291666978
+      PC Computer - Undertale - Asgores Castle (1)_154: 3113845647770862491
+      PC Computer - Undertale - Asgores Castle (1)_155: -2415052887832037891
+      PC Computer - Undertale - Asgores Castle (1)_156: -5312989652571648818
+      PC Computer - Undertale - Asgores Castle (1)_157: -5926700166117763874
+      PC Computer - Undertale - Asgores Castle (1)_158: -5020537299661303152
+      PC Computer - Undertale - Asgores Castle (1)_159: 6489793439660673631
+      PC Computer - Undertale - Asgores Castle (1)_16: 4486542154343330389
+      PC Computer - Undertale - Asgores Castle (1)_160: -5129649628504749764
+      PC Computer - Undertale - Asgores Castle (1)_161: 4928921451459937010
+      PC Computer - Undertale - Asgores Castle (1)_162: -3893280432579567780
+      PC Computer - Undertale - Asgores Castle (1)_163: 890833646669568302
+      PC Computer - Undertale - Asgores Castle (1)_164: -7284158379290627840
+      PC Computer - Undertale - Asgores Castle (1)_165: -4542775105727672479
+      PC Computer - Undertale - Asgores Castle (1)_166: -1402951370825314984
+      PC Computer - Undertale - Asgores Castle (1)_167: -7759072417855992900
+      PC Computer - Undertale - Asgores Castle (1)_168: 8290841357719808581
+      PC Computer - Undertale - Asgores Castle (1)_169: 3543614290424356356
+      PC Computer - Undertale - Asgores Castle (1)_17: 6876989945251741992
+      PC Computer - Undertale - Asgores Castle (1)_170: -4281578777976612339
+      PC Computer - Undertale - Asgores Castle (1)_171: 2863784733293369850
+      PC Computer - Undertale - Asgores Castle (1)_172: -2315045418635872478
+      PC Computer - Undertale - Asgores Castle (1)_173: -219868446372889666
+      PC Computer - Undertale - Asgores Castle (1)_174: 8021381247490880096
+      PC Computer - Undertale - Asgores Castle (1)_175: -2259702856621080655
+      PC Computer - Undertale - Asgores Castle (1)_176: 4781188942859986804
+      PC Computer - Undertale - Asgores Castle (1)_177: 2953505021493545984
+      PC Computer - Undertale - Asgores Castle (1)_178: 5170702852656306287
+      PC Computer - Undertale - Asgores Castle (1)_179: 5515523944919945093
+      PC Computer - Undertale - Asgores Castle (1)_18: -7118745159249167118
+      PC Computer - Undertale - Asgores Castle (1)_180: 5548152520439495741
+      PC Computer - Undertale - Asgores Castle (1)_181: -6767941662016759092
+      PC Computer - Undertale - Asgores Castle (1)_182: -8135290119753097968
+      PC Computer - Undertale - Asgores Castle (1)_183: -2926907058949371180
+      PC Computer - Undertale - Asgores Castle (1)_184: -8839708925355475346
+      PC Computer - Undertale - Asgores Castle (1)_185: 8110359254671093475
+      PC Computer - Undertale - Asgores Castle (1)_186: -6864289892272498884
+      PC Computer - Undertale - Asgores Castle (1)_187: 7165129736753591230
+      PC Computer - Undertale - Asgores Castle (1)_188: -6111661330914798823
+      PC Computer - Undertale - Asgores Castle (1)_189: -3890631611284718909
+      PC Computer - Undertale - Asgores Castle (1)_19: -8208462545568394350
+      PC Computer - Undertale - Asgores Castle (1)_190: 3850086730733794291
+      PC Computer - Undertale - Asgores Castle (1)_191: 6885137142032222806
+      PC Computer - Undertale - Asgores Castle (1)_192: -6134081050325252254
+      PC Computer - Undertale - Asgores Castle (1)_193: -1380824516898825476
+      PC Computer - Undertale - Asgores Castle (1)_194: 448015791106375490
+      PC Computer - Undertale - Asgores Castle (1)_195: 2863080832536717349
+      PC Computer - Undertale - Asgores Castle (1)_196: -406525381869525152
+      PC Computer - Undertale - Asgores Castle (1)_197: -6681550475533734758
+      PC Computer - Undertale - Asgores Castle (1)_198: -8412991055422629777
+      PC Computer - Undertale - Asgores Castle (1)_199: -4965935737992117300
+      PC Computer - Undertale - Asgores Castle (1)_2: -5105337914274918536
+      PC Computer - Undertale - Asgores Castle (1)_20: -7978343015205909682
+      PC Computer - Undertale - Asgores Castle (1)_200: 8684976599391748259
+      PC Computer - Undertale - Asgores Castle (1)_201: -4030510792965949160
+      PC Computer - Undertale - Asgores Castle (1)_202: 3429565324084120964
+      PC Computer - Undertale - Asgores Castle (1)_203: 683335541748849738
+      PC Computer - Undertale - Asgores Castle (1)_204: -276204415372427993
+      PC Computer - Undertale - Asgores Castle (1)_205: 3477461744226178597
+      PC Computer - Undertale - Asgores Castle (1)_206: -5941213142796442093
+      PC Computer - Undertale - Asgores Castle (1)_207: 9060120351975965686
+      PC Computer - Undertale - Asgores Castle (1)_208: 3645358727305597343
+      PC Computer - Undertale - Asgores Castle (1)_209: -8522592436061845796
+      PC Computer - Undertale - Asgores Castle (1)_21: 4788252876254374642
+      PC Computer - Undertale - Asgores Castle (1)_210: 8593180630085452592
+      PC Computer - Undertale - Asgores Castle (1)_211: 6810017817587551907
+      PC Computer - Undertale - Asgores Castle (1)_212: -7913301948155914286
+      PC Computer - Undertale - Asgores Castle (1)_213: -1223470992977087358
+      PC Computer - Undertale - Asgores Castle (1)_214: -8290626281156330067
+      PC Computer - Undertale - Asgores Castle (1)_215: 5300462827833049618
+      PC Computer - Undertale - Asgores Castle (1)_216: -4668561508286696630
+      PC Computer - Undertale - Asgores Castle (1)_217: -6459325088657769560
+      PC Computer - Undertale - Asgores Castle (1)_218: -6277285391271584771
+      PC Computer - Undertale - Asgores Castle (1)_219: -8004924820013295839
+      PC Computer - Undertale - Asgores Castle (1)_22: -8376484629288497436
+      PC Computer - Undertale - Asgores Castle (1)_220: 8781138287279584680
+      PC Computer - Undertale - Asgores Castle (1)_221: 2150582250198699488
+      PC Computer - Undertale - Asgores Castle (1)_222: -6629546969809702104
+      PC Computer - Undertale - Asgores Castle (1)_223: 8733145994995850210
+      PC Computer - Undertale - Asgores Castle (1)_224: -807263890741721885
+      PC Computer - Undertale - Asgores Castle (1)_225: 6114659465013916241
+      PC Computer - Undertale - Asgores Castle (1)_226: -1339719547763941218
+      PC Computer - Undertale - Asgores Castle (1)_227: -775030331581819759
+      PC Computer - Undertale - Asgores Castle (1)_228: -7062499929515679799
+      PC Computer - Undertale - Asgores Castle (1)_229: 5452056355601283696
+      PC Computer - Undertale - Asgores Castle (1)_23: -2524181055038562640
+      PC Computer - Undertale - Asgores Castle (1)_230: 485645987374156864
+      PC Computer - Undertale - Asgores Castle (1)_231: -6662827434143596867
+      PC Computer - Undertale - Asgores Castle (1)_232: -4984607572892173609
+      PC Computer - Undertale - Asgores Castle (1)_233: 6931634528991122421
+      PC Computer - Undertale - Asgores Castle (1)_234: 9082457819240232749
+      PC Computer - Undertale - Asgores Castle (1)_235: 3219862768992432780
+      PC Computer - Undertale - Asgores Castle (1)_236: -5199918996627218689
+      PC Computer - Undertale - Asgores Castle (1)_237: 3431468342890667143
+      PC Computer - Undertale - Asgores Castle (1)_238: 7015913591071326926
+      PC Computer - Undertale - Asgores Castle (1)_239: -587684060416893625
+      PC Computer - Undertale - Asgores Castle (1)_24: -3486041776340160788
+      PC Computer - Undertale - Asgores Castle (1)_240: 2675307612000803807
+      PC Computer - Undertale - Asgores Castle (1)_25: -8427231589416378993
+      PC Computer - Undertale - Asgores Castle (1)_26: 3616152592237497193
+      PC Computer - Undertale - Asgores Castle (1)_27: -6210174905476734971
+      PC Computer - Undertale - Asgores Castle (1)_28: -153498184698411427
+      PC Computer - Undertale - Asgores Castle (1)_29: 7807597947027325879
+      PC Computer - Undertale - Asgores Castle (1)_3: -5218833643334073828
+      PC Computer - Undertale - Asgores Castle (1)_30: -4601656956696731335
+      PC Computer - Undertale - Asgores Castle (1)_31: 4474946475048856430
+      PC Computer - Undertale - Asgores Castle (1)_32: -1302827080011876982
+      PC Computer - Undertale - Asgores Castle (1)_33: 8145067889073403463
+      PC Computer - Undertale - Asgores Castle (1)_34: -157737654351966747
+      PC Computer - Undertale - Asgores Castle (1)_35: -3878755142910966009
+      PC Computer - Undertale - Asgores Castle (1)_36: -272784383450035394
+      PC Computer - Undertale - Asgores Castle (1)_37: -2312994960336429643
+      PC Computer - Undertale - Asgores Castle (1)_38: -2962704205063704198
+      PC Computer - Undertale - Asgores Castle (1)_39: -6559430747790136474
+      PC Computer - Undertale - Asgores Castle (1)_4: 5248415326919880027
+      PC Computer - Undertale - Asgores Castle (1)_40: -3461199618890855088
+      PC Computer - Undertale - Asgores Castle (1)_41: -7326893256241390337
+      PC Computer - Undertale - Asgores Castle (1)_42: 7447797568567980755
+      PC Computer - Undertale - Asgores Castle (1)_43: 3533156338801447982
+      PC Computer - Undertale - Asgores Castle (1)_44: 1262810817198282891
+      PC Computer - Undertale - Asgores Castle (1)_45: 2785045315351324792
+      PC Computer - Undertale - Asgores Castle (1)_46: 8783232486431624462
+      PC Computer - Undertale - Asgores Castle (1)_47: -873683321799792521
+      PC Computer - Undertale - Asgores Castle (1)_48: -841288722285562452
+      PC Computer - Undertale - Asgores Castle (1)_49: -8742470555988878197
+      PC Computer - Undertale - Asgores Castle (1)_5: 4827024308531629454
+      PC Computer - Undertale - Asgores Castle (1)_50: 1559355797046720487
+      PC Computer - Undertale - Asgores Castle (1)_51: -279037286890123310
+      PC Computer - Undertale - Asgores Castle (1)_52: 1987380294670849416
+      PC Computer - Undertale - Asgores Castle (1)_53: 1311656447796015970
+      PC Computer - Undertale - Asgores Castle (1)_54: -2678109676397359834
+      PC Computer - Undertale - Asgores Castle (1)_55: 3437819350570248097
+      PC Computer - Undertale - Asgores Castle (1)_56: 7578209086091997347
+      PC Computer - Undertale - Asgores Castle (1)_57: 4403164546790400791
+      PC Computer - Undertale - Asgores Castle (1)_58: 1625927490876807090
+      PC Computer - Undertale - Asgores Castle (1)_59: 2877230544015888204
+      PC Computer - Undertale - Asgores Castle (1)_6: -6214955231255672396
+      PC Computer - Undertale - Asgores Castle (1)_60: 6264865084159579173
+      PC Computer - Undertale - Asgores Castle (1)_61: -7549677753592280715
+      PC Computer - Undertale - Asgores Castle (1)_62: 92274830603828340
+      PC Computer - Undertale - Asgores Castle (1)_63: -910765295422726472
+      PC Computer - Undertale - Asgores Castle (1)_64: -5176583739812623279
+      PC Computer - Undertale - Asgores Castle (1)_65: -7337499203545006388
+      PC Computer - Undertale - Asgores Castle (1)_66: -6849414134874873455
+      PC Computer - Undertale - Asgores Castle (1)_67: -7261665933907559430
+      PC Computer - Undertale - Asgores Castle (1)_68: 3433066206753533222
+      PC Computer - Undertale - Asgores Castle (1)_69: -8458883105011709997
+      PC Computer - Undertale - Asgores Castle (1)_7: -3202474889207740587
+      PC Computer - Undertale - Asgores Castle (1)_70: 150807422364173122
+      PC Computer - Undertale - Asgores Castle (1)_71: -7661549622070921643
+      PC Computer - Undertale - Asgores Castle (1)_72: 3499230836044020962
+      PC Computer - Undertale - Asgores Castle (1)_73: -2002451163874664400
+      PC Computer - Undertale - Asgores Castle (1)_74: -4665161278767739868
+      PC Computer - Undertale - Asgores Castle (1)_75: -1574541232511962142
+      PC Computer - Undertale - Asgores Castle (1)_76: 7819163632312694548
+      PC Computer - Undertale - Asgores Castle (1)_77: -3844787881255670321
+      PC Computer - Undertale - Asgores Castle (1)_78: -1281028536634730595
+      PC Computer - Undertale - Asgores Castle (1)_79: -5721927915598532262
+      PC Computer - Undertale - Asgores Castle (1)_8: 6737671307090573695
+      PC Computer - Undertale - Asgores Castle (1)_80: 7963512425153206473
+      PC Computer - Undertale - Asgores Castle (1)_81: -4286038472918631692
+      PC Computer - Undertale - Asgores Castle (1)_82: 1438856989053620065
+      PC Computer - Undertale - Asgores Castle (1)_83: -2174598876125615337
+      PC Computer - Undertale - Asgores Castle (1)_84: -1496847295760363605
+      PC Computer - Undertale - Asgores Castle (1)_85: 5694287182026410982
+      PC Computer - Undertale - Asgores Castle (1)_86: 3255403295192102302
+      PC Computer - Undertale - Asgores Castle (1)_87: 6566605541478203661
+      PC Computer - Undertale - Asgores Castle (1)_88: 5329463743085429000
+      PC Computer - Undertale - Asgores Castle (1)_89: 5215427217471828782
+      PC Computer - Undertale - Asgores Castle (1)_9: -5449982141456712993
+      PC Computer - Undertale - Asgores Castle (1)_90: 87895897487175290
+      PC Computer - Undertale - Asgores Castle (1)_91: 841135225828564775
+      PC Computer - Undertale - Asgores Castle (1)_92: -3918384626891891684
+      PC Computer - Undertale - Asgores Castle (1)_93: 1376392660844483081
+      PC Computer - Undertale - Asgores Castle (1)_94: -7128087058666877931
+      PC Computer - Undertale - Asgores Castle (1)_95: 8352807200995181909
+      PC Computer - Undertale - Asgores Castle (1)_96: -1538067037165407276
+      PC Computer - Undertale - Asgores Castle (1)_97: -2538340935242027660
+      PC Computer - Undertale - Asgores Castle (1)_98: -1064623495598889469
+      PC Computer - Undertale - Asgores Castle (1)_99: 6840489632467819051
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

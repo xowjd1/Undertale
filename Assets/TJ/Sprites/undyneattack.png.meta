@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: 79156f371c547e740a192c58ca6bd32e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3105282298620795892
+    second: undyneattack_0
+  - first:
+      213: 7789763373462716754
+    second: undyneattack_1
+  - first:
+      213: 3672429122257613923
+    second: undyneattack_2
+  - first:
+      213: 675066745631736791
+    second: undyneattack_3
+  - first:
+      213: -3031934916410714790
+    second: undyneattack_4
+  - first:
+      213: -3715523974151433308
+    second: undyneattack_5
+  - first:
+      213: -9139385974017124330
+    second: undyneattack_6
+  - first:
+      213: 8810409657563205640
+    second: undyneattack_7
+  - first:
+      213: 3793643935669349147
+    second: undyneattack_8
+  - first:
+      213: -9093744909536880595
+    second: undyneattack_9
+  - first:
+      213: -6982013177982604743
+    second: undyneattack_10
+  - first:
+      213: 433043289361287427
+    second: undyneattack_11
+  - first:
+      213: -7256646495368625301
+    second: undyneattack_12
+  - first:
+      213: -1072641580182258777
+    second: undyneattack_13
+  - first:
+      213: 5553497084412354702
+    second: undyneattack_14
+  - first:
+      213: -1068063514251127055
+    second: undyneattack_15
+  - first:
+      213: 6423030904611044433
+    second: undyneattack_16
+  - first:
+      213: 7928804415336542808
+    second: undyneattack_17
+  - first:
+      213: -4148803719950494761
+    second: undyneattack_18
+  - first:
+      213: 3046843381185441146
+    second: undyneattack_19
+  - first:
+      213: 6430841141234931128
+    second: undyneattack_20
+  - first:
+      213: -3743712651254016988
+    second: undyneattack_21
+  - first:
+      213: 7053512080497000277
+    second: undyneattack_22
+  - first:
+      213: -6418691607102834705
+    second: undyneattack_23
+  - first:
+      213: -8878635213331518056
+    second: undyneattack_24
+  - first:
+      213: 6664474223672195583
+    second: undyneattack_25
+  - first:
+      213: 534226683118586359
+    second: undyneattack_26
+  - first:
+      213: 6712913183753100342
+    second: undyneattack_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: undyneattack_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 83
+        width: 548
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbd9905ccd281b20800000000000000
+      internalID: 3105282298620795892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyneattack_1
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 83
+        width: 548
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2510897248cca1c60800000000000000
+      internalID: 7789763373462716754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyneattack_2
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 77
+        width: 16
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364f6fe44d617f230800000000000000
+      internalID: 3672429122257613923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyneattack_3
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 77
+        width: 16
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d30f05e0a15e5900800000000000000
+      internalID: 675066745631736791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyneattack_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 21
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a555c35e1476ce5d0800000000000000
+      internalID: -3031934916410714790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyneattack_5
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 21
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3914691aecf6cc0800000000000000
+      internalID: -3715523974151433308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyneattack_6
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 21
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618958111e06a2180800000000000000
+      internalID: -9139385974017124330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyneattack_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 21
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800d9bc67ecd44a70800000000000000
+      internalID: 8810409657563205640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyneattack_8
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 21
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1be2e55f0bb5a430800000000000000
+      internalID: 3793643935669349147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyneattack_9
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 21
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28990d7f278cc180800000000000000
+      internalID: -9093744909536880595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyneattack_10
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 21
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a2045c108ea1f90800000000000000
+      internalID: -6982013177982604743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyneattack_11
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 21
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3090fbac39a720600800000000000000
+      internalID: 433043289361287427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyneattack_12
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 21
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6348f6b5763b4b90800000000000000
+      internalID: -7256646495368625301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyneattack_13
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 21
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab3ce97a263d11f0800000000000000
+      internalID: -1072641580182258777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyneattack_14
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80e091bc2cf11d40800000000000000
+      internalID: 5553497084412354702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyneattack_15
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 20
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6918384e97d21f0800000000000000
+      internalID: -1068063514251127055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyneattack_16
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c72bab390332950800000000000000
+      internalID: 6423030904611044433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyneattack_17
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852fead6b95c80e60800000000000000
+      internalID: 7928804415336542808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyneattack_18
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3188d7ffc7c66c0800000000000000
+      internalID: -4148803719950494761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyneattack_19
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7deecd89ef884a20800000000000000
+      internalID: 3046843381185441146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyneattack_20
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5964622ffee3950800000000000000
+      internalID: 6430841141234931128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyneattack_21
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4245ed0cd29ab0cc0800000000000000
+      internalID: -3743712651254016988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyneattack_22
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f33f8bddb13e160800000000000000
+      internalID: 7053512080497000277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyneattack_23
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7bad3bdf93ce6a0800000000000000
+      internalID: -6418691607102834705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyneattack_24
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89da9138050c8c480800000000000000
+      internalID: -8878635213331518056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyneattack_25
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 20
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff97abc1ff7fc7c50800000000000000
+      internalID: 6664474223672195583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyneattack_26
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 8
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f981dc7654f96700800000000000000
+      internalID: 534226683118586359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyneattack_27
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63cd3ad59fe092d50800000000000000
+      internalID: 6712913183753100342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      undyneattack_0: 3105282298620795892
+      undyneattack_1: 7789763373462716754
+      undyneattack_10: -6982013177982604743
+      undyneattack_11: 433043289361287427
+      undyneattack_12: -7256646495368625301
+      undyneattack_13: -1072641580182258777
+      undyneattack_14: 5553497084412354702
+      undyneattack_15: -1068063514251127055
+      undyneattack_16: 6423030904611044433
+      undyneattack_17: 7928804415336542808
+      undyneattack_18: -4148803719950494761
+      undyneattack_19: 3046843381185441146
+      undyneattack_2: 3672429122257613923
+      undyneattack_20: 6430841141234931128
+      undyneattack_21: -3743712651254016988
+      undyneattack_22: 7053512080497000277
+      undyneattack_23: -6418691607102834705
+      undyneattack_24: -8878635213331518056
+      undyneattack_25: 6664474223672195583
+      undyneattack_26: 534226683118586359
+      undyneattack_27: 6712913183753100342
+      undyneattack_3: 675066745631736791
+      undyneattack_4: -3031934916410714790
+      undyneattack_5: -3715523974151433308
+      undyneattack_6: -9139385974017124330
+      undyneattack_7: 8810409657563205640
+      undyneattack_8: 3793643935669349147
+      undyneattack_9: -9093744909536880595
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

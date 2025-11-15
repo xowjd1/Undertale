@@ -1,0 +1,2782 @@
+fileFormatVersion: 2
+guid: 655fbd9ce8c12b94f92c6bb26c543f21
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2328752650970216052
+    second: undyne_0
+  - first:
+      213: -2003035658251511519
+    second: undyne_1
+  - first:
+      213: 1183532645898035368
+    second: undyne_2
+  - first:
+      213: 435266176012222623
+    second: undyne_3
+  - first:
+      213: 4529332404655143386
+    second: undyne_4
+  - first:
+      213: -1762318130956361989
+    second: undyne_5
+  - first:
+      213: -509965473335726238
+    second: undyne_6
+  - first:
+      213: 5210806362097053330
+    second: undyne_7
+  - first:
+      213: 6058412540748560446
+    second: undyne_8
+  - first:
+      213: -5906157376102372819
+    second: undyne_9
+  - first:
+      213: -46712732691349834
+    second: undyne_10
+  - first:
+      213: 8832783976547619970
+    second: undyne_11
+  - first:
+      213: -8341648659427266866
+    second: undyne_12
+  - first:
+      213: -6523715014576945556
+    second: undyne_13
+  - first:
+      213: 8690352137384856180
+    second: undyne_14
+  - first:
+      213: -4305223688737513119
+    second: undyne_15
+  - first:
+      213: -1684269700173171630
+    second: undyne_16
+  - first:
+      213: 656824704789785699
+    second: undyne_17
+  - first:
+      213: -6078029248048250442
+    second: undyne_18
+  - first:
+      213: 5458241880747487839
+    second: undyne_19
+  - first:
+      213: -1584809019916007442
+    second: undyne_20
+  - first:
+      213: -1936040357328886551
+    second: undyne_21
+  - first:
+      213: 5377296315172231766
+    second: undyne_22
+  - first:
+      213: 6126753256084305237
+    second: undyne_23
+  - first:
+      213: 6004707203894456222
+    second: undyne_24
+  - first:
+      213: -1763048296804963667
+    second: undyne_25
+  - first:
+      213: 1824101929619297361
+    second: undyne_26
+  - first:
+      213: -9177380006509956935
+    second: undyne_27
+  - first:
+      213: 7148579485562232762
+    second: undyne_28
+  - first:
+      213: -6009810205245851790
+    second: undyne_29
+  - first:
+      213: -4324650690069717809
+    second: undyne_30
+  - first:
+      213: 7889803318072784740
+    second: undyne_31
+  - first:
+      213: 7852658910228981736
+    second: undyne_32
+  - first:
+      213: 2236050871334792160
+    second: undyne_33
+  - first:
+      213: 3907428926216787753
+    second: undyne_34
+  - first:
+      213: -7333831803110769443
+    second: undyne_35
+  - first:
+      213: -6409761030730637295
+    second: undyne_36
+  - first:
+      213: 2025525014571032881
+    second: undyne_37
+  - first:
+      213: -7985378376478199290
+    second: undyne_38
+  - first:
+      213: -6464636905981252535
+    second: undyne_39
+  - first:
+      213: 5586548411681585083
+    second: undyne_40
+  - first:
+      213: 6747781663958842663
+    second: undyne_41
+  - first:
+      213: 4640094071218494391
+    second: undyne_42
+  - first:
+      213: -4837642142916265336
+    second: undyne_43
+  - first:
+      213: 8333037487383842263
+    second: undyne_44
+  - first:
+      213: 6166317540129488555
+    second: undyne_45
+  - first:
+      213: 1830729062224518552
+    second: undyne_46
+  - first:
+      213: 7746625032155365975
+    second: undyne_47
+  - first:
+      213: -5868084058820407165
+    second: undyne_48
+  - first:
+      213: -4977630629638941856
+    second: undyne_49
+  - first:
+      213: -2512033714881063648
+    second: undyne_50
+  - first:
+      213: -1989894896563348036
+    second: undyne_51
+  - first:
+      213: 3372469214467220041
+    second: undyne_52
+  - first:
+      213: -2038509019036196919
+    second: undyne_53
+  - first:
+      213: -8721470275277567541
+    second: undyne_54
+  - first:
+      213: -7116895385961410458
+    second: undyne_55
+  - first:
+      213: 8826032551695047075
+    second: undyne_56
+  - first:
+      213: -5517985125924115743
+    second: undyne_57
+  - first:
+      213: 3210525970269059625
+    second: undyne_58
+  - first:
+      213: -7584774046309658452
+    second: undyne_59
+  - first:
+      213: 1887080347205508279
+    second: undyne_60
+  - first:
+      213: -9103406403661619949
+    second: undyne_61
+  - first:
+      213: -7361791530569572010
+    second: undyne_62
+  - first:
+      213: 1488377007004050661
+    second: undyne_63
+  - first:
+      213: 5573431042376633839
+    second: undyne_64
+  - first:
+      213: -3990414733939991495
+    second: undyne_65
+  - first:
+      213: 4274461855911764616
+    second: undyne_66
+  - first:
+      213: 7257160870598323629
+    second: undyne_67
+  - first:
+      213: 7260206940171492749
+    second: undyne_68
+  - first:
+      213: 2427426333002202949
+    second: undyne_69
+  - first:
+      213: -6765280501158204438
+    second: undyne_70
+  - first:
+      213: -2682110226657602441
+    second: undyne_71
+  - first:
+      213: -3034408315153355074
+    second: undyne_72
+  - first:
+      213: -3856465778393022473
+    second: undyne_73
+  - first:
+      213: 7271740959233439407
+    second: undyne_74
+  - first:
+      213: 1252625633999520416
+    second: undyne_75
+  - first:
+      213: 439194876149747872
+    second: undyne_76
+  - first:
+      213: -2072656923753116462
+    second: undyne_77
+  - first:
+      213: 3754054399165648004
+    second: undyne_78
+  - first:
+      213: -3951972311154630962
+    second: undyne_79
+  - first:
+      213: -1437539962436120788
+    second: undyne_80
+  - first:
+      213: 1867449356363233440
+    second: undyne_81
+  - first:
+      213: 4972995102462695454
+    second: undyne_82
+  - first:
+      213: 4271036954902995841
+    second: undyne_83
+  - first:
+      213: 4659629155588948564
+    second: undyne_84
+  - first:
+      213: -2189137031581606604
+    second: undyne_85
+  - first:
+      213: 3458674677566004406
+    second: undyne_86
+  - first:
+      213: -990489753737942962
+    second: undyne_87
+  - first:
+      213: 4694150276263543816
+    second: undyne_88
+  - first:
+      213: -909315413186525607
+    second: undyne_89
+  - first:
+      213: -617660430343684411
+    second: undyne_90
+  - first:
+      213: 7833892260396413875
+    second: undyne_91
+  - first:
+      213: -8093727503946522978
+    second: undyne_92
+  - first:
+      213: -2150193504103394483
+    second: undyne_93
+  - first:
+      213: 7120812149293400896
+    second: undyne_94
+  - first:
+      213: -8119865185805940940
+    second: undyne_95
+  - first:
+      213: -6330901505906225046
+    second: undyne_96
+  - first:
+      213: -6399130277694913601
+    second: undyne_97
+  - first:
+      213: 1204463287870781101
+    second: undyne_98
+  - first:
+      213: 6976221827076400038
+    second: undyne_99
+  - first:
+      213: -1011669436635631042
+    second: undyne_100
+  - first:
+      213: -5264944863818458595
+    second: undyne_101
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: undyne_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 873
+        width: 166
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89cb2d5dcb9eafd0800000000000000
+      internalID: -2328752650970216052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_1
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 872
+        width: 166
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1295a7d6ea9c334e0800000000000000
+      internalID: -2003035658251511519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_2
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 873
+        width: 166
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0a4dabba0cc6010800000000000000
+      internalID: 1183532645898035368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_3
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 550
+        width: 84
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9083fbe7406a0600800000000000000
+      internalID: 435266176012222623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 550
+        width: 84
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9b22913db6bde30800000000000000
+      internalID: 4529332404655143386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 550
+        width: 84
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe9d1f3ffcfa87e0800000000000000
+      internalID: -1762318130956361989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_6
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 550
+        width: 85
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f2c1a9a1d3ce8f0800000000000000
+      internalID: -509965473335726238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_7
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 550
+        width: 87
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ee32e37c0805840800000000000000
+      internalID: 5210806362097053330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_8
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 550
+        width: 84
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38f6126b1ec31450800000000000000
+      internalID: 6058412540748560446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_9
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 550
+        width: 84
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a6dd9982d190ea0800000000000000
+      internalID: -5906157376102372819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_10
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 550
+        width: 84
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6beb171640b0a5ff0800000000000000
+      internalID: -46712732691349834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_11
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 550
+        width: 84
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28412e38a3a549a70800000000000000
+      internalID: 8832783976547619970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_12
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 550
+        width: 84
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece69bd7db28c3c80800000000000000
+      internalID: -8341648659427266866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_13
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 530
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66424422cb1775a0800000000000000
+      internalID: -6523715014576945556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_14
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 530
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a81e9b9355a9870800000000000000
+      internalID: 8690352137384856180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_15
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 530
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161243a7dd5c044c0800000000000000
+      internalID: -4305223688737513119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_16
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 530
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254793f91a540a8e0800000000000000
+      internalID: -1684269700173171630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_17
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 530
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c22b8c6928d1900800000000000000
+      internalID: 656824704789785699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_18
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 530
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b146a70a9086aba0800000000000000
+      internalID: -6078029248048250442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_19
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 530
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f523d1052129fbb40800000000000000
+      internalID: 5458241880747487839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_20
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 530
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee74213d790a10ae0800000000000000
+      internalID: -1584809019916007442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 408
+        width: 85
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e467967d8dc125e0800000000000000
+      internalID: -1936040357328886551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_22
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 407
+        width: 85
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a9bdd228eff9a40800000000000000
+      internalID: 5377296315172231766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_23
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 406
+        width: 86
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5557f5f10a9960550800000000000000
+      internalID: 6126753256084305237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_24
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 406
+        width: 86
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fab5c3361055350800000000000000
+      internalID: 6004707203894456222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_25
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 388
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa25134ae46887e0800000000000000
+      internalID: -1763048296804963667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_26
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 388
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154101d5a03805910800000000000000
+      internalID: 1824101929619297361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_27
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 388
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0b337028563a080800000000000000
+      internalID: -9177380006509956935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_28
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 388
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfd495da2bd43360800000000000000
+      internalID: 7148579485562232762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_29
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 388
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277bdcca57dd89ca0800000000000000
+      internalID: -6009810205245851790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_30
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 385
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc1fb04c11cbf3c0800000000000000
+      internalID: -4324650690069717809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_31
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 388
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4673d69d0563e7d60800000000000000
+      internalID: 7889803318072784740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_32
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 388
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e721867caf3afc60800000000000000
+      internalID: 7852658910228981736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_33
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 388
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebec9d9b6c080f10800000000000000
+      internalID: 2236050871334792160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_34
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 388
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927dc3ce7e9f93630800000000000000
+      internalID: 3907428926216787753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_35
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 388
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddcbe15d4def83a90800000000000000
+      internalID: -7333831803110769443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_36
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 388
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110a82c8d44fb07a0800000000000000
+      internalID: -6409761030730637295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_37
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 388
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131ac21e44c1c1c10800000000000000
+      internalID: 2025525014571032881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_38
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 385
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6027ee8ccac3e2190800000000000000
+      internalID: -7985378376478199290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_39
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 249
+        width: 273
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c6b113cfef846a0800000000000000
+      internalID: -6464636905981252535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_40
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 249
+        width: 273
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7bdce7e28678d40800000000000000
+      internalID: 5586548411681585083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_41
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 230
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d392e0cafe4ad50800000000000000
+      internalID: 6747781663958842663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_42
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 230
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbdf5739fce46040800000000000000
+      internalID: 4640094071218494391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_43
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 230
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a34091a1e3ddcb0800000000000000
+      internalID: -4837642142916265336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_44
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 230
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd0787c175e4a370800000000000000
+      internalID: 8333037487383842263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_45
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 230
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baebda7d129239550800000000000000
+      internalID: 6166317540129488555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_46
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 230
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d50e9e16e086910800000000000000
+      internalID: 1830729062224518552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_47
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 230
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75205c16c6a818b60800000000000000
+      internalID: 7746625032155365975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_48
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 230
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38090e193a0609ea0800000000000000
+      internalID: -5868084058820407165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_49
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 230
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0635441a057ebeab0800000000000000
+      internalID: -4977630629638941856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_50
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 230
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02595b845a6732dd0800000000000000
+      internalID: -2512033714881063648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_51
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 230
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd9afd62297264e0800000000000000
+      internalID: -1989894896563348036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_52
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 230
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9426248e1ea6dce20800000000000000
+      internalID: 3372469214467220041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_53
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 230
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfdae009d2c5b3e0800000000000000
+      internalID: -2038509019036196919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_54
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 230
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9c3f23efc17f680800000000000000
+      internalID: -8721470275277567541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_55
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 230
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66057287a55bb3d90800000000000000
+      internalID: -7116895385961410458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_56
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 230
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a951dbe7dd5c7a70800000000000000
+      internalID: 8826032551695047075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_57
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 230
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea676573cd2c63b0800000000000000
+      internalID: -5517985125924115743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_58
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 198
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92abd002c541e8c20800000000000000
+      internalID: 3210525970269059625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_59
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 197
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca05c14d0387db690800000000000000
+      internalID: -7584774046309658452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_60
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 206
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc1ecdd391403a10800000000000000
+      internalID: 1887080347205508279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_61
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 206
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d9bb79b143aa180800000000000000
+      internalID: -9103406403661619949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_62
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 198
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651ebed7b99a5d990800000000000000
+      internalID: -7361791530569572010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_63
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 206
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4e55a8007c7a410800000000000000
+      internalID: 1488377007004050661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 206
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed8ef4f00ec85d40800000000000000
+      internalID: 5573431042376633839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_65
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 197
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c950d01f23f98c0800000000000000
+      internalID: -3990414733939991495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_66
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 163
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882e39f2960f15b30800000000000000
+      internalID: 4274461855911764616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_67
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 162
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dada0e99c5d96b460800000000000000
+      internalID: 7257160870598323629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_68
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 171
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d5fb0febf61c460800000000000000
+      internalID: 7260206940171492749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_69
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 171
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f76098363ffa120800000000000000
+      internalID: 2427426333002202949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_70
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 133
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeba69a6a35ec12a0800000000000000
+      internalID: -6765280501158204438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_71
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 129
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77491a395fa37cad0800000000000000
+      internalID: -2682110226657602441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 135
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebeeacfd6bd93e5d0800000000000000
+      internalID: -3034408315153355074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_73
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 135
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fffe669ec41b7ac0800000000000000
+      internalID: -3856465778393022473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_74
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 43
+        width: 22
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa674c500e96ae460800000000000000
+      internalID: 7271740959233439407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_75
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2071f9068326110800000000000000
+      internalID: 1252625633999520416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_76
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 84
+        width: 60
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0d314b965581600800000000000000
+      internalID: 439194876149747872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_77
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 28
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc017e52817c33e0800000000000000
+      internalID: -2072656923753116462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_78
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 28
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cc2c11694191430800000000000000
+      internalID: 3754054399165648004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_79
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 28
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eced2771f16c729c0800000000000000
+      internalID: -3951972311154630962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_80
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 28
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f01944505dc0ce0800000000000000
+      internalID: -1437539962436120788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_81
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 28
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8ff02ab438ae910800000000000000
+      internalID: 1867449356363233440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_82
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 28
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18db0892b0a30540800000000000000
+      internalID: 4972995102462695454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_83
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 28
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1832f874b75c54b30800000000000000
+      internalID: 4271036954902995841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_84
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 28
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452ceeb77045aa040800000000000000
+      internalID: 4659629155588948564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_85
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 28
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ddce3e77f9e91e0800000000000000
+      internalID: -2189137031581606604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_86
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 28
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcd5fd5b4eafff20800000000000000
+      internalID: 3458674677566004406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_87
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 28
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4829ca11d21142f0800000000000000
+      internalID: -990489753737942962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_88
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 28
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8048dfa3ec8f42140800000000000000
+      internalID: 4694150276263543816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_89
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 28
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956ca3013767163f0800000000000000
+      internalID: -909315413186525607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_90
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 28
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cebc817c11ad67f0800000000000000
+      internalID: -617660430343684411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_91
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 28
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b33c9d418397bc60800000000000000
+      internalID: 7833892260396413875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_92
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 28
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e5572b7bd4daf80800000000000000
+      internalID: -8093727503946522978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_93
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 28
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d439095766af822e0800000000000000
+      internalID: -2150193504103394483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_94
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 28
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0434bee0ce432d260800000000000000
+      internalID: 7120812149293400896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_95
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 28
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437c9f762a1705f80800000000000000
+      internalID: -8119865185805940940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_96
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6059787f9e1428a0800000000000000
+      internalID: -6330901505906225046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_97
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb34c8e9ae8b137a0800000000000000
+      internalID: -6399130277694913601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_98
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da679829afc17b010800000000000000
+      internalID: 1204463287870781101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_99
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a327354ac480d060800000000000000
+      internalID: 6976221827076400038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_100
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32b637e104d5f1f0800000000000000
+      internalID: -1011669436635631042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undyne_101
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a551e8a882fe6b0800000000000000
+      internalID: -5264944863818458595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0f48ed03d10b4b54bbec5590cdd502a1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      undyne_0: -2328752650970216052
+      undyne_1: -2003035658251511519
+      undyne_10: -46712732691349834
+      undyne_100: -1011669436635631042
+      undyne_101: -5264944863818458595
+      undyne_11: 8832783976547619970
+      undyne_12: -8341648659427266866
+      undyne_13: -6523715014576945556
+      undyne_14: 8690352137384856180
+      undyne_15: -4305223688737513119
+      undyne_16: -1684269700173171630
+      undyne_17: 656824704789785699
+      undyne_18: -6078029248048250442
+      undyne_19: 5458241880747487839
+      undyne_2: 1183532645898035368
+      undyne_20: -1584809019916007442
+      undyne_21: -1936040357328886551
+      undyne_22: 5377296315172231766
+      undyne_23: 6126753256084305237
+      undyne_24: 6004707203894456222
+      undyne_25: -1763048296804963667
+      undyne_26: 1824101929619297361
+      undyne_27: -9177380006509956935
+      undyne_28: 7148579485562232762
+      undyne_29: -6009810205245851790
+      undyne_3: 435266176012222623
+      undyne_30: -4324650690069717809
+      undyne_31: 7889803318072784740
+      undyne_32: 7852658910228981736
+      undyne_33: 2236050871334792160
+      undyne_34: 3907428926216787753
+      undyne_35: -7333831803110769443
+      undyne_36: -6409761030730637295
+      undyne_37: 2025525014571032881
+      undyne_38: -7985378376478199290
+      undyne_39: -6464636905981252535
+      undyne_4: 4529332404655143386
+      undyne_40: 5586548411681585083
+      undyne_41: 6747781663958842663
+      undyne_42: 4640094071218494391
+      undyne_43: -4837642142916265336
+      undyne_44: 8333037487383842263
+      undyne_45: 6166317540129488555
+      undyne_46: 1830729062224518552
+      undyne_47: 7746625032155365975
+      undyne_48: -5868084058820407165
+      undyne_49: -4977630629638941856
+      undyne_5: -1762318130956361989
+      undyne_50: -2512033714881063648
+      undyne_51: -1989894896563348036
+      undyne_52: 3372469214467220041
+      undyne_53: -2038509019036196919
+      undyne_54: -8721470275277567541
+      undyne_55: -7116895385961410458
+      undyne_56: 8826032551695047075
+      undyne_57: -5517985125924115743
+      undyne_58: 3210525970269059625
+      undyne_59: -7584774046309658452
+      undyne_6: -509965473335726238
+      undyne_60: 1887080347205508279
+      undyne_61: -9103406403661619949
+      undyne_62: -7361791530569572010
+      undyne_63: 1488377007004050661
+      undyne_64: 5573431042376633839
+      undyne_65: -3990414733939991495
+      undyne_66: 4274461855911764616
+      undyne_67: 7257160870598323629
+      undyne_68: 7260206940171492749
+      undyne_69: 2427426333002202949
+      undyne_7: 5210806362097053330
+      undyne_70: -6765280501158204438
+      undyne_71: -2682110226657602441
+      undyne_72: -3034408315153355074
+      undyne_73: -3856465778393022473
+      undyne_74: 7271740959233439407
+      undyne_75: 1252625633999520416
+      undyne_76: 439194876149747872
+      undyne_77: -2072656923753116462
+      undyne_78: 3754054399165648004
+      undyne_79: -3951972311154630962
+      undyne_8: 6058412540748560446
+      undyne_80: -1437539962436120788
+      undyne_81: 1867449356363233440
+      undyne_82: 4972995102462695454
+      undyne_83: 4271036954902995841
+      undyne_84: 4659629155588948564
+      undyne_85: -2189137031581606604
+      undyne_86: 3458674677566004406
+      undyne_87: -990489753737942962
+      undyne_88: 4694150276263543816
+      undyne_89: -909315413186525607
+      undyne_9: -5906157376102372819
+      undyne_90: -617660430343684411
+      undyne_91: 7833892260396413875
+      undyne_92: -8093727503946522978
+      undyne_93: -2150193504103394483
+      undyne_94: 7120812149293400896
+      undyne_95: -8119865185805940940
+      undyne_96: -6330901505906225046
+      undyne_97: -6399130277694913601
+      undyne_98: 1204463287870781101
+      undyne_99: 6976221827076400038
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

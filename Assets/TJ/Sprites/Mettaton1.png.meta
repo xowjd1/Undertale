@@ -1,0 +1,1202 @@
+fileFormatVersion: 2
+guid: 8882f354926334b4dbf3557b561cbf41
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6693744228335131166
+    second: Mettaton1_0
+  - first:
+      213: -2386697957494135529
+    second: Mettaton1_1
+  - first:
+      213: 836515557366391652
+    second: Mettaton1_2
+  - first:
+      213: -2774286106198969986
+    second: Mettaton1_3
+  - first:
+      213: 448274807686564288
+    second: Mettaton1_4
+  - first:
+      213: -3956355006500795016
+    second: Mettaton1_5
+  - first:
+      213: -7913512519644705185
+    second: Mettaton1_6
+  - first:
+      213: 4986709240159505394
+    second: Mettaton1_7
+  - first:
+      213: -2754339315257929376
+    second: Mettaton1_8
+  - first:
+      213: 5197011518026056562
+    second: Mettaton1_9
+  - first:
+      213: -8278746760116239293
+    second: Mettaton1_10
+  - first:
+      213: 8037635254224008507
+    second: Mettaton1_11
+  - first:
+      213: -64742024301309582
+    second: Mettaton1_12
+  - first:
+      213: 7824792733585145962
+    second: Mettaton1_13
+  - first:
+      213: 5591284083543865383
+    second: Mettaton1_14
+  - first:
+      213: -6562593940347586153
+    second: Mettaton1_15
+  - first:
+      213: -2983080442819603844
+    second: Mettaton1_16
+  - first:
+      213: -7880142746892762927
+    second: Mettaton1_17
+  - first:
+      213: -6703539200721391730
+    second: Mettaton1_18
+  - first:
+      213: -5174921485790928643
+    second: Mettaton1_19
+  - first:
+      213: -5985356918183682547
+    second: Mettaton1_20
+  - first:
+      213: -2132441654999840148
+    second: Mettaton1_21
+  - first:
+      213: -7396826730763410190
+    second: Mettaton1_22
+  - first:
+      213: -3546021438341905883
+    second: Mettaton1_23
+  - first:
+      213: 9138017172414877646
+    second: Mettaton1_24
+  - first:
+      213: -7089667076030711518
+    second: Mettaton1_25
+  - first:
+      213: 2557881538903968988
+    second: Mettaton1_26
+  - first:
+      213: -4473433210942744464
+    second: Mettaton1_27
+  - first:
+      213: -261581010950546263
+    second: Mettaton1_28
+  - first:
+      213: 6123909265563881876
+    second: Mettaton1_29
+  - first:
+      213: 1680115674826770403
+    second: Mettaton1_30
+  - first:
+      213: 4233686956458361153
+    second: Mettaton1_31
+  - first:
+      213: 1795283573056559662
+    second: Mettaton1_32
+  - first:
+      213: 1123849283304667772
+    second: Mettaton1_33
+  - first:
+      213: 5386859601699707811
+    second: Mettaton1_34
+  - first:
+      213: 8751107724793798779
+    second: Mettaton1_35
+  - first:
+      213: 364640344392162224
+    second: Mettaton1_36
+  - first:
+      213: 6223110660701084233
+    second: Mettaton1_37
+  - first:
+      213: -8391591100316142334
+    second: Mettaton1_38
+  - first:
+      213: -5533500281247629958
+    second: Mettaton1_39
+  - first:
+      213: -3220590761759923587
+    second: Mettaton1_40
+  - first:
+      213: 6900595465090950225
+    second: Mettaton1_41
+  - first:
+      213: 6736720092402073807
+    second: Mettaton1_42
+  - first:
+      213: -7588517274426557392
+    second: Mettaton1_43
+  - first:
+      213: 4172428270254574281
+    second: Mettaton1_44
+  - first:
+      213: 5334572966805551042
+    second: Mettaton1_45
+  - first:
+      213: -7425825400106938076
+    second: Mettaton1_46
+  - first:
+      213: -1126845240200983119
+    second: Mettaton1_47
+  - first:
+      213: 5803752427880390882
+    second: Mettaton1_48
+  - first:
+      213: -8747204711652979653
+    second: Mettaton1_49
+  - first:
+      213: 7817544306602194486
+    second: Mettaton1_50
+  - first:
+      213: 4300822707631623337
+    second: Mettaton1_51
+  - first:
+      213: 3012596734116592754
+    second: Mettaton1_52
+  - first:
+      213: 5382479212704590447
+    second: Mettaton1_53
+  - first:
+      213: 1896684168570772768
+    second: Mettaton1_54
+  - first:
+      213: 3464703072292514353
+    second: Mettaton1_55
+  - first:
+      213: -2783657110692737614
+    second: Mettaton1_56
+  - first:
+      213: -7780480968796568204
+    second: Mettaton1_57
+  - first:
+      213: -4063391900510928137
+    second: Mettaton1_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mettaton1_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 920
+        width: 54
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e563ccd61b0b13a0800000000000000
+      internalID: -6693744228335131166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mettaton1_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 941
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71569695adeb0eed0800000000000000
+      internalID: -2386697957494135529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mettaton1_2
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 931
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46369e5a776eb9b00800000000000000
+      internalID: 836515557366391652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mettaton1_3
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 931
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7175b63c71cf79d0800000000000000
+      internalID: -2774286106198969986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mettaton1_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 811
+        width: 103
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3440bd13fabfb1d80800000000000000
+      internalID: -8278746760116239293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mettaton1_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 702
+        width: 102
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35bd22bdaa6b8f60800000000000000
+      internalID: 8037635254224008507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mettaton1_13
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 702
+        width: 104
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60866e988f379c60800000000000000
+      internalID: 7824792733585145962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mettaton1_14
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 702
+        width: 106
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7287de5004b389d40800000000000000
+      internalID: 5591284083543865383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mettaton1_15
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 702
+        width: 88
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7997374d49bfce4a0800000000000000
+      internalID: -6562593940347586153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mettaton1_16
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 702
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72925d6428f996d0800000000000000
+      internalID: -2983080442819603844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mettaton1_17
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 702
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d006182ceb14a290800000000000000
+      internalID: -7880142746892762927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mettaton1_22
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 575
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4abb74741395990800000000000000
+      internalID: -7396826730763410190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mettaton1_23
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 573
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52206b91a400acec0800000000000000
+      internalID: -3546021438341905883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mettaton1_24
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 466
+        width: 54
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf4539f332c0de70800000000000000
+      internalID: 9138017172414877646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mettaton1_25
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 489
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22938656b517c9d90800000000000000
+      internalID: -7089667076030711518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mettaton1_26
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 489
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc86e715bb6f7320800000000000000
+      internalID: 2557881538903968988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mettaton1_27
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 489
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0789257223c2be1c0800000000000000
+      internalID: -4473433210942744464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mettaton1_36
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 375
+        width: 88
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb554616767f0500800000000000000
+      internalID: 364640344392162224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mettaton1_38
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 375
+        width: 92
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205b355da541b8b80800000000000000
+      internalID: -8391591100316142334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mettaton1_40
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 398
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72256ef3c92e43d0800000000000000
+      internalID: -3220590761759923587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mettaton1_41
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 378
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154ea6bb307d3cf50800000000000000
+      internalID: 6900595465090950225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mettaton1_42
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 398
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0ccda3b33ad7d50800000000000000
+      internalID: 6736720092402073807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mettaton1_43
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 379
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03cb3ed9ebb20b690800000000000000
+      internalID: -7588517274426557392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mettaton1_44
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 397
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca4253c76177e930800000000000000
+      internalID: 4172428270254574281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mettaton1_45
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 397
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7b8da79d5380a40800000000000000
+      internalID: 5334572966805551042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mettaton1_46
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 397
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4219d8e642b22f890800000000000000
+      internalID: -7425825400106938076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mettaton1_47
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 397
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd0bfc6934ac50f0800000000000000
+      internalID: -1126845240200983119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mettaton1_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 288
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e02f1465121b8050800000000000000
+      internalID: 5803752427880390882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mettaton1_49
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 272
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c0d40d8afab9680800000000000000
+      internalID: -8747204711652979653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mettaton1_50
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 288
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636b6e2b02f7d7c60800000000000000
+      internalID: 7817544306602194486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mettaton1_51
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 273
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac015247779fab30800000000000000
+      internalID: 4300822707631623337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mettaton1_52
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 288
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c758ca4c4eec920800000000000000
+      internalID: 3012596734116592754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mettaton1_53
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 289
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a6e2c835862ba40800000000000000
+      internalID: 5382479212704590447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mettaton1_54
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 288
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d94c6c330625a10800000000000000
+      internalID: 1896684168570772768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mettaton1_55
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 288
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a23346619151030800000000000000
+      internalID: 3464703072292514353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mettaton1_56
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 80
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd4ba43b967e59d0800000000000000
+      internalID: -2783657110692737614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mettaton1_57
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475813918cd260490800000000000000
+      internalID: -7780480968796568204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mettaton1_58
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2c8d2689eeb97c0800000000000000
+      internalID: -4063391900510928137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 57faa587a557b1c49893b7733debc2d8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mettaton1_0: -6693744228335131166
+      Mettaton1_1: -2386697957494135529
+      Mettaton1_10: -8278746760116239293
+      Mettaton1_11: 8037635254224008507
+      Mettaton1_12: -64742024301309582
+      Mettaton1_13: 7824792733585145962
+      Mettaton1_14: 5591284083543865383
+      Mettaton1_15: -6562593940347586153
+      Mettaton1_16: -2983080442819603844
+      Mettaton1_17: -7880142746892762927
+      Mettaton1_18: -6703539200721391730
+      Mettaton1_19: -5174921485790928643
+      Mettaton1_2: 836515557366391652
+      Mettaton1_20: -5985356918183682547
+      Mettaton1_21: -2132441654999840148
+      Mettaton1_22: -7396826730763410190
+      Mettaton1_23: -3546021438341905883
+      Mettaton1_24: 9138017172414877646
+      Mettaton1_25: -7089667076030711518
+      Mettaton1_26: 2557881538903968988
+      Mettaton1_27: -4473433210942744464
+      Mettaton1_28: -261581010950546263
+      Mettaton1_29: 6123909265563881876
+      Mettaton1_3: -2774286106198969986
+      Mettaton1_30: 1680115674826770403
+      Mettaton1_31: 4233686956458361153
+      Mettaton1_32: 1795283573056559662
+      Mettaton1_33: 1123849283304667772
+      Mettaton1_34: 5386859601699707811
+      Mettaton1_35: 8751107724793798779
+      Mettaton1_36: 364640344392162224
+      Mettaton1_37: 6223110660701084233
+      Mettaton1_38: -8391591100316142334
+      Mettaton1_39: -5533500281247629958
+      Mettaton1_4: 448274807686564288
+      Mettaton1_40: -3220590761759923587
+      Mettaton1_41: 6900595465090950225
+      Mettaton1_42: 6736720092402073807
+      Mettaton1_43: -7588517274426557392
+      Mettaton1_44: 4172428270254574281
+      Mettaton1_45: 5334572966805551042
+      Mettaton1_46: -7425825400106938076
+      Mettaton1_47: -1126845240200983119
+      Mettaton1_48: 5803752427880390882
+      Mettaton1_49: -8747204711652979653
+      Mettaton1_5: -3956355006500795016
+      Mettaton1_50: 7817544306602194486
+      Mettaton1_51: 4300822707631623337
+      Mettaton1_52: 3012596734116592754
+      Mettaton1_53: 5382479212704590447
+      Mettaton1_54: 1896684168570772768
+      Mettaton1_55: 3464703072292514353
+      Mettaton1_56: -2783657110692737614
+      Mettaton1_57: -7780480968796568204
+      Mettaton1_58: -4063391900510928137
+      Mettaton1_6: -7913512519644705185
+      Mettaton1_7: 4986709240159505394
+      Mettaton1_8: -2754339315257929376
+      Mettaton1_9: 5197011518026056562
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
