@@ -62,7 +62,7 @@
 - **상태 전환 규칙**
   - 플레이어 턴에서 커맨드 처리 완료 시 → `EnemyTurnState`로 전환
   - 탄막 패턴이 끝나면 → 다시 `PlayerTurnState`로 전환
-  - 체력/조건 만족 시 → `EndState`(Victory/Spare/Defeat)로 전환
+  - 체력/조건 만족 시 → `EndState`(Victory/Defeat)로 전환
 
 ### 🎯 커맨드 UI & 전투 로직
 
